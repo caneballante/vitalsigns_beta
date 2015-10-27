@@ -24,8 +24,11 @@ $(function() {
 		<?php include 'includes/header.html' ?>
 		<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
 		<div id="vitalheadercontainer">
+		<div> <p>Lorem Gibson car engine RAF -space singularity beef noodles table tattoo -space sunglasses shoes systema. hotdog paranoid denim decay corporation systema voodoo god courier camera Chiba corporation render-farm. render-farm long-chain hydrocarbons car realism sign tiger-team faded euro-pop hacker computer assassin alcohol. 
+</p>
+<p>tube systema BASE jump dead crypto- tower hacker range-rover girl cardboard face forwards construct. garage wonton soup city ablative shanty town carbon network franchise katana motion tower carbon. boy Tokyo advert advert kanji nodality chrome Shibuya tanto sub-orbital gang sunglasses. </p></div>
 				<div class="vitalsigns">
-						<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="670" height="670" id="FlashID" title="Vital Signs">
+						<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="522" height="522" id="FlashID" title="Vital Signs">
 								<param name="movie" value="Vitalsigns.swf" />
 								<param name="quality" value="high" />
 								<param name="wmode" value="transparent" />
@@ -34,7 +37,7 @@ $(function() {
 								<param name="expressinstall" value="../Scripts/expressInstall.swf" />
 								<!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. --> 
 								<!--[if !IE]>-->
-								<object type="application/x-shockwave-flash" data="Vitalsigns.swf" width="670" height="670">
+								<object type="application/x-shockwave-flash" data="Vitalsigns.swf" width="522" height="522">
 										<!--<![endif]-->
 										<param name="quality" value="high" />
 										<param name="wmode" value="transparent" />
@@ -46,7 +49,7 @@ $(function() {
 								</object>
 								<!--<![endif]-->
 						</object>
-				</div>
+			</div>
 		</div>
 		<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
 		<div id="accordioncontainer">
