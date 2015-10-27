@@ -31,7 +31,7 @@ $(function() {
 								<div id="button3"><a href="http://www.psp.wa.gov/downloads/SOS2012/sos2012_110812pdfs/SOS2012_VS03_110812.pdf">Download PDF</a></div>
 						</div>
 				</div>
-				<div id="vitalheaderrightphoto"><span class="photoCredit">Photo Credit: Taylor Shellfish Farms</span></div>
+				<div id="vitalheaderrightphoto"><span class="underconstruction">The Puget Sound Vital Signs site is currently under construction. For the most recent data click here to download the 2015 State of the Sound report</span><span class="photoCredit">Photo Credit: Taylor Shellfish Farms</span></div>
 		</div>
 		<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
 		<div id="accordioncontainer">

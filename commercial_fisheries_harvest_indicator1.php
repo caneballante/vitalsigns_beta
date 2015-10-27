@@ -35,10 +35,10 @@ $(function() {
 						<div id="vitalbuttonscontainer">
 								<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas">View Projects</a></div>
 								<div id="button2"></div>
-								<div id="button3"><a href="../downloads/VS2013/commercial-harvest.pdf">Download PDF from the latest State of the Sound report</a></div>
+								
 						</div>
 				</div>
-				<div id="vitalheaderrightphoto"><span class="photoCredit">Data last updated on March 21, 2014<br />
+				<div id="vitalheaderrightphoto"><span class="underconstruction">The Puget Sound Vital Signs site is currently under construction. For the most recent data click here to download the 2015 State of the Sound report</span><span class="photoCredit">Data last updated on March 21, 2014<br />
                 Photo Credit: Cathleen Shattuck</span></div>
 		</div>
 		<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
