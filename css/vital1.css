@@ -400,7 +400,11 @@ li {
 	left: 602px;
 	width: 328px;
 	height: 20px;
-	padding: 220px 0 0 10px;
+	padding: 20px 0 0 10px;
+}
+.underconstruction {
+	font-size:13px;
+	font-weight:bold;
 }
 /*div hide css*/
 #morePara1 {
