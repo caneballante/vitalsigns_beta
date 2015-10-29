@@ -24,73 +24,70 @@ $(function() {
 </head>
 <body id="id04" >
 <div id="container">
-		<?php include 'includes/header.html' ?>
-				<!--*********************************TITLE BAR BEGIN*********************************-->
-		<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
-		<div id="vitalheadercontainer">
-				<div id="vitalheaderleftcontainer">
-						<div id="vitaltitle">Puget Sound Quality of Life Index</div>
-						<div id="vitalquote">We cannot underestimate or discount the many intangible contributions of the Sound to our quality of life</div>
-						<div id="vitalchampion"> </div>
-						<div id="vitalbuttonscontainer">
-								<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
-								<div id="button2"></div>
-								
-						</div>
-				</div>
-				<div id="vitalheaderrightphoto"><div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div><span class="photoCredit">Data last updated on March 21, 2014<br />
-                Photo Credit: Hugh Grew</span></div>
+	<?php include 'includes/header.html' ?>
+	<!--*********************************TITLE BAR BEGIN*********************************-->
+	<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
+	<div id="vitalheadercontainer">
+		<div id="vitalheaderleftcontainer">
+			<div id="vitaltitle">Puget Sound Quality of Life Index</div>
+			<div id="vitalquote">We cannot underestimate or discount the many intangible contributions of the Sound to our quality of life</div>
+			<div id="vitalchampion"> </div>
+			<div id="vitalbuttonscontainer">
+				<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
+				<div id="button2"></div>
+			</div>
 		</div>
-		<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
-					<!--*********************************TAB BEGIN*********************************-->
-		
-		<ul id="nav_indicator">
-				<li class="indicator_active_orange"><a href="puget_sound_quality_of_life_index.php">Vital Sign Overview<br />
-						<br />
-						<br />
-						</a> </li>
-				<li><a href="puget_sound_quality_of_life_index_indicator1.php">Indicator: Sound Quality of Life Index<br />
-						<br />
-				</a></li>
-		</ul>
-		<div class="clearfloat"></div>
-		
-		
-	<!--*********************************TAB END*********************************-->
-		
+		<div id="vitalheaderrightphoto">
+			<div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div>
+			<div class="photoCredit padding-top">Data last updated on March 21, 2014<br />
+			Photo Credit: Hugh Grew</div></div>
+	</div>
+	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
+	<!--*********************************TAB BEGIN*********************************-->
 	
-		<!--*********************************TITLE BAR BEGIN*********************************-->
-		<div id="accordioncontainer">
-				<div id="accordion">
-				
-				<!--*********************************FOLD 01*********************************-->
-				<h3><a href="#">Importance to Puget Sound recovery</a></h3>
-						<div>
-								
-								<p>Recovering the Puget Sound ecosystem will reap many benefits—both tangible and intangible—for all of our residents. Whether we are employed in a marine industry, celebrating our cultural traditions, boating, or simply enjoying the scenic views, we receive gifts from Puget Sound that are part of the reason that we want to live here. A healthy Puget Sound includes a thriving natural world, a vibrant economy, and a high quality of life for people.</p>
-								<p>The Puget Sound Partnership is working on a region-wide Quality of Life Index that will assign a numeric value to these intangible benefits, combining attributes related to aesthetics, culture, recreation, and the economy. Work on defining the specific items to be included in the Quality of Life Index is underway and will seek input from a number of interest groups, as well as be informed by related efforts taking place at the local level. The Quality of Life Index will be presented to the Leadership Council in 2013, and its targets will be identified soon after.</p>
-								</p>
-						</div>
-						
+	<ul id="nav_indicator">
+		<li class="indicator_active_orange"><a href="puget_sound_quality_of_life_index.php">Vital Sign Overview<br />
+			<br />
+			<br />
+			</a> </li>
+		<li><a href="puget_sound_quality_of_life_index_indicator1.php">Indicator: Sound Quality of Life Index<br />
+			<br />
+			</a></li>
+	</ul>
+	<div class="clearfloat"></div>
+	
+	<!--*********************************TAB END*********************************--> 
+	
+	<!--*********************************TITLE BAR BEGIN*********************************-->
+	<div id="accordioncontainer">
+		<div id="accordion"> 
 			
-						
-							<!--*********************************FOLD 04*********************************-->
-						<h3><a href="#!">What you can do</a></h3>
-						<div>
-								<h5>Coming Soon</h5>
-						</div>
-							<!--*********************************FOLD 05*********************************-->
-						<h3><a href="#!">What our partners are doing</a></h3>
-						<div><p><a href="http://gismanager.rco.wa.gov/ntaportal/?VitalSign=Quality+of+Life+Index">View Near Term Actions helping to advance this Vital Sign</a></p>
-						</div>
-							<!--*********************************FOLD 06*********************************-->
-						<h3><a href="#!">Links for more information</a></h3>
-						<div>
-								<h5>Coming soon</h5>
-						</div>
-				</div>
+			<!--*********************************FOLD 01*********************************-->
+			<h3><a href="#">Importance to Puget Sound recovery</a></h3>
+			<div>
+				<p>Recovering the Puget Sound ecosystem will reap many benefits—both tangible and intangible—for all of our residents. Whether we are employed in a marine industry, celebrating our cultural traditions, boating, or simply enjoying the scenic views, we receive gifts from Puget Sound that are part of the reason that we want to live here. A healthy Puget Sound includes a thriving natural world, a vibrant economy, and a high quality of life for people.</p>
+				<p>The Puget Sound Partnership is working on a region-wide Quality of Life Index that will assign a numeric value to these intangible benefits, combining attributes related to aesthetics, culture, recreation, and the economy. Work on defining the specific items to be included in the Quality of Life Index is underway and will seek input from a number of interest groups, as well as be informed by related efforts taking place at the local level. The Quality of Life Index will be presented to the Leadership Council in 2013, and its targets will be identified soon after.</p>
+				</p>
+			</div>
+			
+			<!--*********************************FOLD 04*********************************-->
+			<h3><a href="#!">What you can do</a></h3>
+			<div>
+				<h5>Coming Soon</h5>
+			</div>
+			<!--*********************************FOLD 05*********************************-->
+			<h3><a href="#!">What our partners are doing</a></h3>
+			<div>
+				<p><a href="http://gismanager.rco.wa.gov/ntaportal/?VitalSign=Quality+of+Life+Index">View Near Term Actions helping to advance this Vital Sign</a></p>
+			</div>
+			<!--*********************************FOLD 06*********************************-->
+			<h3><a href="#!">Links for more information</a></h3>
+			<div>
+				<h5>Coming soon</h5>
+			</div>
 		</div>
-		<?php include 'includes/footer.html' ?>
+	</div>
+	<?php include 'includes/footer.html' ?>
 </div>
 <script type="text/javascript">
 

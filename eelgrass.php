@@ -28,82 +28,78 @@ $(function() {
 <!--*********************************TITLE BAR BEGIN*********************************-->
 <div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
 <div id="vitalheadercontainer">
-		<div id="vitalheaderleftcontainer">
-				<div id="vitaltitle">Eelgrass</div>
-				<div id="vitalquote">Eelgrass and other seagrass species are used as indicators of estuarine health throughout the world.</div>
-				<div id="vitalchampion">Indicator Lead: Bart Christiaen, Washington State Department of Natural Resources </div>
-				<div id="vitalbuttonscontainer">
-						<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
-						<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&Quarter=10&Vital%20Sign=Eelgrass" target="_blank">View Report Card</a></div>
-					
-				</div>
+	<div id="vitalheaderleftcontainer">
+		<div id="vitaltitle">Eelgrass</div>
+		<div id="vitalquote">Eelgrass and other seagrass species are used as indicators of estuarine health throughout the world.</div>
+		<div id="vitalchampion">Indicator Lead: Bart Christiaen, Washington State Department of Natural Resources </div>
+		<div id="vitalbuttonscontainer">
+			<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
+			<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&Quarter=10&Vital%20Sign=Eelgrass" target="_blank">View Report Card</a></div>
 		</div>
-		<div id="vitalheaderrightphoto"><div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div><span class="photoCredit">Data last updated on March 25, 2015</span></div>
-		
+	</div>
+	<div id="vitalheaderrightphoto">
+		<div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div>
+		<div class="photoCredit padding-top">Data last updated on March 25, 2015</div></div>
 </div>
 <div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
 <!--*********************************TAB BEGIN*********************************-->
 
 <ul id="nav_indicator">
-		<li class="indicator_active_purp"><a href="eelgrass.php">Vital Sign: Overview<br />
-				<br />
-				<br />
-				</a></li>
-		<li ><a href="eelgrass_indicator1.php">Indicator: <br />
-				Eelgrass area<br />
-				<br />
-				</a></li>
+	<li class="indicator_active_purp"><a href="eelgrass.php">Vital Sign: Overview<br />
+		<br />
+		<br />
+		</a></li>
+	<li ><a href="eelgrass_indicator1.php">Indicator: <br />
+		Eelgrass area<br />
+		<br />
+		</a></li>
 </ul>
 <div class="clearfloat"></div>
 <!--*********************************TAB END*********************************--> 
 <!--*********************************TITLE BAR END*********************************-->
 <div id="accordioncontainer">
-		<div id="accordion"> 
-				
-				<!--*********************************FOLD 01*********************************-->
-				<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
-				<div>
-						<p>Eelgrass (<em>Zostera marina</em>) grows in the shallow waters of Puget Sound. This important marine plant serves as food source, nursery, and haven for birds, fish, crabs, shellfish, and other marine organisms. Eelgrass meadows can locally reduce the effects of ocean acidification, and play an important role in carbon cycling.  Eelgrass also filters sediments and nutrients, improving water clarity, and stabilizes the sea floor, which protects shorelines from erosion.</p>
-						<p>Eelgrass is valuable to the health of Puget Sound not only for the ecosystem functions it provides, but because it is sensitive to environmental stressors. Eelgrass health is an indicator of changing conditions in our watersheds and estuaries.</p>
-						<p> Although some larger eelgrass beds in Puget Sound are stable, several of the smaller, fringing beds have been changing over time. Some have been increasing, while others show a sharp decline. The reasons for these patterns are not yet fully understood, but local stressors such as shoreline alteration, pollution, and direct physical damage are likely to have a major impact on eelgrass beds in many locations.</p>
-				</div>
-				
-				<!--*********************************FOLD 04*********************************-->
-				<h3><a href="#!">What you can do</a></h3>
-				<div>
-						<ol>
-								<li>Avoid impacting eelgrass during dock construction, renovations or shoreline development.</li>
-								<li>Avoid damaging eelgrass by anchoring at an appropriate distance away from eelgrass beds. </li>
-								<li>Minimize the use of propellers close to eelgrass and avoid creating high-energy boat wakes near the shoreline. </li>
-								<li>Minimize shoreline alterations to preserve natural shoreline conditions for eelgrass growth.</li>
-								<li>Visit the new eelgrass-friendly demonstration deck at the <a href="http://www.nwmaritime.org/">Maritime Center in Port Townsend</a> to learn more about building eelgrass-friendly docks. </li>
-						</ol>
-				</div>
-				<!--*********************************FOLD 05*********************************-->
-				<h3><a href="#!">What our partners are doing</a></h3>
-				<div>
-						<p><a href="http://gismanager.rco.wa.gov/ntaportal/?VitalSign=Eelgrass">View Near Term Actions helping to advance this Vital Sign</a></p>
-				</div>
-				<!--*********************************FOLD 06*********************************-->
-				<h3><a href="#!">Links for more information</a></h3>
-				<div>
-						<p><a href="http://www.dnr.wa.gov/ResearchScience/Topics/AquaticHabitats/Pages/aqr_nrsh_eelgrass_monitoring.aspx" target="_blank">Washington State Department of Natural Resources: Nearshore Habitat Eelgrass Monitoring</a></p>
-						<p> <a href="https://app.box.com/s/atxvdl29ws18zz32i2bg2vn9gt41efn2" target="_blank">Developing Indicators and Targets for Eelgrass in Puget Sound: a Science Assessment. 2010. </a> </p>
-						<p> <a href="https://app.box.com/s/6gmt1o6k0edx6g5lk69y2kkh6lre9uii" target="_blank">Puget Sound Submerged Vegetation Monitoring Program: 2010-2013 Report. February 2015.</a></p>
-						<p> <a href="https://app.box.com/s/apbquqgs0xpmknc3qu2zqwh2vjvljmxm" target="_blank"> Submerged Vegetation Monitoring Program:  Geospatial Database User Manual</a></p>
-						<p><a href="http://www.ecy.wa.gov/programs/sea/pugetsound/species/eelgrass.html" target="_blank">Washington State Department of Ecology: Puget Sound Shorelines</a></p>
-						<p> <a href="http://wdfw.wa.gov/conservation/research/projects/hydraulic_program_compliance/eelgrass/index.html" target="_blank">Washington State Department of Fish and Wildlife: Hydraulic Program Compliance and Effectiveness:&nbsp; Determining Sufficient Sample Size for Eelgrass Monitoring</a></p>
-						<p><a href="http://www.results.wa.gov/what-we-do/measure-results/sustainable-energy-clean-environment/goal-map#goalTab04" target="_blank">Results Washington Eelgrass goal</a></p>
-						<p> <a href="https://data.results.wa.gov/reports/G3-4-3-e-Eelgrass-Beds-1">Results Washington Eelgrass Findings </a></p>
-						
-						
-						
-
-
-
-			<p>	<a href="https://app.box.com/shared/static/3ocr4kw79m4ax7lnfkff15z5mpb6gb9q.pdf">Puget Sound Eelgrass Recovery Strategy March 2015</a> <p></div>
+	<div id="accordion"> 
+		
+		<!--*********************************FOLD 01*********************************-->
+		<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
+		<div>
+			<p>Eelgrass (<em>Zostera marina</em>) grows in the shallow waters of Puget Sound. This important marine plant serves as food source, nursery, and haven for birds, fish, crabs, shellfish, and other marine organisms. Eelgrass meadows can locally reduce the effects of ocean acidification, and play an important role in carbon cycling.  Eelgrass also filters sediments and nutrients, improving water clarity, and stabilizes the sea floor, which protects shorelines from erosion.</p>
+			<p>Eelgrass is valuable to the health of Puget Sound not only for the ecosystem functions it provides, but because it is sensitive to environmental stressors. Eelgrass health is an indicator of changing conditions in our watersheds and estuaries.</p>
+			<p> Although some larger eelgrass beds in Puget Sound are stable, several of the smaller, fringing beds have been changing over time. Some have been increasing, while others show a sharp decline. The reasons for these patterns are not yet fully understood, but local stressors such as shoreline alteration, pollution, and direct physical damage are likely to have a major impact on eelgrass beds in many locations.</p>
 		</div>
-		<?php include 'includes/footer.html' ?>
+		
+		<!--*********************************FOLD 04*********************************-->
+		<h3><a href="#!">What you can do</a></h3>
+		<div>
+			<ol>
+				<li>Avoid impacting eelgrass during dock construction, renovations or shoreline development.</li>
+				<li>Avoid damaging eelgrass by anchoring at an appropriate distance away from eelgrass beds. </li>
+				<li>Minimize the use of propellers close to eelgrass and avoid creating high-energy boat wakes near the shoreline. </li>
+				<li>Minimize shoreline alterations to preserve natural shoreline conditions for eelgrass growth.</li>
+				<li>Visit the new eelgrass-friendly demonstration deck at the <a href="http://www.nwmaritime.org/">Maritime Center in Port Townsend</a> to learn more about building eelgrass-friendly docks. </li>
+			</ol>
+		</div>
+		<!--*********************************FOLD 05*********************************-->
+		<h3><a href="#!">What our partners are doing</a></h3>
+		<div>
+			<p><a href="http://gismanager.rco.wa.gov/ntaportal/?VitalSign=Eelgrass">View Near Term Actions helping to advance this Vital Sign</a></p>
+		</div>
+		<!--*********************************FOLD 06*********************************-->
+		<h3><a href="#!">Links for more information</a></h3>
+		<div>
+			<p><a href="http://www.dnr.wa.gov/ResearchScience/Topics/AquaticHabitats/Pages/aqr_nrsh_eelgrass_monitoring.aspx" target="_blank">Washington State Department of Natural Resources: Nearshore Habitat Eelgrass Monitoring</a></p>
+			<p> <a href="https://app.box.com/s/atxvdl29ws18zz32i2bg2vn9gt41efn2" target="_blank">Developing Indicators and Targets for Eelgrass in Puget Sound: a Science Assessment. 2010. </a> </p>
+			<p> <a href="https://app.box.com/s/6gmt1o6k0edx6g5lk69y2kkh6lre9uii" target="_blank">Puget Sound Submerged Vegetation Monitoring Program: 2010-2013 Report. February 2015.</a></p>
+			<p> <a href="https://app.box.com/s/apbquqgs0xpmknc3qu2zqwh2vjvljmxm" target="_blank"> Submerged Vegetation Monitoring Program:  Geospatial Database User Manual</a></p>
+			<p><a href="http://www.ecy.wa.gov/programs/sea/pugetsound/species/eelgrass.html" target="_blank">Washington State Department of Ecology: Puget Sound Shorelines</a></p>
+			<p> <a href="http://wdfw.wa.gov/conservation/research/projects/hydraulic_program_compliance/eelgrass/index.html" target="_blank">Washington State Department of Fish and Wildlife: Hydraulic Program Compliance and Effectiveness:&nbsp; Determining Sufficient Sample Size for Eelgrass Monitoring</a></p>
+			<p><a href="http://www.results.wa.gov/what-we-do/measure-results/sustainable-energy-clean-environment/goal-map#goalTab04" target="_blank">Results Washington Eelgrass goal</a></p>
+			<p> <a href="https://data.results.wa.gov/reports/G3-4-3-e-Eelgrass-Beds-1">Results Washington Eelgrass Findings </a></p>
+			<p> <a href="https://app.box.com/shared/static/3ocr4kw79m4ax7lnfkff15z5mpb6gb9q.pdf">Puget Sound Eelgrass Recovery Strategy March 2015</a>
+			<p>
+		</div>
+	</div>
+	<?php include 'includes/footer.html' ?>
 </div>
 <script type="text/javascript">
 

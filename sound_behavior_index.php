@@ -24,82 +24,67 @@ $(function() {
 </head>
 <body id="id05" >
 <div id="container">
-		<?php include 'includes/header.html' ?>
-		<!--*********************************TITLE BAR BEGIN*********************************-->
-		<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
-		<div id="vitalheadercontainer">
-				<div id="vitalheaderleftcontainer">
-						<div id="vitaltitle">Sound Behavior</div>
-						<div id="vitalquote"> Many of our common day-to-day behaviors and practices seem benign on their own, but, when multiplied by 4.5 million residents, their cumulative effects can harm Puget Sound</div>
-						<div id="vitalchampion"> Indicator lead: Dave Ward, Puget Sound Partnership </div>
-						<div id="vitalbuttonscontainer">
-								<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
-								<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal/?VitalSign=Sound+Behavior+Index" target="_blank">View Report Card</a></div>
-								
-						</div>
-				</div>
-				<div id="vitalheaderrightphoto"><div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div><span class="photoCredit">Data last updated onApril 24, 2015</span></div>
+	<?php include 'includes/header.html' ?>
+	<!--*********************************TITLE BAR BEGIN*********************************-->
+	<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
+	<div id="vitalheadercontainer">
+		<div id="vitalheaderleftcontainer">
+			<div id="vitaltitle">Sound Behavior</div>
+			<div id="vitalquote"> Many of our common day-to-day behaviors and practices seem benign on their own, but, when multiplied by 4.5 million residents, their cumulative effects can harm Puget Sound</div>
+			<div id="vitalchampion"> Indicator lead: Dave Ward, Puget Sound Partnership </div>
+			<div id="vitalbuttonscontainer">
+				<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
+				<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal/?VitalSign=Sound+Behavior+Index" target="_blank">View Report Card</a></div>
+			</div>
 		</div>
-		<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
+		<div id="vitalheaderrightphoto">
+			<div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div>
+			<div class="photoCredit padding-top">Data last updated onApril 24, 2015</div></div>
+	</div>
+	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
 	
+	<!--*********************************TAB BEGIN*********************************-->
 	
+	<ul id="nav_indicator">
+		<li class="indicator_active_orange"><a href="sound_behavior_index.php">Vital Sign Overview<br />
+			<br />
+			<br />
+			</a> </li>
+		<li><a href="sound_behavior_index_indicator1.php">Indicator: Sound Behavior Index<br />
+			<br />
+			</a></li>
+	</ul>
+	<div class="clearfloat"></div>
 	
-					<!--*********************************TAB BEGIN*********************************-->
-		
-		<ul id="nav_indicator">
-				<li class="indicator_active_orange"><a href="sound_behavior_index.php">Vital Sign Overview<br />
-						<br />
-						<br />
-						</a> </li>
-				<li><a href="sound_behavior_index_indicator1.php">Indicator: Sound Behavior Index<br />
-						<br />
-						</a></li>
-		</ul>
-		<div class="clearfloat"></div>
-	
-	
-	
-		<!--*********************************TITLE BAR BEGIN*********************************-->
-		<div id="accordioncontainer">
-				<div id="accordion"> 
-				
-	
-						
-						<!--*********************************FOLD 01*********************************-->
-						
-						<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
-						<div>
+	<!--*********************************TITLE BAR BEGIN*********************************-->
+	<div id="accordioncontainer">
+		<div id="accordion"> 
+			
+			<!--*********************************FOLD 01*********************************-->
+			
+			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
+			<div>
 				<p>Many of our common day-to-day behaviors and practices seem benign on their own, but when multiplied by 4.5 million residents, their cumulative effects can harm Puget Sound. Reversing this trend - fostering beneficial behaviors and reducing detrimental ones - is a crucial step in Puget Sound’s recovery.</p>
-
-<p>The Sound Behavior Index tracks 28 specific practices that can affect water quality and aquatic habitat. The index is based on a survey conducted every two years among a statistical sample of Puget Sound residents. It asks them about specific, measurable, repetitive behaviors that affect water quality and aquatic health.</p>
-
-<p>The Sound Behavior Index distills the region’s environmental performance into a single score, which can be tracked across time. By measuring long-term shifts in behaviors and practices across the Puget Sound region, the index gives policy makers a tool to set priorities for regional and local programs and baseline from which to measure progress.</p>
-
-						</div>
-						
-				
-				<!--*********************************FOLD 05*********************************-->
-						<h3><a href="#!">What our partners are doing</a></h3>
-						<div>
-								<p><a href="http://gismanager.rco.wa.gov/ntaportal/?VitalSign=Sound+Behavior+Index">View Near Term Actions helping to advance this Vital Sign</a></p>
-						</div>
-						<!--*********************************FOLD 06*********************************-->
-					<h3><a href="#!">Links for more information</a></h3>
-						<div>
-						<p>	<a href="http://www.tandfonline.com/eprint/xrDeaxd9WeahADVu9MVm/full">The Sound Behavior Index paper published in the Coastal Management Journal </a></p>
-						<p><a href="https://app.box.com/s/9b34t0ijy04unm8v27rd/1/513066328/7245484984/1">Sound Behavior Index 2012 Report</a></p>
-
-
-<p><a href="https://app.box.com/s/9b34t0ijy04unm8v27rd/1/513066328/21199345697/1">Sound Behavior Index 2013 Report</a></p>
-
-
-<p><a href="https://app.box.com/s/9b34t0ijy04unm8v27rd/1/513066328/7111635636/1">Background and methodology for the Sound Behavior Index</a></p>
-
-
-						</div>
-				</div>
+				<p>The Sound Behavior Index tracks 28 specific practices that can affect water quality and aquatic habitat. The index is based on a survey conducted every two years among a statistical sample of Puget Sound residents. It asks them about specific, measurable, repetitive behaviors that affect water quality and aquatic health.</p>
+				<p>The Sound Behavior Index distills the region’s environmental performance into a single score, which can be tracked across time. By measuring long-term shifts in behaviors and practices across the Puget Sound region, the index gives policy makers a tool to set priorities for regional and local programs and baseline from which to measure progress.</p>
+			</div>
+			
+			<!--*********************************FOLD 05*********************************-->
+			<h3><a href="#!">What our partners are doing</a></h3>
+			<div>
+				<p><a href="http://gismanager.rco.wa.gov/ntaportal/?VitalSign=Sound+Behavior+Index">View Near Term Actions helping to advance this Vital Sign</a></p>
+			</div>
+			<!--*********************************FOLD 06*********************************-->
+			<h3><a href="#!">Links for more information</a></h3>
+			<div>
+				<p> <a href="http://www.tandfonline.com/eprint/xrDeaxd9WeahADVu9MVm/full">The Sound Behavior Index paper published in the Coastal Management Journal </a></p>
+				<p><a href="https://app.box.com/s/9b34t0ijy04unm8v27rd/1/513066328/7245484984/1">Sound Behavior Index 2012 Report</a></p>
+				<p><a href="https://app.box.com/s/9b34t0ijy04unm8v27rd/1/513066328/21199345697/1">Sound Behavior Index 2013 Report</a></p>
+				<p><a href="https://app.box.com/s/9b34t0ijy04unm8v27rd/1/513066328/7111635636/1">Background and methodology for the Sound Behavior Index</a></p>
+			</div>
 		</div>
-		<?php include 'includes/footer.html' ?>
+	</div>
+	<?php include 'includes/footer.html' ?>
 </div>
 <script type="text/javascript">
 

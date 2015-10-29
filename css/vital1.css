@@ -68,6 +68,7 @@ li {
 	width:400px;
 }
 */
+
 #footerBlockRight {
 	padding-top: 0px;
 	float: right;
@@ -405,6 +406,11 @@ li {
 .underconstruction {
 	font-size:13px;
 	font-weight:bold;
+	padding:10px 10px 10px 10px;
+	background-color:#442020;
+}
+.padding-top{
+	margin-top:140px;
 }
 /*div hide css*/
 #morePara1 {
