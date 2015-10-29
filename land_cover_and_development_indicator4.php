@@ -48,7 +48,7 @@ $(function() {
 	<!--*********************************TAB BEGIN*********************************-->
 	
 	<ul id="nav_indicator">
-		<li class="indicator_active_purp"><a href="land_cover_and_development.php">Vital Sign Overview<br />
+		<li><a href="land_cover_and_development.php">Vital Sign Overview<br />
 			<br />
 			<br />
 			</a> </li>
@@ -61,7 +61,7 @@ $(function() {
 			</a></li>
 		<li><a href="land_cover_and_development_indicator3.php">Indicator: Conversion of ecologically important lands<br />
 			</a></li>
-		<li><a href="land_cover_and_development_indicator4.php">Indicator: Growth in Urban Growth Areas (UGAs)<br />
+		<li class="indicator_active_purp"><a href="land_cover_and_development_indicator4.php">Indicator: Growth in Urban Growth Areas (UGAs)<br />
 			</a></li>
 	</ul>
 	<div class="clearfloat"></div>

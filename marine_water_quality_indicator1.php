@@ -70,16 +70,12 @@ $(function() {
 				<div class="aquaBarHeader">What is the indicator? </div>
 				<h4 class="aqua">Marine Water Condition Index</h4>
 				<p>The Washington State Department of Ecology developed the Marine Water Condition Index to measure change in water quality against pre-existing conditions. The index addresses the large amount of variability inherent in marine water quality measures, in order to detect subtle and persistent change. The Marine Water Condition Index integrates 12 variables that describe an important aspect of water quality conditions (e.g. temperature, salinity, nutrient balance, algae biomass, dissolved oxygen). Toxic chemicals are not part of the index.</p>
-				<div id="showMore1"><a href="#!" class="showMoreLink" data-attr="1"><img src="images/plus.jpg" width="15" height="11" />SHOW MORE</a><br />
-					<br />
-				</div>
-				<div id="showLess1"><a href="#!" class="showLessLink" data-attr="1"><img src="images/minus.jpg" width="15" height="11" />SHOW LESS</a></div>
-				<div id="morePara1">
+		
 					<p>
 					<p>The Marine Water Condition Index provides a framework that links changes in local water quality and physical conditions to the larger context of oceanic water quality and natural variability. The Marine Water Condition Index detects changes in water conditions relevant to eutrophication and physical conditions against site and seasonal-specific baseline conditions measured from 1999 to 2008.</p>
 					<p>The index reports on a scale of +50 to -50 indicating a complete positive or negative change from baseline conditions, with zero indicating unchanged conditions relative to the baseline. The index is reported for 12 regions.</p>
 					<p>There is no target for the Marine Water Condition Index. However, since the index is designed to show changes in water quality, positive values indicate relatively improved marine water quality relative the baseline, and negative values indicate worse marine water quality relative to the baseline.</p>
-				</div>
+				
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader">What are the targets? </div>
 				<h5>2020 target</h5>
@@ -90,7 +86,7 @@ $(function() {
 				
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader">Is there progress? </div>
-				<p> <img src="images/2014_MWC_targetbar.png" width="550" height="390" alt="Marine Water Quality Target Bar"/></p>
+				
 				<h4 class="aqua">Marine Water Condition Index</h4>
 				<p>Marine water quality was slightly higher in Puget Sound in 2013 relative to the 10-year, 1999-2008 baseline. Looking more closely at water quality region by region, scores were relatively similar to each other in 2013 (i.e., there was lower regional variability). Conditions were the best in Admiralty Reach, South Sound, Elliott Bay, Commencement Bay and South Hood Canal. In all other regions, conditions were at or near the baseline. </p>
 				<p>In the short-term, water quality in Puget Sound has not changed much in the last three years. Values have hovered around 0, the baseline value. Before that, conditions were at an all-time low over much of Puget Sound in 2009 and 2010.</p>

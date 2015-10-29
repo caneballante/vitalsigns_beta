@@ -48,11 +48,11 @@ $(function() {
 	<!--*********************************TAB BEGIN*********************************-->
 	
 	<ul id="nav_indicator">
-		<li class="indicator_active_purp"><a href="flood_plains.php">Vital Sign Overview<br />
+		<li><a href="flood_plains.php">Vital Sign Overview<br />
 			<br />
 			<br />
 			</a> </li>
-		<li><a href="flood_plains_indicator1.php">Indicator: In development<br />
+		<li class="indicator_active_purp"><a href="flood_plains_indicator1.php">Indicator: In development<br />
 			<br />
 			</a></li>
 	</ul>
