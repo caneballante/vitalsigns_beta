@@ -172,9 +172,13 @@ li {
 
 #idHome #vitalheadercontainer {
 	background-color: #555555;
-	height: 670px;
 	position: relative;
 	text-align: center;
+}
+#idHome #vitalheadercontainer p {
+	text-align:left;
+	margin:0;
+	padding:20px 40px 0px 40px;
 }
 #id01 #vitalheadercontainer {
 	background-image: url(../img/1_onsite.jpg);
