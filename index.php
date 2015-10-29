@@ -55,14 +55,14 @@ $(function() {
 		<div>
 			<h2>Vital Signs and indicators</h2>
 			<p>While the Vital Signs represent the different overarching measures for determining the health of Puget Sound, indicators representing each Vital Sign serve as the specific and measurable metrics. Examples of indicators include eelgrass acreage under the Eelgrass Vital Sign, Chinook salmon abundance under the Chinook Vital Sign, and the number of Southern Resident Killer Whales under the Orca Vital Sign.</p>
-			<p>List of the current Vital Signs</p>
-			<p>Scope of the Vital Signs</p>
+			<p><a href="https://pspwa.box.com/VitalSignsList1-0">List of the current Vital Signs</a></p>
+			<p><a href="https://pspwa.app.box.com/s/mh73y4xia6odf1y4a0esid4ecrpiutlg">Scope of the Vital Signs</a></p>
 			<h2>Ecosystem recovery targets</h2>
 			<p>To assess progress toward recovery goals more precisely (depicted in the outer ring of the image of the Puget Sound wheel above), the Partnership adopted specific and quantitative milestones, known as 2020 ecosystem recovery targets. These targets are policy statements, sometimes considered aspirational, that reflect the region&rsquo;s commitments to and expectations for recovering Puget Sound by the year 2020.
 				List of the 2020 ecosystem recovery targets</p>
 			<h2>State of the Sound</h2>
 			<p>The Vital Sign webpages present the latest evaluation of the indicators, how they have changed over time, and their progress relative to targets for ecosystem recovery. You will also find links to original sources for each Vital Sign indicators.</p>
-			<p>For a summary of what the Puget Sound Vital Sign indicators are telling us, please consult the latest State of Sound.</p>
+			<p>For a summary of what the Puget Sound Vital Sign indicators are telling us, please consult the latest <a href="sos.php">State of Sound</a>.</p>
 			<h2>Data sources</h2>
 			<p>The data and information for the Puget Sound Vital Signs are compiled from a variety of monitoring programs and funding organizations in Puget Sound, including state and federal agencies, tribes, local jurisdictions, and non-governmental organizations. Technical and scientific experts from those organizations provide the data and oversee the interpretation of the results. Data quality assurance and documentation remain the primary responsibility of the individual contributors. The Vital Sign indicator reports represent not only the work and achievements of many scientists, but also a significant collaboration among many of the Puget Sound Ecosystem Monitoring Program (PSEMP) partners from across the region, including staff at the Puget Sound Partnership.</p>
 		</div>
