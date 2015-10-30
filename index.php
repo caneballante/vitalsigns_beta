@@ -29,28 +29,8 @@ $(function() {
 			<p> Find out more about the Vital Signs by selecting a Vital Sign from the list at the top right or by clicking in the wedges in the image below.</p>
 			<p>For a summary of what the Puget Sound Vital Sign indicators are telling us, take a look at the latest State of Sound.</p>
 		</div>
-		<div class="vitalsigns">
-			<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="522" height="522" id="FlashID" title="Vital Signs">
-				<param name="movie" value="Vitalsigns.swf" />
-				<param name="quality" value="high" />
-				<param name="wmode" value="transparent" />
-				<param name="swfversion" value="6.0.65.0" />
-				<!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don't want users to see the prompt. -->
-				<param name="expressinstall" value="../Scripts/expressInstall.swf" />
-				<!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. --> 
-				<!--[if !IE]>-->
-				<object type="application/x-shockwave-flash" data="Vitalsigns.swf" width="522" height="522">
-					<!--<![endif]-->
-					<param name="quality" value="high" />
-					<param name="wmode" value="transparent" />
-					<param name="swfversion" value="6.0.65.0" />
-					<param name="expressinstall" value="../Scripts/expressInstall.swf" />
-					<!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
-					<div> <img src="images/Vitalsigns.png" width="792" height="684" alt="Puget Sound Vital Signs - A dashboard of indicators on Puget Sound's health and vitality" /> <img src="Vitalsigns.png" width="792" height="684" /> </div>
-					<!--[if !IE]>-->
-				</object>
-				<!--<![endif]-->
-			</object>
+		<div class="vitalsigns"><img src="images/vitalsigns_wheel.png" width="600" height="600" alt=""/>
+	
 		</div>
 		<div>
 			<h2>Vital Signs and indicators</h2>
