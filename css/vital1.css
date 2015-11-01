@@ -68,7 +68,16 @@ li {
 	width:400px;
 }
 */
+.vital-home-page p{
+	font-size:14px;
+	padding:20px 50px 20px 50px;
+	line-height:1.8;
+}
 
+.vital-home-page a{
+	color: rgba(108,188,242,1.00);
+	}
+	
 #footerBlockRight {
 	padding-top: 0px;
 	float: right;

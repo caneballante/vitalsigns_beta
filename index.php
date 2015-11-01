@@ -24,15 +24,14 @@ $(function() {
 	<?php include 'includes/header.html' ?>
 	<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
 	<div id="vitalheadercontainer">
-		<div>
+		<div class="vital-home-page">
 			<p>Are there fewer toxic chemicals in Puget Sound? Are there more salmon? How much habitat has been restored? And are the Puget Sound Partnership&rsquo;s ecosystem recovery targets met? These are just some of the questions that the evaluation of the Puget Sound Vital Signs helps answer.</p>
 			<p> Find out more about the Vital Signs by selecting a Vital Sign from the list at the top right or by clicking in the wedges in the image below.</p>
-			<p>For a summary of what the Puget Sound Vital Sign indicators are telling us, take a look at the latest State of Sound.</p>
-		</div>
+			<p>For a summary of what the Puget Sound Vital Sign indicators are telling us, take a look at the <a href="../sos.php">2015 State of Sound</a>.</p><br /><br />
 		<div class="vitalsigns"><img src="images/vitalsigns_wheel.png" width="600" height="600" alt=""/>
 	
 		</div>
-		<div>
+
 			<h2>Vital Signs and indicators</h2>
 			<p>While the Vital Signs represent the different overarching measures for determining the health of Puget Sound, indicators representing each Vital Sign serve as the specific and measurable metrics. Examples of indicators include eelgrass acreage under the Eelgrass Vital Sign, Chinook salmon abundance under the Chinook Vital Sign, and the number of Southern Resident Killer Whales under the Orca Vital Sign.</p>
 			<p><a href="https://pspwa.box.com/VitalSignsList1-0">List of the current Vital Signs</a></p>
