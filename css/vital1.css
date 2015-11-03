@@ -70,10 +70,13 @@ li {
 */
 .vital-home-page p{
 	font-size:14px;
-	padding:20px 50px 20px 50px;
+	padding:20px 40px 20px 40px;
 	line-height:1.8;
 }
-
+.vital-home-page .big-p{
+	font-size:18px;
+	line-height:2;
+}
 .vital-home-page a{
 	color: rgba(108,188,242,1.00);
 	}
