@@ -36,10 +36,10 @@ $(function() {
 			<p><a href="https://pspwa.app.box.com/s/mh73y4xia6odf1y4a0esid4ecrpiutlg">Scope of the Vital Signs</a></p>
 			<h2>Ecosystem recovery targets</h2>
 			<p>To assess progress toward recovery goals more precisely (depicted in the outer ring of the image of the Puget Sound wheel above), the Partnership adopted specific and quantitative milestones, known as 2020 ecosystem recovery targets. These targets are policy statements, sometimes considered aspirational, that reflect the region&rsquo;s commitments to and expectations for recovering Puget Sound by the year 2020.
-				List of the 2020 ecosystem recovery targets</p>
+				<a href="https://pspwa.box.com/s/679b36zit7pgkqkuyfdxfycu2f3qkws9">List of the 2020 ecosystem recovery targets</a></p>
 			<h2>State of the Sound</h2>
 			<p>The Vital Sign webpages present the latest evaluation of the indicators, how they have changed over time, and their progress relative to targets for ecosystem recovery. You will also find links to original sources for each Vital Sign indicators.</p>
-			<p>For a summary of what the Puget Sound Vital Sign indicators are telling us, please consult the latest <a href="sos.php">State of Sound</a>.</p>
+			<p>For a summary of what the Puget Sound Vital Sign indicators are telling us, please consult the latest <a href="../sos.php">State of Sound</a>.</p>
 			<h2>Data sources</h2>
 			<p>The data and information for the Puget Sound Vital Signs are compiled from a variety of monitoring programs and funding organizations in Puget Sound, including state and federal agencies, tribes, local jurisdictions, and non-governmental organizations. Technical and scientific experts from those organizations provide the data and oversee the interpretation of the results. Data quality assurance and documentation remain the primary responsibility of the individual contributors. The Vital Sign indicator reports represent not only the work and achievements of many scientists, but also a significant collaboration among many of the Puget Sound Ecosystem Monitoring Program (PSEMP) partners from across the region, including staff at the Puget Sound Partnership.</p>
 		</div>
