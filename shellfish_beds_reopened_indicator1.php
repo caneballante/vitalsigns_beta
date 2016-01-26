@@ -33,13 +33,14 @@ $(function() {
 			<div id="vitalquote">About 36,000 acres of shellfish beds - approximately 19% – are closed due to pollution sources.</div>
 			<div id="vitalchampion">Indicator Lead: Scott Berbells, Washington State Department of Health</div>
 			<div id="vitalbuttonscontainer">
-				<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
-				<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&Quarter=10&Vital%20Sign=Shellfish%20Beds" target="_blank">View Report Card</a></div>
+				<div id="button1"><a href="http://gismanager.rco.wa.gov/ProjectAtlas/?summaryArea[areaName]=Puget+Sound&amp;summaryArea[areaType]=PSP+Boundary&amp;summaryArea[areaShapeId]=NA" target="_blank">View Projects</a></div>
+				<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&amp;Quarter=10&amp;Vital Sign=Shellfish Beds" target="_blank">View Report Card</a></div>
+					<div id="button3"><a href="https://pspwa.app.box.com/files/0/f/5144062730" target="_blank">View State of the Sound Report</a></div>
 			</div>
 		</div>
 		<div id="vitalheaderrightphoto">
-			<div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div>
-			<div class="photoCredit padding-top">Data last updated on June 15, 2015<br />
+			
+			<div class="photoCredit">Data last updated on January 29, 2016<br />
 			Photo Credit: Taylor Shellfish Farms</div></div>
 	</div>
 	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
