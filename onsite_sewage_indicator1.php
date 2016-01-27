@@ -62,7 +62,7 @@ $(function() {
 		<div id="accordion"> 
 			
 			<!--*********************************FOLD 02*********************************-->
-			<h3><a href="#!">Is there progress? Indicators and targets</a></h3>
+			<h3><a href="#!">Indicator and target description</a></h3>
 			<div> 
 				<!--*********************************GREEN HEADER*********************************-->
 				<div class="greenBarHeader">What is the indicator? </div>

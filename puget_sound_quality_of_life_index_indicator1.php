@@ -64,7 +64,7 @@ $(function() {
 			
 			<!--*********************************FOLD 02*********************************-->
 			
-			<h3><a href="#!">Is there progress? Indicators and targets</a></h3>
+			<h3><a href="#!">Indicator and target description</a></h3>
 			<div>
 				<h5>What is the Sound Quality of Life Index?</h5>
 				<p>Recovering the Puget Sound ecosystem will reap many benefits — both tangible and intangible — for all of our residents. Whether we are employed in a marine industry, celebrating our cultural traditions, boating, or simply enjoying the scenic views, we receive gifts from Puget Sound that are part of the reason that we want to live here. A healthy Puget Sound includes a thriving natural world, a vibrant economy, and a high quality of life for people.</p>

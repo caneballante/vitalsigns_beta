@@ -43,7 +43,7 @@ $(function() {
 								<p>Around Puget Sound, there are an estimated 190,000 acres of classified commercial and recreational shellfish beds. However, about 36,000 acres of shellfish beds—approximately 19%—are closed due to pollution, most of which comes from fecal bacteria from humans, livestock, and pets. When fecal bacteria and other contaminants get into the water, they threaten the areas where these prized oysters, clams, and other bivalve shellfish grow.</p>
 						</div>
 						<!--ACCORDIAN FOLD HERE ACCORDIAN FOLD HERE ACCORDIAN FOLD HERE ACCORDIAN FOLD HERE-->
-						<h3><a href="#">Is There Progress? Indicators and Targets</a></h3>
+						<h3><a href="#">Indicator and target description</a></h3>
 						<div> 
 								<!--GREEN FOLD HERE  FOLD HERE  FOLD HERE  FOLD HERE-->
 								<div class="greenBarHeader">What is this indicator? </div>

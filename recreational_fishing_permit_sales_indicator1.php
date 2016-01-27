@@ -61,7 +61,7 @@ $(function() {
 			
 			<!--*********************************FOLD 02*********************************-->
 			
-			<h3><a href="#!">Is there progress? Indicators and targets</a></h3>
+			<h3><a href="#!">Indicator and target description</a></h3>
 			<div>
 				<h5>2020 Target: There are currently no targets for recreational fishing license sales </h5>
 				<p>The governing board of the Puget Sound Partnership, the Leadership Council, chose not to set a target for recreational fishing licenses at this time.</p>

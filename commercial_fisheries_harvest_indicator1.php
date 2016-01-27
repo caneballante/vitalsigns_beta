@@ -60,7 +60,7 @@ $(function() {
 		<div id="accordion"> 
 			
 			<!--*********************************FOLD 02*********************************-->
-			<h3><a href="#!">Is there progress? Indicators and targets</a></h3>
+			<h3><a href="#!">Indicator and target description</a></h3>
 			<div>
 				<h5>2020 Target: There are currently no targets for commercial fishing</h5>
 				<p>As in the case of recreational fishing permits, the governing board of the Puget Sound Partnership, the Leadership Council, chose not to set a target for commercial fisheries harvest at this time.</p>
