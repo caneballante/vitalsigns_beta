@@ -89,7 +89,7 @@ $(function() {
 			</div>
 			
 			<!--*********************************FOLD 03*********************************-->
-			<h3><a href="#!">Latest data and maps</a></h3>
+			<h3><a href="#!">Progress summary and data</a></h3>
 			<div>
 				<div class="purpBarHeader">Data</div>
 				<p>There are about 2,500 sq km of valley bottom where floodplains could occur along the 17 major rivers in the Puget Sound basin. The widest valleys with the largest floodplains are in the eastern lowlands between Puget Sound and the Cascade Range where glaciers carved troughs that were subsequently filled with glacial and alluvial (river) sediments.</p>

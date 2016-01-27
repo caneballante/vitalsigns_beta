@@ -104,7 +104,7 @@ $(function() {
 				<p>The 2020 target value reflects a trade-off between the need to safeguard habitat and ecosystem function while allowing growth and development. In Puget Sound, the amount of forests is declining, but the rate of that loss has slowed. Although the specific drivers of the decrease in forest conversion to development are not well understood, we suspect it may be tied to the economic downturn and the corresponding decrease in new development. As the economy recovers, forest loss may rise. Thus, achieving and maintaining a rate of forest loss of 1,000 acres per year may be an ambitious goal. More work is needed to understand what factors, including salmon recovery efforts, land use policies, and economic growth, best explain forest conversion.</p>
 				<!--*********************************FOLD 03*********************************--> 
 			</div>
-			<h3><a href="#!">Latest data and maps</a></h3>
+			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				<!--*********************************PURPLE HEADER*********************************-->
 				<div class="purpBarHeader">Data</div>

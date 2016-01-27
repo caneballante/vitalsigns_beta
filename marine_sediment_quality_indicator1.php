@@ -89,12 +89,12 @@ $(function() {
 				<div class="aquaBarHeader">Is there progress? </div>
 				<p>&nbsp;</p>
 				<h4 class="aqua">Sediment Chemistry Index</h4>
-				<p>Sediment Chemistry Index values have met or exceeded the 2020 target in all areas sampled so far except Elliott Bay (Figure 1 in Latest data and maps sections). In all areas that have been sampled twice, none showed any statistically significant change from their original results, including Elliott Bay. Even though the SCI score in Elliott Bay has improved, the change was not statistically different, hence our conclusion that we are not yet seeing progress in this target. Therefore, we remain slightly short of the 2020 goal that all regions and bays show an SCI score >93.3.</p>
+				<p>Sediment Chemistry Index values have met or exceeded the 2020 target in all areas sampled so far except Elliott Bay (Figure 1 in Progress summary and data sections). In all areas that have been sampled twice, none showed any statistically significant change from their original results, including Elliott Bay. Even though the SCI score in Elliott Bay has improved, the change was not statistically different, hence our conclusion that we are not yet seeing progress in this target. Therefore, we remain slightly short of the 2020 goal that all regions and bays show an SCI score >93.3.</p>
 				<p>&nbsp;</p>
 			</div>
 			
 			<!--*********************************FOLD 03*********************************-->
-			<h3><a href="#!">Latest data and maps</a></h3>
+			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader">Data</div>

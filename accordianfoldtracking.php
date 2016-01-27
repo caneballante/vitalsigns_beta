@@ -91,7 +91,7 @@ $(function() {
 						<!--GREEN FOLD HERE  FOLD HERE  FOLD HERE  FOLD HERE--> 
 						
 						<!--ACCORDIAN FOLD HERE ACCORDIAN FOLD HERE ACCORDIAN FOLD HERE ACCORDIAN FOLD HERE-->
-						<h3><a href="#">Latest Data and Maps</a></h3>
+						<h3><a href="#">Progress summary and data</a></h3>
 						<div> 
 								
 								<!--GREEN FOLD HERE  FOLD HERE  FOLD HERE  FOLD HERE-->

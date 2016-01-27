@@ -71,7 +71,7 @@ $(function() {
 				<p>The Puget Sound Partnership is working on a region-wide Quality of Life Index that will assign numeric values to these benefits, including attributes related to aesthetics, culture, recreation, and the economy. Work on defining the specific items to be included in the Quality of Life Index is underway and will seek input from a number of interest groups, as well as be informed by related efforts taking place at the local level. We do not have a target date for completion of the development work on the index. The final product will be presented to the Leadership Council for adoption. </p>
 			</div>
 			<!--*********************************FOLD 03*********************************-->
-			<h3><a href="#!!">Latest data and maps</a></h3>
+			<h3><a href="#!!">Progress summary and data</a></h3>
 			<div>
 				<p>There is currently no data for this indicator</p>
 			</div>

@@ -94,7 +94,7 @@ $(function() {
 				<p>Some progress has been made toward the 2020 target. Habitat data collected by the Puget Sound Partnership on behalf of the Environmental Protection Agency indicate that 19 riparian restoration projects were conducted in the Puget Sound basin from October 2009 through September 2012. However, miles of restored riparian corridors were reported only for 13 projects. In total, at least 76 miles were restored during that time period, or 28% progress toward the 2020 target of 268 miles. It should be noted that riparian corridor restoration prior to October 2009, the baseline reference year, was not counted toward the target.</p>
 				<h4 class="purp"><!--*********************************FOLD 03*********************************--> </h4>
 			</div>
-			<h3><a href="#!">Latest data and maps</a></h3>
+			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				<!--*********************************PURPLE HEADER*********************************-->
 				<div class="purpBarHeader">Data</div>

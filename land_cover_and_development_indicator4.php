@@ -90,12 +90,12 @@ $(function() {
 				<!--*********************************PURPLE HEADER*********************************-->
 				<div class="purpBarHeader">Is there progress? </div>
 				<h4 class="purp">Land development pressure: Growth in urban growth areas (UGAs)</h4>
-				<p>The analysis of progress toward the 2020 target is pending until new data are made available. Based on U.S. Census data from 2000 to 2010, the Puget Sound basin-wide population growth occurring within urban growth areas was 83% (Table 2 in Latest data and maps section). For counties, this indicator ranged from 28-101%. For future analyses of progress, the value derived from the 2000 to 2010 census data will be used as a baseline reference for basin-wide (83%) and county-scale (ranging from 28-101%) population growth distribution. </p>
+				<p>The analysis of progress toward the 2020 target is pending until new data are made available. Based on U.S. Census data from 2000 to 2010, the Puget Sound basin-wide population growth occurring within urban growth areas was 83% (Table 2 in Progress summary and data section). For counties, this indicator ranged from 28-101%. For future analyses of progress, the value derived from the 2000 to 2010 census data will be used as a baseline reference for basin-wide (83%) and county-scale (ranging from 28-101%) population growth distribution. </p>
 				<p>The 2020 recovery target of 86.5% of population growth occurring within urban growth areas is equivalent to a 3% increase in the proportion of new population growth occurring within all Puget Sound urban growth areas. This target represents an effort to direct more growth to those areas deemed best suited for development, while also respecting that Puget Sound includes very urban as well as very rural counties with very different growth management needs and objectives. Data on the distribution of permits for new development (a proxy for population growth) within five of the 12 Puget Sound counties suggest that the target is achievable. </p>
 			</div>
 			
 			<!--*********************************FOLD 03*********************************-->
-			<h3><a href="#!">Latest data and maps</a></h3>
+			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				<!--*********************************PURPLE HEADER*********************************-->
 				<div class="purpBarHeader">Data</div>

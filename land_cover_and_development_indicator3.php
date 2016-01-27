@@ -110,7 +110,7 @@ $(function() {
 				<p>The five-year baseline rate of land cover change on the indicator land base across all 12 counties in Puget Sound for the period 2001-2006 was 0.28% and increased to 0.36% over the period 2006-2011. Similar analyses will be completed every five years to track change over the periods 2011-2016, and 2016-2021.</p>
 				<p><!--*********************************FOLD 03*********************************--> </p>
 			</div>
-			<h3><a href="#!">Latest data and maps</a></h3>
+			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				<!--*********************************PURPLE HEADER*********************************-->
 				<div class="purpBarHeader">Data</div>

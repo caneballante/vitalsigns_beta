@@ -92,12 +92,12 @@ $(function() {
 				<p>&nbsp;</p>
 				<h4 class="aqua">Benthic Index of Biotic Integrity</h4>
 				<p>No progress has been made in improving the biological condition of small streams. Overall, the biological condition of streams initially ranked as "fair" has declined, based on the Benthic Index of Biotic Integrity scores.</p>
-				<p>From 2007-2011, a total of 245 stream sites were sampled more than once. Of these, a total of 128 sites had initial B-IBI scores indicating “fair” condition (Figure 4 in Latest data and maps sections). The biological condition of most of these sites did not change.  Consistent with the 2020 target, 11 of the 128 sites improved and changed categories to “good” or “excellent". However, 26 stream sites declined and changed status from “fair” to “poor” or “very poor”. The net difference in the change in status of 15 streams represents an overall decline (12%) in the biological condition of "fair" streams.</p>
+				<p>From 2007-2011, a total of 245 stream sites were sampled more than once. Of these, a total of 128 sites had initial B-IBI scores indicating “fair” condition (Figure 4 in Progress summary and data sections). The biological condition of most of these sites did not change.  Consistent with the 2020 target, 11 of the 128 sites improved and changed categories to “good” or “excellent". However, 26 stream sites declined and changed status from “fair” to “poor” or “very poor”. The net difference in the change in status of 15 streams represents an overall decline (12%) in the biological condition of "fair" streams.</p>
 				<p>For the streams with “excellent” biological condition as rated by the B-IBI, some streams are already protected. A detailed analysis has not been done to identify which streams and watersheds should be protected for this target. The watersheds will likely be small, five to 20 square miles.</p>
 			</div>
 			
 			<!--*********************************FOLD 03*********************************-->
-			<h3><a href="#!">Latest data and maps</a></h3>
+			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader">Data</div>

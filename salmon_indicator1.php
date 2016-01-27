@@ -72,7 +72,7 @@ $(function() {
 				<!--*********************************PINK HEADER*********************************-->
 				<div class="pinkBarHeader">What are the targets? </div>
 				<h5>2020 target</h5>
-				<p>Stop the overall decline and start seeing improvements in wild Chinook abundance in two to four populations in each biogeographic region (Figure 2 in Latest data and maps section).</p>
+				<p>Stop the overall decline and start seeing improvements in wild Chinook abundance in two to four populations in each biogeographic region (Figure 2 in Progress summary and data section).</p>
 				<h5>Interim targets</h5>
 				<p><a href="http://www.psp.wa.gov/downloads/interimtargets/Chinook Interim Targets - FINAL.pdf">Link to interim targets (PDF)</a></p>
 				<!--*********************************PINK HEADER*********************************-->
@@ -81,7 +81,7 @@ $(function() {
 				<p>The total number of Chinook salmon has not increased, and most populations remain well short of their recovery goals. Nonetheless, the fact that we have any natural-origin Chinook left is testament to the success of our restoration and harvest reduction work so far. </p>
 			</div>
 			<!--*********************************FOLD 03*********************************-->
-			<h3><a href="#!">Latest data and maps</a></h3>
+			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				<!--*********************************PINK HEADER*********************************-->
 				<div class="pinkBarHeader">Data </div>

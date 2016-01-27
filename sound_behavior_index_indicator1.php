@@ -81,7 +81,7 @@ $(function() {
 				<p> The region-wide index value for the second iteration in 2013 is 0.83, down from the 2012 baseline index value of 1. This value superficially suggests change toward more harmful behavior, however, detailed analysis suggests a large portion of that change is the result of variation in the random population samples in 2012 and 2013. Only two data points, combined with the variation means it is too early to tell whether the Puget Sound resident behaviors are changing for the better. </p>
 			</div>
 			<!--*********************************FOLD 03*********************************-->
-			<h3><a href="#!">Latest data and maps</a></h3>
+			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				<!--*******************************ORANGE HEADER*********************************-->
 				<div class="orangeBarHeader">Data</div>

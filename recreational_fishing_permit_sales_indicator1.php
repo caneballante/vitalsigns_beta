@@ -68,7 +68,7 @@ $(function() {
 				<p>Staff are considering including this parameter in the Quality of Life Index that is under development. </p>
 			</div>
 			<!--*********************************FOLD 03*********************************-->
-			<h3><a href="#!">Latest data and maps</a></h3>
+			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> <img src="images/recreationFishingPermits_chart.png" width="587" height="489" /></div>
 		</div>
 	</div>

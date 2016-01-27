@@ -204,7 +204,7 @@ $(function() {
 			
 			<!--*********************************FOLD 03*********************************-->
 			
-			<h3><a href="#!">Latest data and maps</a></h3>
+			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				<!--*********************************BLUE HEADER*********************************-->
 				<div class="blueBarHeader">Data</div>
