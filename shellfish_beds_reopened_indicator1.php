@@ -292,6 +292,6 @@ $(function() {
 		</div>
 	</div>
 	<?php include 'includes/footer_2016.html' ?>
-
+I'm a new footer
 </body>
 </html>
