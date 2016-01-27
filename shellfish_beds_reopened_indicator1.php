@@ -21,43 +21,17 @@ $(function() {
   });
 });	
 </script>
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 2;
+	color = "green";
+</script>
 </head>
 <body id="id03" >
 <div id="container">
 	<?php include 'includes/header.html' ?>
-	<!--*********************************TITLE BAR BEGIN*********************************-->
-	<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
-	<div id="vitalheadercontainer">
-		<div id="vitalheaderleftcontainer">
-			<div id="vitaltitle">Shellfish Beds</div>
-			<div id="vitalquote">About 36,000 acres of shellfish beds - approximately 19% – are closed due to pollution sources.</div>
-			<div id="vitalchampion">Indicator Lead: Scott Berbells, Washington State Department of Health</div>
-			<div id="vitalbuttonscontainer">
-				<div id="button1"><a href="http://gismanager.rco.wa.gov/ProjectAtlas/?summaryArea[areaName]=Puget+Sound&amp;summaryArea[areaType]=PSP+Boundary&amp;summaryArea[areaShapeId]=NA" target="_blank">View Projects</a></div>
-				<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&amp;Quarter=10&amp;Vital Sign=Shellfish Beds" target="_blank">View Report Card</a></div>
-					<div id="button3"><a href="https://pspwa.app.box.com/files/0/f/5144062730" target="_blank">View State of the Sound Report</a></div>
-			</div>
-		</div>
-		<div id="vitalheaderrightphoto">
-			
-			<div class="photoCredit">Data last updated on January 29, 2016<br />
-			Photo Credit: Taylor Shellfish Farms</div></div>
-	</div>
-	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
-	<!--*********************************TITLE BAR END*********************************--> 
-	<!--*********************************TAB BEGIN*********************************-->
-	
-	<ul id="nav_indicator">
-		<li><a href="shellfish_beds_reopened.php">Vital Sign: Overview<br />
-			<br />
-			<br />
-			</a> </li>
-		<li class="indicator_active_green"><a href="shellfish_beds_reopened_indicator1.php">Indicator: Acres of harvestable shellfish beds<br />
-			</a></li>
-	</ul>
-	<div class="clearfloat"></div>
-	<!--*********************************TAB END*********************************-->
-	
+	<?php include 'includes/shellfish_title.html' ?>
+	<?php include 'includes/shellfish_tab.html' ?>
 	<div id="accordioncontainer">
 		<div id="accordion"> 
 			
@@ -138,8 +112,6 @@ $(function() {
 						</tr>
 					</tbody>
 				</table>
-				<p>&nbsp;</p>
-				<p>&nbsp;</p>
 			</div>
 			
 			<!--*********************************FOLD 03*********************************-->
