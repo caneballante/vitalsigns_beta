@@ -30,7 +30,7 @@ $(function() {
 	<div id="vitalheadercontainer">
 		<div id="vitalheaderleftcontainer">
 			<div id="vitaltitle">Land Development and Cover</div>
-			<div id="vitalquote">During the past 50 years, Puget Sound lost at least two-thirds of its remaining old growth forest, more than 90% of its native prairies, and 80 % of its  marshes.</div>
+			<div id="vitalquote">During the past 150 years, Puget Sound lost at least two-thirds of its remaining old growth forest, more than 90% of its native prairies, and 80 % of its  marshes.</div>
 			<div id="vitalchampion"> Indicator Lead: Kenneth B. Pierce Jr., Washington State Department of Fish and Wildlife, Alex Mitchell, Puget Sound Partnership, and Kari Stiles, Puget Sound Institute. </div>
 			<div id="vitalbuttonscontainer">
 				<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
