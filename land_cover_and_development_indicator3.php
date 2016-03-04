@@ -77,7 +77,7 @@ $(function() {
 				<p>&nbsp;</p>
 				<h4 class="purp">Conversion of ecologically important lands</h4>
 				<p>This indicator tracks the loss of ecologically important lands under development pressure in Puget Sound watersheds. The short-hand term for this indicator is &ldquo;conversion of ecologically important lands&rdquo;. The indicator is the proportion of vegetated cover on undeveloped lands identified as both ecologically important and under high pressure from development for residential, commercial, and industrial uses, and that is converted in a given time period to developed cover.</p>
-				<p>This indicator was developed in 2011 as part of a larger effort to define the ecological importance and development pressure on the Puget Sound basin. The technical basis for this indicator can be found <a href="https://app.box.com/files/0/f/3803565702/Tech_memo">here.</a></p>
+				<p>This indicator was developed in 2011 as part of a larger effort to define the ecological importance and development pressure on the Puget Sound basin. The technical basis for this indicator can be found <a href="https://pspwa.box.com/shared/static/n6ikgcj8kmex2fpjikrb6oa55hvov7xk.pdf">here.</a></p>
 				<p>To calculate the value of the indicator, the first step is to subdivide watersheds into parcels. Each parcel is defined as either: </p>
 				<ol>
 					<li>Ecologically important and under high pressure from development. These parcels together make up the indicator land base over which we estimate the conversion of vegetated cover.</li>

@@ -135,7 +135,7 @@ $(function() {
 							<td>The target is not met but there was progress. Between 2012 and 2014, there was a total net increase of 1,963 harvestable shellfish beds. Since 2011, a net total of 654 acres classified as prohibited were upgraded.</td>
 						</tr>
 					</tbody>
-				</table>
+				</table><br />
 				<!-- END TABLE 1 --> 
 				
 				<!--*********************************GREEN HEADER*********************************-->
