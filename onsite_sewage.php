@@ -9,7 +9,6 @@
 <script type="text/javascript" src="js/jquery-1.8.3.js"></script>
 <script type="text/javascript" src="js/jquery-ui-1.9.2.custom.min.js"></script>
 <script type="text/javascript" src="js/settab.js"></script>
-
 <script>
 $(function() {
 		$( "#accordion" ).accordion( { collapsible: true }, { active: false }, { autoHeight: false });
@@ -39,10 +38,11 @@ $(function() {
 			<!--*********************************FOLD 01*********************************-->
 			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
 			<div>
-				<p>On-site sewage systems, commonly known as septic systems, are widely used around Puget Sound to treat sewage from properties not served by sewers. Homeowners are responsible for taking care of their systems. The twelve Puget Sound local health jurisdictions oversee management plans to help homeowners maintain their systems, and the Department of Health provides additional technical and financial support.</p>
-				<p>In areas where on-site systems present higher public health risks, local health jurisdictions engage more directly with homeowners to help ensure systems are regularly inspected and maintained. These enhanced operation and maintenance (O&amp;M) programs include marine recovery areas and other designated areas, and currently cover over 10 percent of the region’s systems. Coverage is expected to increase as resources allow.</p>
-				<p>This new performance measure is designed to overlay and fit into the region’s O&amp;M programs. Initial inspection levels show that much work remains to close the gap on the 2020 target of 95 percent and the interim milestone of 60 percent by January 2015. </p>
-				<p>Among other challenges, the O&amp;M programs are relatively young and are all designed differently. They are complex and costly to implement. Considerable effort and funding are needed to improve and better align the programs with the measure and to strengthen public understanding and buy-in. The action agenda aims to tackle several of these needs.</p>
+				<p>Onsite sewage systems, commonly known as septic systems, are widely used around Puget Sound to treat sewage from properties not served by sewers. When septic systems leak or malfunction, raw sewage can surface or move through the soil to groundwater, streams, lakes, rivers, and Puget Sound. </p>
+				<p>All homeowners are responsible for taking care of their systems. The twelve Puget Sound local health jurisdictions oversee management plans to help homeowners maintain their systems, and the Department of Health provides additional technical and financial support. </p>
+				<p>In Marine Recovery Areas and other designated areas, local health jurisdictions engage more directly with homeowners to help ensure systems are inventoried, inspected, and maintained to reduce public health risks. Marine Recovery Areas, defined by state statute, are designated where septic systems are associated with the degradation of shellfish growing areas, marine waters are listed as polluted for low dissolved oxygen levels or fecal coliform, or marine waters where nitrogen has been identified as a contaminant of concern. </p>
+				<p>Marine Recovery Areas are subject to enhanced operation and maintenance (O&amp;M) programs include marine recovery areas and other designated areas, and currently cover over 10 percent of the region’s systems. Coverage is expected to increase as resources allow.</p>
+				<p>This new performance measure is designed to overlay and fit into the region’s O&amp;M programs. Initial inspection levels show that much work remains to close the gap on the 2020 target of 95 percent.</p>
 			</div>
 			
 			<!--*********************************FOLD 04*********************************-->
@@ -50,7 +50,7 @@ $(function() {
 			<h3><a href="#!">What you can do</a></h3>
 			<div>
 				<ol>
-					<li>Find out if you have an on-site sewage system. Know what it consists of and where it's located. </li>
+					<li>Find out if you have an on-site sewage system. Know what it consists of and where it's located </li>
 					<li> Get information from <a href="http://www.pugetsoundstartshere.org/septic/index.php">Puget Sound Starts Here</a> on maintenance requirements for your system and local service providers. </li>
 					<li>Ensure regular inspection by a certified professional or, if offered in your area, get trained to inspect your own system.</li>
 					<li> Fix minor problems to keep the system running well and to head off more costly repairs. </li>
@@ -69,7 +69,6 @@ $(function() {
 			<div>
 				<p> <a href="http://www.doh.wa.gov/CommunityandEnvironment/WastewaterManagement/OnsiteSewageSystemsOSS" target="_new">Washington State Department of Health's On-site Sewage Systems website</a></p>
 				<p> <a href="http://www.doh.wa.gov/CommunityandEnvironment/WastewaterManagement" target="_new">Washington State Department of Health's Wastewater Management Program</a></p>
-				<p> <a href="http://www.results.wa.gov/what-we-do/measure-results/sustainable-energy-clean-environment/goal-map#goalTab02" target="_new">Results Washington Onsite Sewage goal</a></p>
 				<p> <a href="https://data.results.wa.gov/reports/Copy-of-G3-2-1-a-On-Site-Sewage-Systems" target="_new">Results Washington Onsite Sewage Results</a></p>
 			</div>
 		</div>
