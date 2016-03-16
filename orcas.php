@@ -21,42 +21,17 @@ $(function() {
   });
 });	
 </script>
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 1;
+	color = "pink";
+</script>
 </head>
 <body id="id09" >
 <div id="container">
 	<?php include 'includes/header.html' ?>
-	<!--*********************************TITLE BAR BEGIN*********************************-->
-	<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
-	<div id="vitalheadercontainer">
-		<div id="vitalheaderleftcontainer">
-			<div id="vitaltitle">Orcas</div>
-			<div id="vitalquote">Southern Resident Killer Whales once numbered around 200 whales, but in the past decade the population has totaled fewer than 90 individuals.</div>
-			<div id="vitalchampion"> Indicator Lead: Ken Balcomb, Center for Whale Research </div>
-			<div id="vitalbuttonscontainer">
-				<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
-				<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&Quarter=10&Vital%20Sign=Orcas" target="_blank">View Report Card</a></div>
-				<div id="button3"><a href="../downloads/VS2013/orcas.pdf">Download PDF from the latest State of the Sound report</a></div>
-			</div>
-		</div>
-		<div id="vitalheaderrightphoto">
-			<div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div>
-			<div class="photoCredit padding-top">Data last updated on December 16, 2014<br />
-			Photo Credit: Michael Feist</div></div>
-	</div>
-	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
-	<!--*********************************TITLE BAR END*********************************--> 
-	
-	<!--*********************************TAB BEGIN*********************************-->
-	
-	<ul id="nav_indicator">
-		<li class="indicator_active_pink"><a href="orcas.php">Vital Sign Overview<br />
-			<br />
-			<br />
-			</a> </li>
-		<li><a href="orcas_indicator1.php">Indicator: Number of Southern Resident Killer Whales </a></li>
-	</ul>
-	<div class="clearfloat"></div>
-	<!--*********************************TAB END*********************************-->
+	<?php include 'includes/orca_title.html' ?>
+	<?php include 'includes/orca_tab.html' ?>
 	
 	<div id="accordioncontainer">
 		<div id="accordion"> 
