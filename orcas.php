@@ -55,10 +55,7 @@ $(function() {
 					<li>Take a day out to go on a responsibly managed whale-watching trip.</li>
 					<li>Support salmon recovery in Puget Sound – orcas especially like to feed on <a href="salmon.php" target="new">Chinook salmon</a>.</li>
 				</ol>
-				<h6>Links for more information on what you can do</h6>
-				<ul>
-					<li><a href="http://www.seattleaquarium.org/page.aspx?pid=277 " target="new">Seattle Aquarium </a></li>
-				</ul>
+				
 			</div>
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
