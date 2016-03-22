@@ -28,20 +28,20 @@ $(function() {
 </script>
 </head>
 <body id="id10">
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <div id="container">
-	
+<div id="container">
 	<?php include 'includes/header.html' ?>
 	<?php include 'includes/pacific_herring_title.html' ?>
 	<?php include 'includes/pacific_herring_tab.html' ?>
-	
 	<div id="accordioncontainer">
 		<div id="accordion"> 
 			
 			<!--*********************************FOLD 01*********************************-->
 			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
-<p>	Pacific herring are one of the most abundant forage fish species in Puget Sound. Together with a few other small schooling fish species, herring are an essential source of food for larger fish, seabirds, and marine mammals. As intermediates in the food web, they play a major role in energy transfer up to these higher-level consumers.</p>
-<p>Because they are a vital component of the marine food web, Pacific herring are one key indicator of the overall health of Puget Sound. Herring stocks require clean water and natural shorelines, so their continued survival depends on maintaining links between nearshore and open-water habitats.</p>
-
+			<div>
+				<p> Pacific herring are one of the most abundant forage fish species in Puget Sound. Together with a few other small schooling fish species, herring are an essential source of food for larger fish, seabirds, and marine mammals. As intermediates in the food web, they play a major role in energy transfer up to these higher-level consumers.</p>
+				<p>Because they are a vital component of the marine food web, Pacific herring are one key indicator of the overall health of Puget Sound. Herring stocks require clean water and natural shorelines, so their continued survival depends on maintaining links between nearshore and open-water habitats.</p>
+			</div>
+			
 			<!--*********************************FOLD 04*********************************-->
 			
 			<h3><a href="#!">What you can do</a></h3>
@@ -57,6 +57,7 @@ $(function() {
 				<h5>Links for more information on what you can do</h5>
 				<p><a href="http://www.earth911.com">Motor Oil Recycling</a></p>
 			</div>
+			
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
 			<div>
