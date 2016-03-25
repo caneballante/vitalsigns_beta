@@ -4,11 +4,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="google-site-verification" content="lMaE6uVdAY_4P-zfoagi1Kj2QQLS8W3JvahLqMZMuDU" />
 <title>Puget Sound Partnership - Vital Signs - Birds</title>
-<link href="css/vital1.css" rel="stylesheet" type="text/css" />
+<link href="css/vital2016.css" rel="stylesheet" type="text/css" />
 <link type="text/css" href="css/custom-theme/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" />
 <script type="text/javascript" src="js/jquery-1.8.3.js"></script>
 <script type="text/javascript" src="js/jquery-ui-1.9.2.custom.min.js"></script>
-<script type="text/javascript" src="js/divhide.js"></script>
+<script type="text/javascript" src="js/settab.js"></script>
 <script>
 $(function() {
 		$( "#accordion" ).accordion( { collapsible: true }, { active: false }, { autoHeight: false });
@@ -21,57 +21,52 @@ $(function() {
   });
 });	
 </script>
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 1;
+	color = "pink";
+</script>
 </head>
 <body id="id11">
 <div id="container">
 	<?php include 'includes/header.html' ?>
-	<!--*********************************TITLE BAR BEGIN*********************************-->
-	<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
-	<div id="vitalheadercontainer">
-		<div id="vitalheaderleftcontainer">
-			<div id="vitaltitle">Birds</div>
-			<div id="vitalquote"></div>
-			<div id="vitalchampion"> Indicator Lead: Scott Pearson,
-				Washington State Department of Fish and Wildlife </div>
-			<div id="vitalbuttonscontainer">
-				<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
-				<div id="button2"></div>
-				<div id="button3"><a href="../downloads/VS2013/birds.pdf">Download PDF from the latest State of the Sound report</a></div>
-			</div>
-		</div>
-		<div id="vitalheaderrightphoto">
-			<div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div>
-			<div class="photoCredit padding-top">Data last updated on May 6, 2014<br />
-			Photo Credit: USFWS</div></div>
-	</div>
-	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
-	<!--*********************************TITLE BAR END*********************************--> 
-	<!--*********************************TAB BEGIN*********************************-->
+	<?php include 'includes/birds_title.html' ?>
+	<?php include 'includes/birds_tab.html' ?>
 	
-	<ul id="nav_indicator">
-		<li class="indicator_active_pink" ><a href="birds.php">Vital Sign Overview<br />
-			<br />
-			<br />
-			</a> </li>
-		<li><a href="birds_indicator1.php">Indicator: Biomass of spawning Pacific Herring<br />
-			</a></li>
-	</ul>
-	<div class="clearfloat"></div>
-	<!--*********************************TAB END*********************************-->
+
+	
 	
 	<div id="accordioncontainer">
 		<div id="accordion"> 
 			<!--*********************************FOLD 01*********************************-->
 			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
 			<div>
-				<p>A large community of aquatic and terrestrial bird species depend on Puget Sound’s watershed for survival. Walk along the shores of Boundary Bay in any season, and you’ll see an ever-changing cast of birds. Thousands of seabirds, seaducks, and waterfowl migrate from all directions to converge in the relatively calm and food-rich waters of Puget Sound each winter. In summer, colonies of seabirds are busy attending their young. In spring and fall, the shorelines are full of shorebirds that stop to feed and rest during migration. </p>
-				<p>Birds serve as useful indicators of ecosystem change and ecosystem health. The Partnership is currently working with the Washington Department of Fish &amp; Wildlife, U.S. Geological Survey, and the Puget Sound Ecosystem Monitoring Program’s Birds and Mammals workgroup to develop a meaningful marine and terrestrial bird indicator and potential targets to help achieve its recovery goal of healthy and sustaining populations of native species. Upon completion later this year, the Science Panel and Leadership Council will review the recommendations and make final decisions on the indicators and targets. </p>
+				<p>Walk along the shores of Boundary Bay in any season, and you’ll see an ever-changing cast of birds. Each winter, thousands of seabirds, seaducks, and waterfowl migrate from all directions to converge in the relatively calm and food-rich waters of Puget Sound. In summer, colonies of seabirds are busy attending their young. In spring and fall, the shorelines are full of shorebirds that stop to feed and rest during migration.</p>
+				<p>Birds serve as useful indicators of ecosystem change and ecosystem health, biodiversity, condition of habitats, and climate change.</p>
 			</div>
 			
 			<!--*********************************FOLD 04*********************************-->
 			<h3><a href="#!">What you can do</a></h3>
 			<div>
-				<h5>Coming soon</h5>
+				<ul>
+					<li>Participate in citizen science programs such as:</li>
+					<li>
+						<ul>
+							<li>Breeding Bird Survey - USGS</li>
+							<li>Christmas Bird Count - Audubon</li>
+							<li>Coastal Observation and Seabird Survey Team (COASST)</li>
+							<li>Pigeon Guillemot Monitoring at the Nisqually Reach Aquatic Reserve</li>
+							<li>Pigeon Guillemot Research Project on Whidbey</li>
+							<li>Seattle Audubon’s Puget Sound Seabird Survey</li>
+						</ul>
+					</li>
+					<li>Volunteer at the National Refuges (WA Maritime Complex)</li>
+					<li>Become of member of your local chapter of bird conservation and management organizations</li>
+					<li>Follow conservation issues with marbled murrelets, tufted puffins, and other species of concern</li>
+					<li>Hop on a commercial or private boat and tour around Protection Island (but stay 200 yards from the island to avoid disturbing nesting and roosting birds).</li>
+					<li>Drive boats around birds on the water</li>
+					<li>Respect closed islands during seabird breeding seasons</li>
+				</ul>
 			</div>
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
@@ -81,10 +76,10 @@ $(function() {
 			<!--*********************************FOLD 06*********************************-->
 			<h3><a href="#!">Links for more information</a></h3>
 			<div>
-				<p>Wa Dept of Fish and Wildlife:&nbsp; Seabird Eco: Flilogy<br />
-					<a href="http://wdfw.wa.gov/conservation/research/projects/seabird/">http://wdfw.wa.gov/conservation/research/projects/seabird/</a></p>
-				<p>Wa Dept of Fish and Wildlife: Marine Bird Density Atlas<br />
-					<a href="http://wdfw.wa.gov/mapping/psamp/index.html">http://wdfw.wa.gov/mapping/psamp/index.html</a> </p>
+				<p><a href="http://wdfw.wa.gov/conservation/research/projects/seabird/">Washington Department of Fish and Wildlife Seabird Ecology program </a></p>
+				<p><a href="http://wdfw.wa.gov/conservation/research/projects/waterfowl/">Washington Department of Fish and Wildlife Waterfowl Ecology program</a> </p>
+				<p><a href="http://wdfw.wa.gov/hunting/waterfowl/wildlife_management.html">Washington Department of Fish and Wildlife Wildlife Management </a> </p>
+				<p><a href="http://www.eopugetsound.org/articles/marine-birds-0">Encyclopedia of Puget Sound Marine Birds</a> </p>
 			</div>
 		</div>
 	</div>
