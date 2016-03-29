@@ -32,10 +32,6 @@ $(function() {
 	<?php include 'includes/header.html' ?>
 	<?php include 'includes/birds_title.html' ?>
 	<?php include 'includes/birds_tab.html' ?>
-	
-
-	
-	
 	<div id="accordioncontainer">
 		<div id="accordion"> 
 			<!--*********************************FOLD 01*********************************-->
