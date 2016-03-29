@@ -67,7 +67,8 @@ $(function() {
 			<!--*********************************FOLD 03*********************************-->
 			<h3><a href="#!">Progress summary and data</a></h3>
 			<div>
-				<h5>Is the indicator making progress toward the 2020 target? </h5>
+				<!--*********************************PINK HEADER*********************************-->
+				<div class="purpBarHeader"><strong>Is the indicator making progress toward the 2020 target? </strong></div>
 				<p> <span><img src="images/status_getting_better.png" width="118" height="121" alt=""/>Yes, this indicator has made progress relative to the baseline reference.</p>
 				<p>Because the rate of adding new armoring has slowed and more armoring was removed than added in 2014, this indicator appears to make some progress toward the 2020 target. </p>
 				<p>More armoring was gained than lost cumulatively since 2011, resulting in a net cumulative length of 1.1 miles (6,000 feet). However, in 2014, more armoring was removed than was added, a ratio that aligns well with the 2020 target. </p>

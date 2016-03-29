@@ -4,11 +4,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="google-site-verification" content="lMaE6uVdAY_4P-zfoagi1Kj2QQLS8W3JvahLqMZMuDU" />
 <title>Puget Sound Partnership - Vital Signs - Floodplains</title>
-<link href="css/vital1.css" rel="stylesheet" type="text/css" />
+<link href="css/vital2016.css" rel="stylesheet" type="text/css" />
 <link type="text/css" href="css/custom-theme/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" />
 <script type="text/javascript" src="js/jquery-1.8.3.js"></script>
 <script type="text/javascript" src="js/jquery-ui-1.9.2.custom.min.js"></script>
-<script type="text/javascript" src="js/divhide.js"></script>
+<script type="text/javascript" src="js/settab.js"></script>
 <script>
 $(function() {
 		$( "#accordion" ).accordion( { collapsible: true }, { active: false }, { autoHeight: false });
@@ -21,44 +21,17 @@ $(function() {
   });
 });	
 </script>
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 1;
+	color = "purp";
+</script>
 </head>
 <body id="id15" >
 <div id="container">
 	<?php include 'includes/header.html' ?>
-	<!--*********************************TITLE BAR BEGIN*********************************-->
-	<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
-	<div id="vitalheadercontainer">
-		<div id="vitalheaderleftcontainer">
-			<div id="vitaltitle">Floodplains</div>
-			<div id="vitalquote">Many floodplains in Puget Sound have been lost through a combination of shoreline armoring, levees and residential, commercial, industrial and agricultural development.</div>
-			<div id="vitalchampion">Indicator Lead: to be determined</div>
-			<div id="vitalbuttonscontainer">
-				<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas">View Projects</a></div>
-				<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&Quarter=10&Vital%20Sign=Floodplains">View Report Card</a></div>
-			</div>
-		</div>
-		<div id="vitalheaderrightphoto">
-			<div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div>
-			<div class="photoCredit padding-top">Data last updated on March 21, 2014<br />
-			Photo Credit: Joe Kunzler</div></div>
-	</div>
-	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
-	<!--*********************************TITLE BAR END*********************************--> 
-	
-	<!--*********************************TAB BEGIN*********************************-->
-	
-	<ul id="nav_indicator">
-		<li class="indicator_active_purp"><a href="flood_plains.php">Vital Sign Overview<br />
-			<br />
-			<br />
-			</a> </li>
-		<li><a href="flood_plains_indicator1.php">Indicator: In development<br />
-			<br />
-			</a></li>
-	</ul>
-	<div class="clearfloat"></div>
-	<!--*********************************TAB END*********************************-->
-	
+	<?php include 'includes/floodplains_title.html' ?>
+	<?php include 'includes/floodplains_tab.html' ?>
 	<div id="accordioncontainer">
 		<div id="accordion"> 
 			
@@ -91,9 +64,11 @@ $(function() {
 			<!--*********************************FOLD 06*********************************-->
 			<h3><a href="#!">Links for more information</a></h3>
 			<div>
-				<p> <a href="documents/TNC Floodplains Report Final.9.24.2013.pdf">Managing Floods and Floodplains in Puget Sound: A Synthesis of Flood Manager and Decision‐maker Interviews and Research</a></p>
-				<p> <a href="documents/Floodplain_Management_Report Judge Final-July 2010.pdf">Floodplain Management: A Synthesis of Issues Affecting Recovery of Puget Sound</a></p>
-				<p> <a href="http://maps.coastalresilience.org/pugetsound/">Coastal Resiliency, the Nature Conservancy</a></p>
+				<p><a href="http://pubs.usgs.gov/sir/2015/5033/" target="new">USGS Geospatial assessment of ecological functions and flood-related risks on floodplains along major rivers in the Puget Sound basin</a></p>
+				<p><a href="https://www.sciencebase.gov/catalog/item/54ef71ade4b02d776a684b8a" target="new">USGS floodplain area and function assessment products</a></p>
+				<p> <a href="documents/TNC Floodplains Report Final.9.24.2013.pdf" target="new">Managing Floods and Floodplains in Puget Sound: A Synthesis of Flood Manager and Decision‐maker Interviews and Research</a></p>
+				<p> <a href="documents/Floodplain_Management_Report Judge Final-July 2010.pdf" target="new">Floodplain Management: A Synthesis of Issues Affecting Recovery of Puget Sound</a></p>
+				<p> <a href="http://maps.coastalresilience.org/pugetsound/" target="new">Coastal Resiliency, the Nature Conservancy</a></p>
 			</div>
 		</div>
 	</div>

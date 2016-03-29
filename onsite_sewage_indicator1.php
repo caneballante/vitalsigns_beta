@@ -67,7 +67,8 @@ $(function() {
 			<div> 
 				<!--*********************************GREEN HEADER*********************************-->
 				
-				<h5>Is the indicator making progress toward the 2020 target? </h5>
+				<!--*********************************PINK HEADER*********************************-->
+				<div class="greenBarHeader"><strong>Is the indicator making progress toward the 2020 target? </strong></div>
 				<p> <span><img src="images/status_mixed_results.png" width="120" height="123" alt=""/>The results for this indicator are mixed. </p>
 				<p>The 2014 interim target for inventories was met, but the interim target for inspection rates fell short.</p>
 				<ul>

@@ -4,11 +4,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="google-site-verification" content="lMaE6uVdAY_4P-zfoagi1Kj2QQLS8W3JvahLqMZMuDU" />
 <title>Puget Sound Partnership - Vital Signs - Floodplains</title>
-<link href="css/vital1.css" rel="stylesheet" type="text/css" />
+<link href="css/vital2016.css" rel="stylesheet" type="text/css" />
 <link type="text/css" href="css/custom-theme/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" />
 <script type="text/javascript" src="js/jquery-1.8.3.js"></script>
 <script type="text/javascript" src="js/jquery-ui-1.9.2.custom.min.js"></script>
-<script type="text/javascript" src="js/divhide.js"></script>
+<script type="text/javascript" src="js/settab.js"></script>
 <script>
 $(function() {
 		$( "#accordion" ).accordion( { collapsible: true }, { active: false }, { autoHeight: false });
@@ -21,44 +21,17 @@ $(function() {
   });
 });	
 </script>
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 2;
+	color = "purp";
+</script>
 </head>
 <body id="id15" >
 <div id="container">
 	<?php include 'includes/header.html' ?>
-	<!--*********************************TITLE BAR BEGIN*********************************-->
-	<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
-	<div id="vitalheadercontainer">
-		<div id="vitalheaderleftcontainer">
-			<div id="vitaltitle">Floodplains</div>
-			<div id="vitalquote">Many floodplains in Puget Sound have been lost through a combination of shoreline armoring, levees and residential, commercial, industrial and agricultural development.</div>
-			<div id="vitalchampion">Indicator Lead: to be determined</div>
-			<div id="vitalbuttonscontainer">
-				<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas">View Projects</a></div>
-				<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&Quarter=10&Vital%20Sign=Floodplains">View Report Card</a></div>
-			</div>
-		</div>
-		<div id="vitalheaderrightphoto">
-			<div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div>
-			<div class="photoCredit padding-top">Data last updated on March 21, 2014<br />
-			Photo Credit: Joe Kunzler</div></div>
-	</div>
-	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
-	<!--*********************************TITLE BAR END*********************************--> 
-	
-	<!--*********************************TAB BEGIN*********************************-->
-	
-	<ul id="nav_indicator">
-		<li><a href="flood_plains.php">Vital Sign Overview<br />
-			<br />
-			<br />
-			</a> </li>
-		<li class="indicator_active_purp"><a href="flood_plains_indicator1.php">Indicator: In development<br />
-			<br />
-			</a></li>
-	</ul>
-	<div class="clearfloat"></div>
-	<!--*********************************TAB END*********************************-->
-	
+	<?php include 'includes/floodplains_title.html' ?>
+	<?php include 'includes/floodplains_tab.html' ?>
 	<div id="accordioncontainer">
 		<div id="accordion"> 
 			
@@ -67,35 +40,44 @@ $(function() {
 			<div> 
 				<!--*********************************PURPLE HEADER*********************************-->
 				<div class="purpBarHeader">What is the indicator? </div>
-				<p>A working group comprised of floodplain experts is developing definitions and data for this target, which will be available in late 2014.</p>
-				<p>Floodplains are an important part of the Puget Sound landscape particularly in the lowlands along large rivers. They are used by people for cities, farms, and transportation. They provide habitats for fish and wildlife, which in turn play a role in meeting economic, cultural, and recreational needs. They store and route water through river corridors during floods, holding some of it to recharge groundwater sources. Protection and restoration of the services provided by floodplains is integral to the recovery of Puget Sound and the viability of its communities. </p>
+				<p>This indicator is the restoration of floodplains.</p>
 				<p>Floodplains are areas adjacent to rivers that are formed primarily of silt, sand, and gravel deposited by the river and periodically inundated during floods. They occupy valley bottoms but are dynamic features that are formed, eroded, and abandoned by rivers over time.</p>
-				<p>Floodplain functions and services have been significantly altered or lost through a combination of shoreline and river bank armoring; levees and flood regulation by dams; and residential, commercial, industrial, and agricultural development. These activities disconnect floodplains from their rivers, eliminate channels and wetland areas that provided “off-channel” aquatic habitats, convert forests that would have naturally grown on floodplains to other types of land cover, and degrade the ability of floodplains to absorb water or provide a host of other ecological services that are important to communities.</p>
+				<p>Floodplains are an important part of the Puget Sound landscape, particularly in the lowlands along large rivers. They are used by people for cities, farms, and transportation. They provide habitats for fish and wildlife, which in turn play a role in meeting economic, cultural, and recreational needs. They store and route water through river corridors during floods, holding some of it to recharge groundwater sources. Protection and restoration of the services provided by floodplains is integral to the recovery of Puget Sound and the viability of its communities. </p>
+				<p>Rivers and streams around Puget Sound respond to winter storms and melting snowpack by rising and flooding low-lying areas in the floodplain. By absorbing this overflow, floodplains provide functions and services like refuge, food, and fresh water for a variety of species, rich agricultural land, and level land that supports a variety of human uses. Unfortunately, floodplains have been degraded over time. Projects are underway to better manage floodplains, restore hydrologic connectivity and natural flows, reduce flood hazards, and improve habitat for salmon.</p>
+				<p>For each of Puget Sound’s 17 major rivers, the extent of floodplains was estimated using two different approaches:</p>
+				<p>1.	The Federal Emergency Management Agency’s (FEMA) 500-year floodplain extent (where there is 0.2 percent chance of a flood hazard every year; FEMA 1996, 2015).</p>
+				<p>2.	The U.S. Geological Survey’s floodplain assessment based on landform and water surface elevation (Konrad 2015).</p>
 				
 				<!--*********************************PURPLE HEADER*********************************-->
 				<div class="purpBarHeader">What are the targets? </div>
 				<h5>2020 target</h5>
 				<ul>
 					<li>Restore, or have projects underway to restore, 15% of degraded Puget Sound floodplain area. </li>
-					<li>Have no net loss of floodplain function in any watershed.</li>
 				</ul>
 				<h5>Interim targets</h5>
 				<p>There currently are no interim targets for this Vital Sign (but there are interim targets for output targets).</p>
 				
-				<!--*********************************PURPLE HEADER*********************************-->
-				<div class="purpBarHeader">Is there progress? </div>
-				<p>The analysis of progress toward the 2020 target is pending until the characterization of floodplains and the definition of what "to restore" means are completed.</p>
-				<p>The Puget Sound Partnership Leadership Council established a target for recovery of the ecological connectivity and condition of 15 percent of the degraded floodplains in our region by 2020. Because floodplains support a variety of functions and are impacted by human uses in different ways (e.g., disconnected from a river, converted to farms, pavement, and buildings) that affect functions, the floodplain recovery target does not translate simply into a single number for restoration. As a result, it may be necessary to consider targets for individual functions to recover the two key ecological attributes of floodplains: connectivity and condition. The current status of floodplain condition and connectivity are currently being assessed as part of the “Floodplains by Design” project, a collaboration between the Puget Sound Partnership and other agencies and organizations, to provide a basis for calculating the extent of action needed to achieve the floodplain recovery target.</p>
+				<!--*********************************PURPLE HEADER*********************************--> 
+				
 			</div>
 			
 			<!--*********************************FOLD 03*********************************-->
 			<h3><a href="#!">Progress summary and data</a></h3>
-			<div>
-				<div class="purpBarHeader">Data</div>
-				<p>There are about 2,500 sq km of valley bottom where floodplains could occur along the 17 major rivers in the Puget Sound basin. The widest valleys with the largest floodplains are in the eastern lowlands between Puget Sound and the Cascade Range where glaciers carved troughs that were subsequently filled with glacial and alluvial (river) sediments.</p>
-				<p>Not all of the valley bottom would have functioned as floodplains at any single point in time: based on topographic analyses there are about 1,500 sq km of valley bottom along the 17 major rivers that could be inundated periodically (about everydecade) and, thus, represent one measure of potential floodplain area. The remaining 1,000 sq km of valley bottom is either too high or otherwise isolated from smaller flood events.</p>
-				<p>Preliminary analysis is beginning to indicate the extent of degradation of floodplain connectivity and condition across Puget Sound. About 950 sq km of the potential floodplain area has no roads or levees separating it from a river. It is likely that much of the other 550 sq km floodplain area is “disconnected” meaning that floodwater is not able to flow freely into and out of these areas because of roads or levees.</p>
-				<p>Currently about 75 sq km of the potential floodplain area has medium to high levels of urban development, which makes recovery of many ecological functions costly and more challenging due to the extent of the disturbance. Medium and high development areas are based on NOAA CCAP data, which classified LandSat imagery from 2006. High development area contains littleor no vegetation. This subclass includes heavily built-up urban centers aswell as large constructed surfaces in suburban and rural areas.  Large buildings (such as multiple family housing, hangars, and large barns),interstate highways, and runways typically fall into this subclass. Mediumdevelopment area contains substantial amounts of constructed surface mixedwith substantial amounts of vegetated surface. Small buildings (such assingle family housing, farm outbuildings, and large sheds), typically fallinto this subclass.Impervious surfaces account for 50-79 percent of the total cover.</p>
+			<div> 
+				<!--*********************************PINK HEADER*********************************-->
+				<div class="purpBarHeader"><strong>Is the indicator making progress toward the 2020 target? </strong></div>
+				<p><span><img src="images/status_getting_better.png" width="120" height="123" alt=""/></span>Yes, this indicator has made gains relative to the baseline reference.</p>
+				<p>A total of 39 projects were completed, amounting to 58 square kilometers, from Federal Fiscal Year 2011 to 2014.</p>
+				<p>In recognition of past and ongoing efforts to improve the condition of floodplains, progress toward the 2020 target is categorized as getting better. However, in order to report against the 2020 target, more information is needed to define function and degradation of floodplains and to evaluate the impact of floodplain restoration projects.</p>
+				<p>Using the regional land cover and change analysis available for 2011 from the National Oceanic and Atmospheric (NOAA) Coastal Change Analysis Program (C-CAP), human development in the two floodplain extents described above ranges from 787 square kilometers (51 percent of the FEMA floodplain extent of 1,500 square kilometers) down to 535 square kilometers (54 percent of the USGS floodplain extent of 1,000 square kilometers). </p>
+				<p>Land development in floodplains is a cause of degradation of floodplain function. However, floodplain function can be degraded by features other than land development (for instance, a levee disconnecting a portion of floodplain from the river’s main stem). Thus, areas degraded by development do not represent the full potential for habitat restoration.</p>
+				
+<div class="purpBarHeader">Latest Data</div>
+				<img src="images/floodplains.png" width="800" height="699" alt=""/>
+				<p>Because floodplains support a variety of functions and are impacted by human uses in different ways (e.g., disconnected from a river, converted to farms, pavement, and buildings) that affect functions, the floodplain recovery target does not translate simply into a single number for restoration. As a result, it may be necessary to consider targets for individual functions to recover the two key ecological attributes of floodplains: connectivity and condition. </p>
+<p>The current status of floodplain condition and connectivity are currently being assessed as part of the “Floodplains by Design” project, a collaboration between the Puget Sound Partnership, the Department of Ecology and other agencies and organizations, to provide a basis for calculating the extent of action needed to achieve the floodplain recovery target.</p>
+
+
 			</div>
 		</div>
 	</div>

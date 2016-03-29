@@ -67,7 +67,8 @@ $(function() {
 			<!--*********************************FOLD 03*********************************-->
 			<h3><a href="#!">Progress summary and data</a></h3>
 			<div>
-				<h5>Is the indicator making progress toward the 2020 target?</h5>
+				<!--*********************************PINK HEADER*********************************-->
+				<div class="pinkBarHeader"><strong>Is the indicator making progress toward the 2020 target? </strong></div>
 				<p> The results for this indicator are mixed.</p>
 				<p><span><img src="images/status_mixed_results.png" width="120" height="123" alt=""/>Data show mixed results for changes over time in marine bird species:</p>
 				<ul>

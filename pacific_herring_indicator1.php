@@ -66,7 +66,8 @@ $(function() {
 		<h3><a href="#!">Progress summary and data</a></h3>
 		<div> 
 			<!--*********************************PINK HEADER*********************************-->
-			<div class="pinkBarHeader">Is there progress? </div>
+			<!--*********************************PINK HEADER*********************************-->
+				<div class="pinkBarHeader"><strong>Is the indicator making progress toward the 2020 target? </strong></div>
 			
 		<p>	<span><img src="images/status_getting_worse.png" width="120" height="123" alt=""/></span>No, this indicator lost ground relative to a baseline reference.</p>
 <p>No progress has been made and none of the 2020 target values for individual Pacific herring stocks or groups of stocks are met. Overall, the current spawning biomass of all stocks is below both their respective 25-year mean reference and their 2020 target values.</p>
