@@ -21,15 +21,13 @@ h4 {
 	font-size: .8em;
 	margin: .5em 0 .3em 0;
 }
-
 h5 {
 	font-size: .8em;
 	margin: .5em 0 .3em 0;
-	font-weight:700;
+	font-weight: 700;
 }
 a:link {
 	color: #2d7fb3;
-	
 }
 a:visited {
 	color: #2d7fb3;
@@ -72,19 +70,18 @@ li {
 	width:400px;
 }
 */
-.vital-home-page p{
-	font-size:14px;
-	padding:20px 40px 20px 40px;
-	line-height:1.8;
+.vital-home-page p {
+	font-size: 14px;
+	padding: 20px 40px 20px 40px;
+	line-height: 1.8;
 }
-.vital-home-page .big-p{
-	font-size:18px;
-	line-height:2;
+.vital-home-page .big-p {
+	font-size: 18px;
+	line-height: 2;
 }
-.vital-home-page a{
+.vital-home-page a {
 	color: rgba(108,188,242,1.00);
-	}
-	
+}
 #footerBlockRight {
 	padding-top: 0px;
 	float: right;
@@ -99,7 +96,6 @@ li {
 	float: left;
 	margin-right: 8px;
 }
-
 .fltrtmap {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
 	float: right;
 	margin-left: 8px;
@@ -108,7 +104,7 @@ li {
 .fltlftmap { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
 	float: left;
 	margin-right: 8px;
-	width:600px;
+	width: 600px;
 }
 .clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the .container) if the .footer is removed or taken out of the .container */
 	clear: both;
@@ -185,16 +181,28 @@ li {
 }
 
 */
+/*using these placeholders as the id for the title includes are fubar-d with the new vital signs - jon 4-7-16*/
+#green_placeholder #vitalheadercontainer {
+	background-image: url(../img/green_placeholder_background.jpg);
+	height: 240px;
+	position: relative;
+}
+#orange_placeholder #vitalheadercontainer {
+	background-image: url(../img/orange_placeholder_background.jpg);
+	height: 240px;
+	position: relative;
+}
 
+/*see note above about placeholders for the following id's*/
 #idHome #vitalheadercontainer {
 	background-color: #555555;
 	position: relative;
 	text-align: center;
 }
 #idHome #vitalheadercontainer p {
-	text-align:left;
-	margin:0;
-	padding:20px 40px 0px 40px;
+	text-align: left;
+	margin: 0;
+	padding: 20px 40px 0px 40px;
 }
 #id01 #vitalheadercontainer {
 	background-image: url(../img/1_onsite.jpg);
@@ -330,7 +338,6 @@ li {
 	padding: 20px 20px 0 20px;
 	color: #fff;
 }
-
 #vitalquote-herring {
 	position: absolute;
 	height: 80px;
@@ -342,7 +349,6 @@ li {
 	padding: 20px 20px 0 20px;
 	color: #fff;
 }
-
 #vitalchampion {
 	position: absolute;
 	border-top: none;
@@ -424,15 +430,14 @@ li {
 	padding: 20px 0 0 10px;
 }
 .underconstruction {
-	font-size:13px;
-	font-weight:bold;
-	padding:10px 10px 10px 10px;
-	background-color:#333;
+	font-size: 13px;
+	font-weight: bold;
+	padding: 10px 10px 10px 10px;
+	background-color: #333;
 }
-.padding-top{
-	margin-top:140px;
+.padding-top {
+	margin-top: 140px;
 }
-
 .greenBarHeader {
 	background: #60AA3E;
 	padding: 5px 5px 5px 5px;
@@ -440,9 +445,7 @@ li {
 	color: #FFF;
 	font-size: 14px;
 	font-weight: bold;
-	
 }
-
 .pinkBarHeader {
 	background: #DB2365;
 	padding: 5px;
@@ -450,9 +453,7 @@ li {
 	color: #FFF;
 	font-size: 14px;
 	font-weight: bold;
-	
 }
-
 .purpBarHeader {
 	background: #8228BF;
 	padding: 5px;
@@ -460,9 +461,7 @@ li {
 	color: #FFF;
 	font-size: 14px;
 	font-weight: bold;
-	
 }
-
 .blueBarHeader {
 	background: #54A4D2;
 	padding: 5px;
@@ -470,9 +469,7 @@ li {
 	color: #FFF;
 	font-size: 14px;
 	font-weight: bold;
-	
 }
-
 .aquaBarHeader {
 	background: #01B499;
 	padding: 5px;
@@ -480,9 +477,7 @@ li {
 	color: #FFF;
 	font-size: 14px;
 	font-weight: bold;
-	
 }
-
 .orangeBarHeader {
 	background: #e86e2f;
 	padding: 5px;
@@ -490,103 +485,112 @@ li {
 	color: #FFF;
 	font-size: 14px;
 	font-weight: bold;
-	
 }
-
-.orange{color: #e86e2f;}
-.green{color: #60AA3E;}
-.pink{color: #DB2365;}
-.purp{color: #8228BF;}
-.blue{color: #54A4D2;}
-.aqua{color: #01B499;}
-.white{color: #fff}
-
-.orangeBackground{background-color: #e86e2f;}
-.greenBackground{background-color: #60AA3E;}
-.pinkBackground{background-color: #DB2365;}
-.purpBackground{background-color: #8228BF;}
-.blueBackground{background-color: #54A4D2;}
-.aquaBackground{background-color: #01B499;}
-.lightgreenBackground {background-color:#ceddc6;}	
-.lightpurpBackground {background-color: #DAA3C8}	
-	
-	
-	
+.orange {
+	color: #e86e2f;
+}
+.green {
+	color: #60AA3E;
+}
+.pink {
+	color: #DB2365;
+}
+.purp {
+	color: #8228BF;
+}
+.blue {
+	color: #54A4D2;
+}
+.aqua {
+	color: #01B499;
+}
+.white {
+	color: #fff
+}
+.orangeBackground {
+	background-color: #e86e2f;
+}
+.greenBackground {
+	background-color: #60AA3E;
+}
+.pinkBackground {
+	background-color: #DB2365;
+}
+.purpBackground {
+	background-color: #8228BF;
+}
+.blueBackground {
+	background-color: #54A4D2;
+}
+.aquaBackground {
+	background-color: #01B499;
+}
+.lightgreenBackground {
+	background-color: #ceddc6;
+}
+.lightpurpBackground {
+	background-color: #DAA3C8
+}
 #nav_indicator {
 	width: 100%;
-	float: left ;
+	float: left;
 	margin: 10px 0 0 0;
 	padding: 0;
-	list-style: none; 
-	background-color:#0a3b5c;
-	//background-color: #2B2B2B;
-	//border: 1px solid #ccc; }
-	
-	
-	
+	list-style: none;
+	background-color: #0a3b5c;
+ //background-color: #2B2B2B;
+ //border: 1px solid #ccc;
+}
 #nav_indicator li {
-		float: left ;
-		padding: 0 !important;
-		margin: 0 !important;
-				margin-right: 2px;
-		
-	 }
-	 
+	float: left;
+	padding: 0 !important;
+	margin: 0 !important;
+	margin-right: 2px;
+}
 #nav_indicator li a {
-		width: 150px;
-		display: block;
-		padding: 10px;
-
-		text-decoration: none;
-		font-weight: bold;
-		color: #fff;
-		border-right: 1px solid #000;
-		background-color: #555;
-		border-radius: 10px 10px 0px 0px;
-	 }
-	 
- #nav_indicator li a:hover {
-
+	width: 150px;
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #fff;
+	border-right: 1px solid #000;
+	background-color: #555;
+	border-radius: 10px 10px 0px 0px;
+}
+#nav_indicator li a:hover {
 	background-color: #444;
- }
-	 
-#nav_indicator .indicator_active_orange a{
-	background-color: #e86e2f;	
 }
-#nav_indicator .indicator_active_green a{
-	background-color: #60AA3E;	
+#nav_indicator .indicator_active_orange a {
+	background-color: #e86e2f;
 }
-#nav_indicator .indicator_active_pink a{
-	background-color: #DB2365;	
+#nav_indicator .indicator_active_green a {
+	background-color: #60AA3E;
 }
-#nav_indicator .indicator_active_purp a{
-	background-color: #8228BF;	
+#nav_indicator .indicator_active_pink a {
+	background-color: #DB2365;
 }
-#nav_indicator .indicator_active_blue a{
-	background-color: #54A4D2;	
+#nav_indicator .indicator_active_purp a {
+	background-color: #8228BF;
 }
-#nav_indicator .indicator_active_aqua a{
-	background-color: #01B499;	
+#nav_indicator .indicator_active_blue a {
+	background-color: #54A4D2;
 }
-
-
-
-.vstable{
-	font-size:.8em;
+#nav_indicator .indicator_active_aqua a {
+	background-color: #01B499;
+}
+.vstable {
+	font-size: .8em;
 	border-collapse: collapse;
-	}
-
+}
 .vstable table {
-    border-collapse: collapse;
+	border-collapse: collapse;
 }
-
 .vstable table, th, td {
-    border: 1px solid black;
-	padding:5px;
+	border: 1px solid black;
+	padding: 5px;
 }
-
-.vstable th{
-	font-size:1em;
-	//background-color: #60AA3E;
-	}	
-	
+.vstable th {
+	font-size: 1em;
+ //background-color: #60AA3E;
+}
