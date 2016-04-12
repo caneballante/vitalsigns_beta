@@ -29,7 +29,7 @@ $(function() {
 </head>
 <body id="id11">
 <div id="container">
-	<?php include 'includes/header.html' ?>
+	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/birds_title.html' ?>
 	<?php include 'includes/birds_tab.html' ?>
 	<div id="accordioncontainer">

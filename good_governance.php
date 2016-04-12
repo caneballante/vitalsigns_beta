@@ -30,7 +30,7 @@ $(function() {
 </head>
 <body id="orange_placeholder" >
 <div id="container">
-	<?php include 'includes/header.html' ?>
+	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/good_governance_title.html' ?>
 	<?php include 'includes/good_governance_tab.html' ?>
 	<div id="accordioncontainer">
