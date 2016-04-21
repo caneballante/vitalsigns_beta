@@ -32,49 +32,39 @@ $(function() {
 	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/land_cover_title.html' ?>
 	<?php include 'includes/land_cover_tab.html' ?>
-	
 	<div id="accordioncontainer">
 		<div id="accordion"> 
-	
-			
-			<!--*********************************FOLD 02*********************************-->
+		<!--*********************************FOLD 02*********************************-->
 			<h3><a href="#!">Indicator and target description</a></h3>
 			<div> 
-				<!--*********************************PURPLE HEADER*********************************-->
-				<div class="purpBarHeader">What is the indicator? </div>
-				<p>The riparian vegetation restoration indicator measures the amount of new vegetated cover delivered by restoration projects along riparian corridors. These corridors are a critical component of the Puget Sound ecosystem and the indicator evaluates the effect of direct efforts to improve them. Intact, vegetated riparian corridors are critical for: </p>
-				<ol>
-					<li>keeping fresh and marine waters clean and cool, </li>
-					<li> moderating variability in water volume and timing of flow (i.e. flood storage), and </li>
-					<li>as key habitat for myriad terrestrial, freshwater and interface (e.g. salmon) species.</li>
-				</ol>
-				<p>The amount of riparian corridor restored to vegetated cover will be measured through collection of acreage or linear riparian shoreline restoration reported for Puget Sound restoration projects. Riparian restoration efforts are being measured instead of riparian condition due to the difficulty in assessing riparian condition Soundwide and the length of time necessary to call a specific location successfully restored. Although tracking total riparian condition is a much more difficult task than tracking regional forest cover, the initiation and completion of restoration activities are feasible measures. Successful restoration could take many years and measuring its success will require ongoing monitoring. Recent restoration efforts in the Puget Sound Basin have included 19 projects completed from October 2009 to September 2012 to restore riparian vegetation. These projects involved planting and other actions beyond treatment to remove invasive species. A project length was reported for 13 of the projects.</p>
-				<h4 class="purp">&nbsp;</h4>
+				<p>This indicator is the restoration of riparian vegetation.</p>
+				<p>Land development has significantly degraded riparian vegetation corridors along Puget Sound rivers and streams. Intact riparian corridors are critical for keeping fresh and marine waters clean and cool, moderating variability in water volume and timing of flow (flood storage), and offering key habitat for myriad terrestrial, freshwater, and interface species, such as salmon. </p>
+				<p>The intent of the riparian vegetation restoration indicator is to measure the amount of new vegetated cover delivered by restoration projects along riparian corridors. Habitat restoration projects are compiled by the Puget Sound Partnership on behalf of the U.S. Environmental Protection Agency. </p>
+				<p>The amount of riparian corridor restored to vegetated cover is measured through collection of acreage or linear riparian shoreline restoration reported for Puget Sound restoration projects. Riparian restoration efforts are being measured instead of riparian condition due to the difficulty in assessing riparian condition Sound-wide and the length of time necessary to call a specific location successfully restored.</p>
+				<p>Although tracking total riparian condition is a much more difficult task than tracking regional forest cover, the initiation and completion of restoration activities are feasible measures. Successful restoration could take many years and measuring its success will require ongoing monitoring. </p>
+					<p>Puget Sound Partnership staff analyzed data for federal fiscal years 2010 to 2014, primarily from the Washington State Recreation and Conservation Office’s PRISM database and reports of Natural Resource Conservation Service (NRCS) habitat programs.</p>
 				
 				<!--*********************************PURPLE HEADER*********************************-->
-				<div class="purpBarHeader">What is the target? </div>
+				<div class="purpBarHeader">What are the targets? </div>
+				<h5>2020 target </h5>
 				<p>Restore 268 miles of riparian vegetation or have an equivalent extent of restoration projects under way.</p>
-				<h4 class="purp">&nbsp;</h4>
 				<h5>Interim Target</h5>
 				<p>There currently are no interim targets for this Vital Sign.</p>
-				<!--*********************************PURPLE HEADER*********************************-->
-				<div class="purpBarHeader">Is there progress? </div>
-				<p>Some progress has been made toward the 2020 target. Habitat data collected by the Puget Sound Partnership on behalf of the Environmental Protection Agency indicate that 19 riparian restoration projects were conducted in the Puget Sound basin from October 2009 through September 2012. However, miles of restored riparian corridors were reported only for 13 projects. In total, at least 76 miles were restored during that time period, or 28% progress toward the 2020 target of 268 miles. It should be noted that riparian corridor restoration prior to October 2009, the baseline reference year, was not counted toward the target.</p>
-				<h4 class="purp"><!--*********************************FOLD 03*********************************--> </h4>
 			</div>
+			<!--*********************************FOLD*********************************-->
 			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
-				<!--*********************************PURPLE HEADER*********************************-->
-				<div class="purpBarHeader">Data</div>
-				<p> The sum of the lengths reported for the 13 projects between October 2009 and September 2012 is about 76 miles, which is 28% of the 2020 target. If the median project length were applied to the six projects with no length estimate provided, we would estimate that the total mileage restored in this three-year period at 86 miles, which is 32% of the 2020 target. </p>
-				<h5>Data source</h5>
-				<p> Puget Sound Partnership staff analyzed data for federal fiscal years 2010, 2011 and 2012 primarily from the Washington State Recreation and Conservation Office’s PRISM database and reports of Natural Resource Conservation Service (NRCS) habitat programs.</p>
-				<h4 class="purp">&nbsp;</h4>
-				
-				<!--*********************************PURPLE HEADER*********************************-->
-				<div class="purpBarHeader">Maps </div>
-				<p> No map </p>
-				<h4 class="purp">&nbsp;</h4>
+			<!--*********************************PURPLE HEADER*********************************-->
+				<div class="purpBarHeader">Is the indicator making progress toward the 2020 target? </div>
+				<p>Yes, this indicator has made gains relative to the baseline reference.</p>
+				<p>Because the cumulative amount of restoration of vegetation along riparian corridors increases incrementally every year, progress of the indicator is categorized as getting better.</p>
+				<ul>
+					<li>Cumulatively, activities to restore vegetation in riparian areas occurred along an estimated 135 linear miles of streams and rivers during that time period.</li>
+					<li>This estimate is about half of the 2020 target of 268 miles.</li>
+				</ul>
+				<p>Data indicate that activities to restore vegetation in riparian corridors, such as planting native species, were reported as completed for 67 projects in the Puget Sound basin from Federal Fiscal Years 2009 to 2014 (Oct. 1, 2008, through Sept. 30, 2014). The footprint of those activities was reported only for 48 of those projects. No projects were reported in 2009.</p>
+				<div class="purpBarHeader">Latest data</div>
+				<p><img src="images/riparian.jpg" width="850" height="560" alt=""/></p>
 			</div>
 		</div>
 	</div>

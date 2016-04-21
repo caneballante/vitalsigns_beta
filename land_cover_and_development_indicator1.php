@@ -53,9 +53,9 @@ $(function() {
 				<h4 class="purp">&nbsp;</h4>
 				<h5>Interim Target</h5>
 				<p>There currently are no interim targets for this Vital Sign.</p>
-				
-				<!--*********************************FOLD 03*********************************--> 
 			</div>
+			<!--*********************************FOLD 03*********************************-->
+			
 			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				
