@@ -30,7 +30,7 @@ $(function() {
 			<p><h2>Puget Sound Vital Signs</h2></p><p class="big-p">Is the health of Puget Sound improving? Are there fewer toxic chemicals in Puget Sound and more salmon? How much habitat has been restored? And are the Puget Sound Partnership’s ecosystem recovery targets met? These are just some of the questions that the evaluation of the Puget Sound Vital Signs helps answer.</p>
 			<!--<p> Find out more about the Vital Signs by selecting a Vital Sign from the list at the top right.</p>
 			<p>For a summary of what the Puget Sound Vital Sign indicators are telling us, take a look at the <a href="../sos.php">2015 State of Sound</a>.</p><br /><br />--> 
-			<img src="images/vitalsigns_wheel_2016.png" width="700" height="704" alt=""/>
+			<a href="vital_signs_wheel_download.html" target="new"><img src="images/vitalsigns_wheel_2016.png" width="700" height="704" alt="High resolution vitals signs wheel png"/></a>
 			<h2>What are the Vital Signs and their indicators?</h2>
 			<p>While the Vital Signs represent the different overarching measures for determining the health of Puget Sound, indicators representing each Vital Sign serve as the specific and measurable metrics. Examples of indicators include eelgrass acreage under the Eelgrass Vital Sign, Chinook salmon abundance under the Chinook Vital Sign, and the number of Southern Resident Killer Whales under the Orca Vital Sign.</p>
 			<p>The Puget Sound Partnership adopted an initial collection of indicators and targets in 2010 and 2011. In July 2015, the Partnership adopted new Vital Signs and indicators of human wellbeing. These Vital Signs and indicators are primarily associated with the Healthy Human Population and Quality of Life goals.</p>
