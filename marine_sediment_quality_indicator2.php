@@ -30,16 +30,17 @@ $(function() {
 	<div id="vitalheadercontainer">
 		<div id="vitalheaderleftcontainer">
 			<div id="vitaltitle">Marine Sediment Quality</div>
-			<div id="vitalquote">The levels of pollutants in sediment can adversely affect organisms that live in, on or near the sediment.</div>
+			<div id="vitalquote">Sediment quality is a key indicator of a healthy ecosystem, and high-quality sediments support a diverse and important biological community</div>
 			<div id="vitalchampion"> Indicator Lead: Maggie Dutch, Washington State Department of Ecology</div>
 			<div id="vitalbuttonscontainer">
-				<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
+				<div id="button1"><a href="http://gismanager.rco.wa.gov/ProjectAtlas/?summaryArea[areaName]=Puget+Sound&summaryArea[areaType]=PSP+Boundary&summaryArea[areaShapeId]=NA" target="_blank">View Projects</a></div>
 				<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&Quarter=10&Vital%20Sign=Marine%20Sediment%20Quality" target="_blank">View Report Card</a></div>
+                <div id="button3"><a href="https://pspwa.app.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un" target="_blank">State of the Sound</a></div>
 			</div>
 		</div>
 		<div id="vitalheaderrightphoto">
-			<div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div>
-			<div class="photoCredit padding-top">Data last updated on March 21, 2013<br />
+			
+			<div class="photoCredit padding-top">Data last updated on May 27, 2013<br />
 			Photo Credit: Department of Ecology</div></div>
 	</div>
 	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
@@ -71,41 +72,43 @@ $(function() {
 			<div> 
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader">What is the indicator? </div>
-				<h4 class="aqua">Sediment Quality Standards</h4>
-				<p>The second (related) indicator reports the percent of individual chemical measurements that exceed the Washington Sediment Quality Standards (SQS). SQS values have been determined for a total of 47 chemicals in Puget Sound. Of those, 39 are included in the SCI and evaluated for this indicator.</p>
+				<h4 class="aqua">This indicator is Sediment Quality Standards.</h4>
+				<p>This indicator is the percent of individual chemical measurements that exceed the Washington Sediment Quality Standards (SQS), which is related to the Sediment Chemistry Index, another indicator for the marine sediment Vital Sign. </p>
+<p>SQS values have been determined for a total of 47 chemicals in Puget Sound. Of those, 39 are included in the SCI and evaluated for this indicator.
+</p>
 				<h4 class="aqua">&nbsp;</h4>
 				
 				<!--*********************************AQUA HEADER*********************************-->
-				<div class="aquaBarHeader">What is the target? </div>
+				<div class="aquaBarHeader">What are the targets? </div>
 				<h5>2020 target</h5>
-				<h4 class="aqua">&nbsp;</h4>
-				<h4 class="aqua">Sediment Quality Standards</h4>
-				<p>Have no sediment chemistry measurements exceeding the Sediment Quality Standards (SQS) set for Washington State. </p>
-				<h5><a href="http://www.psp.wa.gov/downloads/interimtargets/Marine Sediment Quality Interim Targets -FINAL.pdf">Interim targets (PDF)</a></h5>
+				<h4 class="aqua">Have no sediment chemistry measurements exceeding the Sediment Quality Standards (SQS) set for Washington State. </h4>
+			<h5>Interim Targets</h5>
+            <p>There are no interim targets set for this indicator.</p>
+				<h5><a href="http://www.psp.wa.gov/downloads/interimtargets/Marine%20Sediment%20Quality%20Interim%20Targets%20-FINAL.pdf">Interim targets (PDF)</a></h5>
 				
-				<!--*********************************AQUA HEADER*********************************-->
 				
-				<div class="aquaBarHeader">Is there progress? </div>
-				<h4 class="aqua">&nbsp;</h4>
-				<h4 class="aqua">Sediment Quality Standards</h4>
-				<p>The percent of individual chemicals exceeding SQS over the past decade is typically small (mostly less than 1%) except for Central Sound, Elliott Bay, and Commencement Bay, where the number still never exceeded 5%. Even fewer chemicals exceeded state SQS in the most recent round of sampling, with three regions dropping to zero, now meeting the target in those areas, and Budd Inlet at zero. Although the target is not fully met across all of Puget Sound, recent improvements suggest progress toward the target.</p>
-				<p>&nbsp;</p>
 			</div>
 			
 			<!--*********************************FOLD 03*********************************-->
 			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				<!--*********************************AQUA HEADER*********************************-->
-				<div class="aquaBarHeader">Data</div>
-				<h4 class="aqua">&nbsp;</h4>
-				<h4 class="aqua">Sediment Quality Standards</h4>
-				<img src="images/toxics_in_sediment_chart_2.png" width="800" height="704" alt="Sediment Quality Standards scores" />
-				<p>The second target, chemicals exceeding state sediment quality standards (SQS), was not met over the past decade in most regions and bays, again with urban bays—particularly Commencement and Elliott bays—showing the highest numbers. But the percent of chemicals exceeding the SQS value has declined in most areas that have been re-sampled, with three regions—Hood Canal, Strait of Georgia, and South Puget Sound— and Budd Inlet, now showing no sediment chemical values exceeding SQS, and both Commencement and Elliott bays dropping to below 3%. The value for Bainbridge Basin remained the same, below 1% for 1998 and 2009. Given the direction of the data, it is possible that values will continue to improve and may reach, or come very close to, the target by 2020.</p>
-				<p><strong>Citations:</strong> Long, E.R., S. Aasen, M. Dutch, K. Welch, and V. Partridge and D. Shull. 2007. Relationships between the Composition of the Benthos and Sediment and Water Quality Parameters in Hood Canal, WA: Task IV – Hood Canal Dissolved Oxygen Program. Washington State Department of Ecology Publication No. 07-03-40, Olympia, WA and Western Washington University, Bellingham, WA 197 pp. + appendices </p>
-				
+				<h5>Is the indicator making progress toward the 2020 target? </h5>
+				 <p> <span><img src="images/status_getting_better.png" width="118" height="121" alt=""/>Yes, this indicator has made gains relative to the baseline reference.</span>
+				<p>Although the target is not fully met across all of Puget Sound, recent improvements suggest progress toward the target:</p>
+<ul><li>The percent of individual chemicals exceeding SQS since 1997 is typically small (mostly less than 1 percent) except for Central Sound, Elliott Bay, and Commencement Bay, where the number still never exceeded 6 percent. </li>
+<li>Even fewer chemicals exceeded state SQS in the second round of sampling, with four regions dropping to zero, now meeting the target value in those areas. </li>
+<li>Budd Inlet and the Port Gardner/Everett Harbor urban embayments are also at zero.</li></ul>
+<div class="aquaBarHeader">Latest Data</div>
+<img src="images/marine-sediment-sqs.png" />
+<p>L<strong>Left panel:</strong> Values for eight Puget Sound regions; <strong>Right panel:</strong> Values for six Puget Sound urban bays</p>
+<p><em>Source: Washington State Department of Ecology, Marine Sediment Monitoring Team
+</em></p>
+
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader">Maps</div>
-				<img src="images/toxics_in_sediment_map.png" width="597" height="649" alt="Marine sediment monitoring regions and urban bays" /> </div>
+                <h5>FIGURE 2. MARINE SEDIMENT MONITORING REGIONS AND URBAN BAYS</h5>
+				<img src="images/old images/toxics_in_sediment_map.png" width="597" height="649" alt="Marine sediment monitoring regions and urban bays" /> </div>
 		</div>
 	</div>
 	<?php include 'includes/footer.html' ?>
