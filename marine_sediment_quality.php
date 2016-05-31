@@ -25,45 +25,10 @@ $(function() {
 <body id="id20" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
-	<!--*********************************TITLE BAR BEGIN*********************************-->
-	<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
-	<div id="vitalheadercontainer">
-		<div id="vitalheaderleftcontainer">
-			<div id="vitaltitle">Marine Sediment Quality</div>
-			<div id="vitalquote">Sediment quality is a key indicator of a healthy ecosystem, and high-quality sediments support a diverse and important biological community</div>
-			<div id="vitalchampion"> Indicator Lead: Maggie Dutch, Washington State Department of Ecology</div>
-			<div id="vitalbuttonscontainer">
-				<div id="button1"><a href="http://gismanager.rco.wa.gov/ProjectAtlas/?summaryArea[areaName]=Puget+Sound&summaryArea[areaType]=PSP+Boundary&summaryArea[areaShapeId]=NA" target="_blank">View Projects</a></div>
-				<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&Quarter=10&Vital%20Sign=Marine%20Sediment%20Quality" target="_blank">View Report Card</a></div>
-                <div id="button3"><a href="https://pspwa.app.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un" target="_blank">State of the Sound</a></div>
-			</div>
-		</div>
-		<div id="vitalheaderrightphoto">
-			
-			<div class="photoCredit padding-top">Data last updated on May 27, 2013<br />
-			Photo Credit: Department of Ecology</div></div>
-	</div>
-	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
-	<!--*********************************TITLE BAR END*********************************--> 
-	<!--*********************************TAB BEGIN*********************************-->
+	<?php include 'includes/marine_sediment_quality-title.html' ?>
+
+	<?php include 'includes/marine_sediment_quality-tab.html' ?>
 	
-	<ul id="nav_indicator">
-		<li class="indicator_active_aqua"><a href="marine_sediment_quality.php">Vital Sign Overview<br />
-			<br />
-			<br />
-			</a> </li>
-		<li><a href="marine_sediment_quality_indicator1.php">Indicator: Sediment Chemistry Index<br />
-			<br />
-			</a></li>
-		<li><a href="marine_sediment_quality_indicator2.php">Indicator: Sediment Quality Standards<br />
-			<br />
-			</a></li>
-		<li><a href="marine_sediment_quality_indicator3.php">Indicator: Sediment Quality Triad Index<br />
-			<br />
-			</a></li>
-	</ul>
-	<div class="clearfloat"></div>
-	<!--*********************************TAB END*********************************-->
 	<div id="accordioncontainer">
 		<div id="accordion"> 
 			
