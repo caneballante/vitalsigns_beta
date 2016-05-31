@@ -63,7 +63,7 @@ $(function() {
 			<!--*********************************FOLD 06*********************************-->
 			<h3><a href="#!">Links for more information</a></h3>
 			<div>
-				<p><a href="https://app.box.com/s/dnfojd0o8ihxhh3abvtbxw9kr5ey282e" target="new">Technical memorandum on setting targets for Land Cover and Land Development</a></p>
+				<p><a href="https://pspwa.box.com/s/n6ikgcj8kmex2fpjikrb6oa55hvov7xk" target="new">Technical memorandum on setting targets for Land Cover and Land Development</a></p>
 				<p> <a href="http://wdfw.wa.gov/conservation/research/projects/aerial_imagery/index.html" target="new">Coastal Change Analysis Program</a></p>
 				<p><a href="http://wdfw.wa.gov/conservation/research/projects/aerial_imagery/index.html" target="new">Washington Department of Fish and Wildlife High-Resolution Aerial Imagery Change Detection </a></p>
 			</div>
