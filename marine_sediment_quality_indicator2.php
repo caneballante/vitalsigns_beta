@@ -3,12 +3,12 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="google-site-verification" content="lMaE6uVdAY_4P-zfoagi1Kj2QQLS8W3JvahLqMZMuDU" />
-<title>Puget Sound Partnership - Vital Signs - Marine Sediment Quality</title>
-<link href="css/vital1.css" rel="stylesheet" type="text/css" />
+<title>Puget Sound Partnership - Vital Signs - Birds</title>
+<link href="css/vital2016.css" rel="stylesheet" type="text/css" />
 <link type="text/css" href="css/custom-theme/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" />
 <script type="text/javascript" src="js/jquery-1.8.3.js"></script>
 <script type="text/javascript" src="js/jquery-ui-1.9.2.custom.min.js"></script>
-<script type="text/javascript" src="js/divhide.js"></script>
+<script type="text/javascript" src="js/settab.js"></script>
 <script>
 $(function() {
 		$( "#accordion" ).accordion( { collapsible: true }, { active: false }, { autoHeight: false });
@@ -20,6 +20,11 @@ $(function() {
      _gaq.push(['_trackEvent', 'Accordion', 'ShowPage', $(this).attr('id')]);
   });
 });	
+</script>
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 3;
+	color = "aqua";
 </script>
 </head>
 <body id="id20" >
