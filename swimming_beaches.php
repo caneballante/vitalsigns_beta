@@ -4,11 +4,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="google-site-verification" content="lMaE6uVdAY_4P-zfoagi1Kj2QQLS8W3JvahLqMZMuDU" />
 <title>Puget Sound Partnership - Vital Signs - Swimming Beaches</title>
-<link href="css/vital1.css" rel="stylesheet" type="text/css" />
+<link href="css/vital2016.css" rel="stylesheet" type="text/css" />
 <link type="text/css" href="css/custom-theme/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" />
 <script type="text/javascript" src="js/jquery-1.8.3.js"></script>
 <script type="text/javascript" src="js/jquery-ui-1.9.2.custom.min.js"></script>
-<script type="text/javascript" src="js/divhide.js"></script>
+<script type="text/javascript" src="js/settab.js"></script>
 <script>
 $(function() {
 		$( "#accordion" ).accordion( { collapsible: true }, { active: false }, { autoHeight: false });
@@ -21,43 +21,17 @@ $(function() {
   });
 });	
 </script>
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 1;
+	color = "green";
+</script>
 </head>
 <body id="id02" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
-	<!--*********************************TITLE BAR BEGIN*********************************-->
-	<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
-	<div id="vitalheadercontainer">
-		<div id="vitalheaderleftcontainer">
-			<div id="vitaltitle">Swimming Beaches</div>
-			<div id="vitalquote">Every year, some of our public beaches are unsafe for swimming and must be closed because the water quality does not meet federal criteria for recreational swimming.</div>
-			<div id="vitalchampion"> Indicator lead: Debby Sargeant, Washington State Department of Ecology</div>
-			<div id="vitalbuttonscontainer">
-				<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
-				<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&Quarter=10&Vital%20Sign=Swimming%20Beaches" target="_blank">View Report Card</a></div>
-			</div>
-		</div>
-		<div id="vitalheaderrightphoto">
-			<div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div>
-			<div class="photoCredit padding-top">Data last updated on June 16, 2015<br />
-			Photo Credit: Lisa Voigt Garms</div></div>
-	</div>
-	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
-	<!--*********************************TITLE BAR END*********************************--> 
-	
-	<!--*********************************TAB BEGIN*********************************-->
-	
-	<ul id="nav_indicator">
-		<li class="indicator_active_green"><a href="swimming_beaches.php">Vital Sign Overview<br />
-			<br />
-			<br />
-			</a> </li>
-		<li><a href="swimming_beaches_indicator1.php">Indicator: Conditions of swimming beaches<br />
-			<br />
-			</a></li>
-	</ul>
-	<div class="clearfloat"></div>
-	<!--*********************************TAB END*********************************-->
+    <?php include 'includes/swimming_beaches-title.html' ?>
+<?php include 'includes/swimming-beaches-tab.html' ?>	
 	
 	<div id="accordioncontainer">
 		<div id="accordion"> 
@@ -74,18 +48,19 @@ $(function() {
 			<h3><a href="#">What You Can Do</a></h3>
 			<div>
 				<ol>
-					<li>Inspect and maintain your on-site sewage system – see Septic System Care at Puget Sound Starts Here (http://www.pugetsoundstartshere.org/category/how-to-help/).</li>
-					<li>Pick up dog poop (<a href="http://www.scooppoop.org/">http://www.scooppoop.org/</a>) and put it in the trash.</li>
-					<li>Volunteer in your area (<a href="http://pugetsoundstartshere.org/in-your-local-area/get-involved/">http://pugetsoundstartshere.org/in-your-local-area/get-involved/</a>) to work with a group helping to reduce fresh water pollution.</li>
-					<li>Use porta potties (<a href="http://www.skagitcounty.net/Departments/PublicWorksCleanWater/DogCleanUp.htm">http://www.skagitcounty.net/Departments/PublicWorksCleanWater/DogCleanUp.htm</a>) when near rivers.</li>
-					<li>Manage manure: Collect, cover and compost. If you keep livestock, follow manure management practices. Your local Conservation District (http://scc.wa.gov/contacts/conservation-districts/) can provide you free technical assistance and will work with property owners to develop a waste management plan.</li>
+					<li>Inspect and maintain your on-site sewage system – see <a href="http://www.pugetsoundstartshere.org/category/how-to-help/" target="_blank">Septic System Care at Puget Sound Starts Here</a>.</li>
+<li><a href="http://www.scooppoop.org/" target="_blank">Pick up dog poop</a> and put it in the trash.</li>
+<li><a href="http://pugetsoundstartshere.org/in-your-local-area/get-involved/" target="_blank">Volunteer in your area</a> to work with a group helping to reduce fresh water pollution.</li>
+<li><a href="http://www.skagitcounty.net/Departments/PublicWorksCleanWater/DogCleanUp.htm" target="_blank">Use porta potties</a> when near rivers.</li>
+<li>Manage manure: Collect, cover and compost. If you keep livestock, follow manure management practices. <a href="http://scc.wa.gov/contacts/conservation-districts/" target="_blank">Your local Conservation District</a> can provide you free technical assistance and will work with property owners to develop a waste management plan.</li>
+
 					<li>Plant and maintain native vegetation around your property. For more information on native plants, visit the Dept. of Ecology's website (<a href="http://www.ecy.wa.gov/programs/sea/pugetsound/species/native.html">http://www.ecy.wa.gov/programs/sea/pugetsound/species/native.html</a>) or the  Washington Native Plant Society (<a href="http://www.wnps.org/index.html">http://www.wnps.org/index.html</a>).</li>
 					<li>DON&rsquo;T FEED WILDLIFE it encourages populations of wildlife to congregate in an area possibly causing a fecal problems.  </li>
 				</ol>
 				<h6>Links for more information on what you can do</h6>
 				<ul>
-					<li> <a href=" http://pugetsoundstartshere.org/the-solution-is-you/take-action-now/ ">Puget Sound Starts Here </a></li>
-					<li><a href=" http://www.ecy.wa.gov/washington_waters/yardcare.html ">Washington Department of Ecology, Washington Waters</a></li>
+					<li> <a href="http://www.pugetsoundstartshere.org/the-solution-is-you/take-action-now/" target="_blank">Puget Sound Starts Here </a></li>
+					<li><a href="http://www.ecy.wa.gov/washington_waters/yardcare.html" target="_blank">Washington Department of Ecology, Washington Waters</a></li>
 				</ul>
 			</div>
 			<!--*********************************FOLD 05*********************************-->

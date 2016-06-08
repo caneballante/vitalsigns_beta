@@ -4,11 +4,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="google-site-verification" content="lMaE6uVdAY_4P-zfoagi1Kj2QQLS8W3JvahLqMZMuDU" />
 <title>Puget Sound Partnership - Vital Signs - Swimming Beaches</title>
-<link href="css/vital1.css" rel="stylesheet" type="text/css" />
+<link href="css/vital2016.css" rel="stylesheet" type="text/css" />
 <link type="text/css" href="css/custom-theme/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" />
 <script type="text/javascript" src="js/jquery-1.8.3.js"></script>
 <script type="text/javascript" src="js/jquery-ui-1.9.2.custom.min.js"></script>
-<script type="text/javascript" src="js/divhide.js"></script>
+<script type="text/javascript" src="js/settab.js"></script>
 <script>
 $(function() {
 		$( "#accordion" ).accordion( { collapsible: true }, { active: false }, { autoHeight: false });
@@ -21,43 +21,17 @@ $(function() {
   });
 });	
 </script>
+<script>
+/*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
+  	navSelected = 2;
+	color = "green";
+</script>
 </head>
 <body id="id02" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
-	<!--*********************************TITLE BAR BEGIN*********************************-->
-	<div id="roundcornerstop"><img src="img/rounded_top.jpg" width="960" height="20" /></div>
-	<div id="vitalheadercontainer">
-		<div id="vitalheaderleftcontainer">
-			<div id="vitaltitle">Swimming Beaches</div>
-			<div id="vitalquote">Every year, some of our public beaches are unsafe for swimming and must be closed because the water quality does not meet federal criteria for recreational swimming.</div>
-			<div id="vitalchampion"> Indicator lead: Debby Sargeant, Washington State Department of Ecology</div>
-			<div id="vitalbuttonscontainer">
-				<div id="button1"><a href="http://www.psp.wa.gov/pugetsoundprojectatlas" target="_blank">View Projects</a></div>
-				<div id="button2"><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&Quarter=10&Vital%20Sign=Swimming%20Beaches" target="_blank">View Report Card</a></div>
-			</div>
-		</div>
-		<div id="vitalheaderrightphoto">
-			<div class="underconstruction">This webpage is currently being updated. For the most recent findings for this Vital Sign, please consult the report in the latest <a href="https://pspwa.box.com/s/rhb2s6c2yzb2eskla1ssj2w84vcay7un">State of the Sound</a></div>
-			<div class="photoCredit padding-top">Data last updated on June16, 2015<br />
-			Photo Credit: Lisa Voigt Garms</div></div>
-	</div>
-	<div id="roundcornerbottom"><img src="img/rounded_rounded_bottom.jpg" width="960" height="20" /></div>
-	<!--*********************************TITLE BAR END*********************************--> 
-	
-	<!--*********************************TAB BEGIN*********************************-->
-	
-	<ul id="nav_indicator">
-		<li ><a href="swimming_beaches.php">Vital Sign Overview<br />
-			<br />
-			<br />
-			</a> </li>
-		<li class="indicator_active_green"><a href="swimming_beaches_indicator1.php">Indicator: Condition of swimming beaches<br />
-			<br />
-			</a></li>
-	</ul>
-	<div class="clearfloat"></div>
-	<!--*********************************TAB END*********************************-->
+    <?php include 'includes/swimming_beaches-title.html' ?>
+<?php include 'includes/swimming-beaches-tab.html' ?>	
 	
 	<div id="accordioncontainer">
 		<div id="accordion"> 
@@ -68,43 +42,64 @@ $(function() {
 				<!--*********************************GREEN HEADER*********************************-->
 				<div class="greenBarHeader">What is the indicator? </div>
 				<h5>Condition of swimming beaches</h5>
-				<p>The swimming beaches indicator reflects marine water quality conditions in areas heavily used for recreation. Conditions are measured using the percent of monitored Puget Sound swimming beaches that meet EPA&rsquo;s recreational water quality criteria standards for the fecal bacteria enterococcus. Swimming beaches not meeting enterococci water quality criteria standards indicate poor water quality that can result in people getting sick through gastro intestinal illnesses, respiratory illnesses, and skin infections.</p>
-				<p> Washington&rsquo;s BEACH Program was launched in 2003 in response to the BEACH Act, which
-					amended the U.S. Clean Water Act in 2000. A collaboration between the Department of Ecology, Department of Health and local health jurisdictions, and Tribes, the program monitors high-use/high-risk beaches throughout the Puget Sound and Washington&rsquo;s coast. </p>
-				<p> The number of monitored beaches varies from year to year with approximately 4750 core swimming beaches monitored every year. Core beaches are those that are monitored yearly on a fairly consistent basis. A certain number of additional swimming beaches are monitored every year depending on funding, public input, and local health jurisdiction feedback.</p>
-				<p>For the purposes of this indicator, a beach is considered to meet EPA standards for a particular year if the beach has less than two swimming advisories or closures during the swimming season. A swimming advisory is issued if bacteria levels are greater than 104 enterococcus/100mL, and a swimming closure is issued if bacteria levels are greater than 276 enterococcus/100mL.only one or less instance of a weekly result greater than or equal to 104 colony forming units per /100mL. </p>
-				
+				<p>The condition of swimming beaches indicator reflects marine water quality conditions in areas heavily used for recreation. Swimming beaches not meeting water quality criteria indicate increased risk of people getting sick through gastrointestinal illnesses, respiratory illnesses, and skin infections.</p>
+				 <p>Washington&rsquo;s BEACH Program was launched in 2003 in response to the BEACH Act, which amended the U.S. Clean Water Act in 2000. A collaboration between the Department of Ecology, Department of Health and local health jurisdictions, and Tribes, the program monitors high-use/high-risk beaches throughout the Puget Sound and Washington&rsquo;s coast.</p>
+				  <p>The number of monitored beaches varies from year to year depending on availability of funding and where water quality issues arise. A subset of beaches are sampled every year and are called the &ldquo;core&rdquo; beaches.</p>
+			    <p>For this indicator, a beach that passes swimming standards means there is no more than one swimming advisory or closure during the summer. A swimming advisory is issued if bacteria levels are greater than 104 enterococcus/100mL, and a swimming closure is issued if bacteria levels are greater than 276 enterococcus/100mL.only one or less instance of a weekly result greater than or equal to 104 colony forming units per /100mL. </p>
+
 				<!--*********************************GREEN HEADER*********************************-->
-				<div class="greenBarHeader">What are the targets?</div>
+			  <div class="greenBarHeader">What are the targets?</div>
 				<h5>2020 target</h5>
 				<p>To have all monitored beaches in Puget Sound meet EPA standards for what is called enterococcus, a type of fecal bacteria.</p>
 				<h5>Interim targets</h5>
 				<p><a href="http://www.psp.wa.gov/downloads/interimtargets/Swimming Beaches Interim Targets - FINAL.pdf">Link to interim targets (PDF)</a></p>
-				<div class="greenBarHeader">Is there progress? </div>
-				<p>There has been no progress toward the 2020 target for swimming beaches. Since 2004, many local bacteria problems have been identified and corrected. Overall, there are year-to-year fluctuations in marine water quality at swimming beaches, but no clear trend in progress toward the goal. </p>
-				<p>In 2014, 88% of the beaches monitored met EPA&rsquo;s swimming criteria.  This is slightly higher than the 2004 baseline of 85%; and higher than the 2004-2014 average of 84% passing. </p>
-				<p>Although the majority of monitored swimming beaches have met EPA standards for enterococci fecal bacteria, the target of 100% has not been met to date</p>
-				<h5>Is the 2014 interim target met?</h5>
-				<table width="746" border="1" cellspacing="0" cellpadding="0" class="vstable">
-					<tbody>
-						<tr>
-							<th width="307">Description of 2014 interim target</th>
-							<th width="433">Current status (as of May 2015)</th>
-						</tr>
-						<tr>
-							<td>85% of monitored PS beaches meet enterococcus standard, for previous two consecutive years</td>
-							<td>In 2013 and 2014, 78% and 88% of beaches met standards, respectively. Because one of the two consecutive years falls below 85% target value, the interim target is not met. Note that the other year was above the target value.</td>
-						</tr>
-					</tbody>
-				</table>
+                <p>2014 Interim target:<br />
+                85% of monitored Puget Sound beaches meet enterococcus standard, for previous two consecutive years.</p>
+
+				
 			</div>
 			
 			<!--*********************************FOLD 03*********************************-->
 			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
+            <h5>Is the indicator making progress toward the 2020 target? </h5>
+				<p> <span><img src="images/status_not_changing.png" width="118" height="121" alt=""/>There was no significant change in this indicator relative to a baseline reference.</p>
+                
+                <p>Over the longer term, there was no upward or downward trend.</p>
+<p>There has been no progress toward the 2020 target for swimming beaches. Although the majority of monitored swimming beaches have met EPA standards for enterococci fecal bacteria, the target of 100% has not been met to date.</p>
+<p>Since 2004, many local bacteria problems have been identified and corrected. Overall, there are year-to-year fluctuations in marine water quality at swimming beaches, but no clear trend in progress toward the goal. </p>
+<h5>Did the indicator meet its 2014 interim target?</h5>
+<p>This indicator did not meet its 2014 interim target.</p>
+<h5>TABLE 1. PROGRESS TOWARD 2014 INTERIM TARGET</h5>
+<table width="600" border="1" cellspacing="0" cellpadding="0" class="vstable">
+					
+					<thead>
+						<tr>
+							<th>2014 INTERIM TARGET</th>
+							<th>WAS IT MET?</th>
+							<th>EXPLANATION</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>85% of monitored Puget Sound beaches meet enterococcus standard, for previous two consecutive years</td>
+							<td>No</td>
+							<td>In 2013 and 2014, 78% and 88% of beaches met standards, respectively.</td>
+						</tr>
+                        
+					</tbody>
+				</table><br />
+<p>In 2014, 88% of the beaches monitored met EPA’s swimming criteria.  This is slightly higher than the 2004 baseline of 85%; and higher than the 2004-2014 average of 84% passing. </p>
+
 				<!--*********************************GREEN HEADER*********************************-->
 				
-				<div class="greenBarHeader">Data</div>
+				<div class="greenBarHeader">Latest Data</div>
+                <img src="images/swimming-beaches.png" />
+                <p>Core beaches are a subset of all monitored beaches that are sampled every year. Core beaches have been used to assess the trend in the condition of swimming beaches since 2004. There are about 43 core beaches (range is 36 to 48) and 63 total beaches sampled every year (range is 46 to 76). The 2020 target applies to all monitored beaches.<br />
+<em>Source: Washington State Department of Ecology, BEACH program</em></p>
+<h5>TABLE 2. MONITORING RESULTS FOR CONDITIONS AT ALL MONITORED SWIMMING BEACHES IN PUGET SOUND <br />
+<em>2004-2014</em></h5>
+
 				<table width="632" border="1" cellspacing="0" cellpadding="0" class="vstable">
 					<tbody>
 						<tr>
@@ -174,8 +169,7 @@ $(function() {
 				<p> Sewage spills have led to swimming closures at Eagle Harbor Waterfront Park beach. The public utility district is currently upgrading the sewage conveyance system along the north shore of Eagle Harbor. </p>
 				<p> In previous years Salt Creek Recreation Area beach has had excellent water quality. In 2014 this beach had a number of weeks when bacteria levels were high, in the swimming closure range. Beach staff plan on conducting a shoreline survey for pollution sources at this beach in 2015.</p>
 				<p> Twanoh State Park beach had several swimming closures in 2014. Additional sampling was conducted to determine the possible source(s). While results were inconclusive, Washington State Parks is planning a redesign of the swimming area in 2015. </p>
-				<br />
-				<img width="550" height="603" src="images/VS2_corebeaches_2015.jpg" />
+				
 				<p>Considering the same core beaches over time, no clear trend emerges in water quality at swimming beaches. Rather, results fluctuate from year-to-year. Some beaches have chronic bacteria problems that are difficult to solve. However, problems at other beaches are often temporary and quickly resolved and reflect localized problems rather than trends over all in Puget Sound water quality.</p>
 				<p><strong>Why is it happening?</strong></p>
 				<p>Most swimming beaches in Puget Sound have good water quality. Bacteria problems arise from faulty septic tanks, sewage spills, stormwater, and animal waste, including pet waste, farm animals, and wildlife. The source of contamination is different from beach to beach and is not always obvious. </p>
@@ -186,6 +180,9 @@ $(function() {
 				<!--*********************************GREEN HEADER*********************************-->
 				
 				<div class="greenBarHeader">Maps</div>
+                <h5>FIGURE 3. SWIMMING BEACHES MONITORING RESULTS<br />
+2014</h5>
+
 				<div class="fltrtmap">
 					<table width="250">
 						<tr>
