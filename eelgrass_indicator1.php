@@ -141,11 +141,11 @@ $(function() {
 <p><a href="http://www.dnr.wa.gov/programs-and-services/aquatics/aquatic-science/puget-sound-eelgrass-monitoring-data-viewer">http://www.dnr.wa.gov/programs-and-services/aquatics/aquatic-science/puget-sound-eelgrass-monitoring-data-viewer</a></p>
 
 				<h4 class="purp">Reference:</h4>
-				<p>Christiaen B., P. Dowty, L. Ferrier, H. Berry, M. Hannam and J. Gaeckle. <a href="https://app.box.com/s/6gmt1o6k0edx6g5lk69y2kkh6lre9uii">Puget Sound Submerged Vegetation Monitoring Program: 2010-2013 Report</a>. Washington Department of Natural Resources, Olympia, WA. 55 pp.</p>
+				<p><a href="http://www.dnr.wa.gov/programs-and-services/aquatics/aquatic-science/nearshore-habitat-publications">Christiaen B., Dowty P., Ferrier L., Gaeckle J., Berry H., Stowe J., Sutton E. (2016). Puget Sound Submerged Vegetation Monitoring Program: 2014 Report</a> Washington Department of Natural Resources, Olympia, WA. 46 pp.</p>
 				
 				<!--*********************************PURPLE HEADER*********************************-->
-				<div class="purpBarHeader">Maps</div>
-				<img src="images/eelgrass_2015_map1.jpg" width="587" height="681" alt="Eelgrass monitoring sites" />
+			  <div class="purpBarHeader">Maps</div>
+				<img src="images/old images/eelgrass_2015_map1.jpg" width="587" height="681" alt="Eelgrass monitoring sites" />
 				<p>Assessment of long-term eelgrass change at 347 sites sampled between 2003 and 2013 in greater Puget Sound. At the majority of these sites, there was no change or trend in the size of eelgrass beds. Lower Hood Canal, southern Central Puget Sound and the San Juan Islands have the greatest number of sites where eelgrass area decreased, including several sites where eelgrass beds completely disappeared.<br />
 					<em>Source: Washington Department of Natural Resources, Submerged Vegetation Monitoring Program</em></p>
 				<img src="images/eelgrass_2015_map2.jpg" width="587" height="681" alt=""/>
