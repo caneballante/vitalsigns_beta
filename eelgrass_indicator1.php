@@ -145,12 +145,18 @@ $(function() {
 				
 				<!--*********************************PURPLE HEADER*********************************-->
 			  <div class="purpBarHeader">Maps</div>
-				<img src="images/old images/eelgrass_2015_map1.jpg" width="587" height="681" alt="Eelgrass monitoring sites" />
-				<p>Assessment of long-term eelgrass change at 347 sites sampled between 2003 and 2013 in greater Puget Sound. At the majority of these sites, there was no change or trend in the size of eelgrass beds. Lower Hood Canal, southern Central Puget Sound and the San Juan Islands have the greatest number of sites where eelgrass area decreased, including several sites where eelgrass beds completely disappeared.<br />
-					<em>Source: Washington Department of Natural Resources, Submerged Vegetation Monitoring Program</em></p>
-				<img src="images/eelgrass_2015_map2.jpg" width="587" height="681" alt=""/>
+              <h5>FIGURE 3. LONG-TERM EELGRASS CHANGE<br />
+<em>2003 – 2014</em></h5>
+
+				<img src="images/map1.png" width="600" height="800" alt="Eelgrass monitoring sites" />
+				<p>Assessment of long-term eelgrass change at 313 sites sampled for multiple years between 2003 and 2014 in greater Puget Sound. At the majority of these sites, there was no change or trend in the size of eelgrass beds. Lower Hood Canal, southern Central Puget Sound and the San Juan Islands have the greatest number of sites where eelgrass area decreased, including several sites where eelgrass beds completely disappeared.<br />
+                <em>Source: Washington Department of Natural Resources, Submerged Vegetation Monitoring Program</em></p>
+              <h5>FIGURE 4. RECENT EELGRASS CHANGE<br />
+<em>2010 – 2014</em></h5>
+
+				<img src="images/map2.png" width="600" height="800" alt=""/>
 				<p><br />
-					Short-term eelgrass change assessment at 156 sites sampled between 2010 and 2013 in greater Puget Sound. There are more sites with increasing (n=25) than decreasing (n=5) eelgrass area.<br />
+				  Short-term eelgrass change assessment at 138 sites sampled between 2010 and 2013 in greater Puget Sound. There are more sites with increasing (n=17) than decreasing (n=2) eelgrass area.<br />
 					<em>Source: Washington Department of Natural Resources, Submerged Vegetation Monitoring Program</em></p>
 			</div>
 		</div>
