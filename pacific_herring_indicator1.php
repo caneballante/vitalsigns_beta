@@ -41,19 +41,19 @@ $(function() {
 			<!--*********************************PINK HEADER*********************************-->
 			<div class="pinkBarHeader">What is the indicator? </div>
 		<p>This indicator is the biomass of spawning Pacific Herring.</p>
-<p>The spawning biomass of Pacific herring is the estimated annual tonnage of spawning herring in Puget Sound. Herring in Puget Sound are subdivided into three stocks that reflect three unique genetic groupings: Cherry Point, Squaxin Pass, and all other stocks.</p>
-<p>Herring spawning biomass is currently based on spawn deposition surveys conducted by the Washington State Department of Fish and Wildlife to estimate the quantity of eggs deposited by herring on marine vegetation. Egg abundance is then converted to the estimated biomass of spawning herring, making assumptions about sex ratios in spawning aggregations, average female fecundity, and the area of the spawning grounds. As measured, the indicator only reflects the status of reproductive fish rather than the status of the entire population because younger, immature age classes do not spawn.</p>
-<p>Based on former genetic studies that have identified three separate groupings of Puget Sound herring stocks (see map in the maps section), the Partnership has established three separate targets for Cherry Point, Squaxin Pass, and all other stocks combined. </p>
-<p>Estimates of spawning biomass have been attempted for all known Puget Sound herring stocks by the Department of Fish and Wildlife annually since 1996, and for Cherry Point herring since the early 1970s. The baseline references, the 25-year mean biomass for each stock (1987 – 2011), are intended to provide perspective for the current status of each stock (the two-year mean of 2013 and 2014) and the targets. It should be noted that the baseline reference, evaluation of current stock status reported here, and the targets are not based on a conventional fishery stock assessment, which takes into account growth, maturity, fecundity and mortalities.</p>
+		 <p>The spawning biomass of Pacific herring is the estimated annual tonnage of spawning herring in Puget Sound. Based on former genetic studies that have identified three separate groupings of Puget Sound herring stocks (see map in the maps section), the Partnership has established three separate targets for Cherry Point, Squaxin Pass, and all other stocks combined.</p>
+		  <p>Herring spawning biomass is currently based on spawn deposition surveys conducted by the Washington State Department of Fish and Wildlife to estimate the quantity of eggs deposited by herring on marine vegetation. Egg abundance is then converted to the estimated biomass of spawning herring, making assumptions about sex ratios in spawning aggregations, average female fecundity, and the area of the spawning grounds. As measured, the indicator only reflects the status of reproductive fish rather than the status of the entire population because younger, immature age classes do not spawn.</p>
+		  <p>Estimates of spawning biomass have been attempted for all known Puget Sound herring stocks by the Department of Fish and Wildlife annually since 1996, and for Cherry Point herring since the early 1970s. The baseline references, the 25-year mean biomass for each stock (1987 – 2011), are intended to provide perspective for the current status of each stock (the two-year mean of 2013 and 2014) and the targets. It should be noted that the baseline reference, evaluation of current stock status reported here, and the targets are not based on a conventional fishery stock assessment, which takes into account growth, maturity, fecundity and mortalities.</p>
 
 			
 			<!--*********************************PINK HEADER*********************************-->
-			<div class="pinkBarHeader">What are the targets? </div>
+		  <div class="pinkBarHeader">What are the targets? </div>
 			<h5>2020 target</h5>
-			<p>Increase the overall amount of spawning herring throughout Puget Sound to 19,380 tons. For each stock, the targets are:  </p>
+			<p>Increase the overall amount of spawning herring throughout Puget Sound to 19,380 tons. For each stock, the targets are:<br />
+			</p>
 			<ul>
-				<li>Cherry Point: 5000 tons;</li>
-				<li>Squaxin Pass: 880 tons;</li>
+			  <li>Cherry Point: 5000 ton</li>
+				<li>Squaxin Pass: 880 tons</li>
 				<li>All other stocks: 13,500 tons.</li>
 			</ul>
 			<h5>Interim targets</h5>
@@ -70,16 +70,18 @@ $(function() {
 				<div class="pinkBarHeader"><strong>Is the indicator making progress toward the 2020 target? </strong></div>
 			
 		<p>	<span><img src="images/status_getting_worse.png" width="120" height="123" alt=""/></span>No, this indicator lost ground relative to a baseline reference.</p>
-<p>No progress has been made and none of the 2020 target values for individual Pacific herring stocks or groups of stocks are met. Overall, the current spawning biomass of all stocks is below both their respective 25-year mean reference and their 2020 target values.</p>
-<p>The Cherry Point herring stock in North Puget Sound, once the largest stock in the Sound, has declined by over 90 percent since the earliest sampling date in 1973 and shows little sign of recovery.</p>
-<p>The Squaxin Pass and other Puget Sound stocks do not exhibit the sharp decline seen in the Cherry Point stock. Although these stocks show broad annual fluctuations, they are relatively closer to their 2020 target values than the Cherry Point stock. In fact, in some years, these stocks have gone above their target values. In fact, in some years, these stocks have gone above their target values.</p>
-<p>Predicting the future condition of herring spawning biomass is difficult. Owing simply to natural fluctuations in abundance as a consequence of oceanographic and climatic parameters, the Squaxin and other Puget Sound stocks in Central and South Puget Sound may reach their respective target values again over the next five years. However, there is no evidence to suggest that herring spawning biomass at Cherry Point will increase in the near future and reach its target value by 2020, or that the biomass of all other stocks will be sustained at or above their target values. Although potential threats have been identified, there is no consensus on which threats limit the stocks or how best to manage these stocks to achieve the 2020 target.</p>
+		  <p>Despite seeing minor increases in overall spawn biomass compared to the ten year average in 2015-16, none of the 2020 target values for individual Pacific herring stocks or groups of stocks are met. Overall, the current spawning biomass of all stocks is below both their respective 25-year mean reference and their 2020 target values.</p>
+		  <p>The Cherry Point herring stock in North Puget Sound, once the largest stock in the Sound, has declined by over 90 percent since the earliest sampling date in 1973 and shows little sign of recovery.</p>
+		  <p>The Squaxin Pass and other combined Puget Sound stocks do not exhibit the sharp decline seen in the Cherry Point stock. Although these stocks show broad annual fluctuations, they are relatively closer to their 2020 target values than the Cherry Point stock. In fact, in some years, these stocks have gone above their target values.</p>
+		  <p>Predicting the future condition of herring spawning biomass is difficult. Owing simply to natural fluctuations in abundance as a consequence of oceanographic and climatic parameters, the Squaxin and other Puget Sound stocks in Central and South Puget Sound may reach their respective target values again over the next five years. However, there is no evidence to suggest that herring spawning biomass at Cherry Point will increase in the near future and reach its target value by 2020, or that the biomass of all other stocks will be sustained at or above their target values. Although potential threats have been identified, there is no consensus on which threats limit the stocks or how best to manage these stocks to achieve the 2020 target.</p>
 
 
 
 			<!--*********************************PINK HEADER*********************************-->
-			<div class="pinkBarHeader">Data</div>
-			<img src="images/vs10_herring_2015.png" width="750" height="606" alt="Spawning biomass of Pacific herring stocks in Puget Sound, in tons, 1973-2012" />
+		  <div class="pinkBarHeader">Data</div>
+		  <h3>FIGURE 1.</h3>
+			<p><img src="images/pacific-herring-chart.png" width="750" height="398" alt="Spawning biomass of Pacific herring stocks in Puget Sound, in tons, 1973-2014" />
+		  </p>
 			<p>The biomass of herring in Central and Southern Puget Sound, while variable, has shown only a slight negative trend over the past 40+ years. The population of the once largest, and genetically unique, stock of Pacific herring, the spring spawning Cherry Point stock in North Puget Sound, has declined by over 90 percent since 1973. The other stock that has been identified as genetically distinct, the Squaxin Pass stock in the very south of Puget Sound, has increased slightly in spawning biomass since 1973.</p>
 <p>The Puget Sound herring data are characterized by broad year-to-year fluctuations, which is typical of Pacific herring and other forage fish populations, and likely reflects natural environmental and demographic variability.</p>
 <p>Indeed, in Puget Sound, the bulk of the biomass of the “all other stocks” grouping is contributed by different stocks in different years, further implicating the role of site-specific variability.  In recent years the biomass of the Quilcene Bay stock has consistently substantially bolstered the overall estimate for the other stocks complex.</p>
