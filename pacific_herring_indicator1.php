@@ -82,8 +82,10 @@ $(function() {
 		  <h3>FIGURE 1.</h3>
 			<p><img src="images/pacific-herring-chart.png" width="750" height="398" alt="Spawning biomass of Pacific herring stocks in Puget Sound, in tons, 1973-2014" />
 		  </p>
-			<p>Annual spawner abundance estimates for each stock are shown with solid lines; each color corresponds to a different stock. The dotted lines represent the 25-year mean from 1986 to 2010 for the corresponding stock. The 2020 target is shown with a dot for each stock.<br />
-		    <em>Source: Washington Department of Fish &amp; Wildlife, Marine Fish Program</em></p>
+			<blockquote>
+			  <p>Annual spawner abundance estimates for each stock are shown with solid lines; each color corresponds to a different stock. The dotted lines represent the 25-year mean from 1986 to 2010 for the corresponding stock. The 2020 target is shown with a dot for each stock.<br />
+			    <em>Source: Washington Department of Fish &amp; Wildlife, Marine Fish Program</em></p>
+		  </blockquote>
 			  <p>The biomass of herring in Central and Southern Puget Sound, while variable, has shown only a slight negative trend over the past 40+ years. The Puget Sound herring data are characterized by broad year-to-year fluctuations, which is typical of Pacific herring and other forage fish populations, and likely reflects natural environmental and demographic variability.</p>
 		    <p>Indeed, in Puget Sound, the bulk of the biomass of the “all other stocks” grouping is contributed by different stocks in different years, further implicating the role of site-specific variability.  In recent years the biomass of the Quilcene Bay stock has substantially bolstered the overall estimate for the other stocks complex. Quilcene Bay biomass is currently at an all-time high (more than double its ten year average) and, along with the two other Hood canal populations, made up over half of the spawn biomass for Puget Sound as a whole in 2016.</p>
 <h5>Why is this happening?</h5>
@@ -103,9 +105,11 @@ $(function() {
           <h4>DISTRIBUTION OF PACIFIC HERRING SPAWNING GROUNDS IN PUGET SOUND<br />
 <em>2014</em></h4>
 			<img src="images/herring-map.png" alt="Pacific herring spawning grounds in Puget Sound"/>
-			<p>
-			  <em>Source: Washington Department of Fish &amp; Wildlife, Fish Program</em><br />
-		    Genetic studies support designation of three separate groupings of Puget Sound herring stocks. Since this map was created, Pacific herring were found spawning in Elliott Bay near Seattle.</p>
+			<blockquote>
+			  <p>
+			    <em>Source: Washington Department of Fish &amp; Wildlife, Fish Program</em><br />
+		      </p>
+		  </blockquote>
 		</div>
 	</div>
 </div>
