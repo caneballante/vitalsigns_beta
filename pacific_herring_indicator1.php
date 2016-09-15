@@ -102,7 +102,7 @@ $(function() {
           <h3>FIGURE 2.</h3>
           <h4>DISTRIBUTION OF PACIFIC HERRING SPAWNING GROUNDS IN PUGET SOUND<br />
 <em>2014</em></h4>
-			<img src="images/vs10_herring_spawning_map.png" alt="Pacific herring spawning grounds in Puget Sound"/>
+			<img src="images/herring-map.png" alt="Pacific herring spawning grounds in Puget Sound"/>
 			<p>
 			  <em>Source: Washington Department of Fish &amp; Wildlife, Fish Program</em><br />
 		    Genetic studies support designation of three separate groupings of Puget Sound herring stocks. Since this map was created, Pacific herring were found spawning in Elliott Bay near Seattle.</p>
