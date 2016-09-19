@@ -80,6 +80,9 @@ $(function() {
 			<!--*********************************PINK HEADER*********************************-->
 		  <div class="pinkBarHeader">Data</div>
 		  <h3>FIGURE 1.</h3>
+          <h4>SPAWNING BIOMASS OF PACIFIC HERRING STOCKS IN PUGET SOUND<br />
+<em>1973 – 2016</em></h4>
+
 			<p><img src="images/pacific-herring-chart.png" width="750" height="398" alt="Spawning biomass of Pacific herring stocks in Puget Sound, in tons, 1973-2014" />
 		  </p>
 			<blockquote>
@@ -90,8 +93,7 @@ $(function() {
 		    <p>Indeed, in Puget Sound, the bulk of the biomass of the “all other stocks” grouping is contributed by different stocks in different years, further implicating the role of site-specific variability.  In recent years the biomass of the Quilcene Bay stock has substantially bolstered the overall estimate for the other stocks complex. Quilcene Bay biomass is currently at an all-time high (more than double its ten year average) and, along with the two other Hood canal populations, made up over half of the spawn biomass for Puget Sound as a whole in 2016.</p>
 <h5>Why is this happening?</h5>
 
-<p>effects of climate change, are not well understood. Further studies are needed to elucidate the effect of these possible pressures.<br />
-  Several factors contribute to difficulties in understanding Cherry Point herring stock declines and in the trends of other herring stocks, including survey methods and exploitation rate analysis.</p>
+<p>The exact causes of the Cherry Point herring decline are unknown, but it has been variously attributed to many potential factors such as chronic pollution (e.g., PCB and PAH contaminants), oil spills, overfishing, parasites, disease, and changes in abundance of predators or prey. Changes to the natural shoreline, including nearby industrial construction and operation, may also play a role. Finally, the extent to which food-web interactions may limit herring populations, and how such interactions are mediated by the effects of climate change, are not well understood. Further studies are needed to elucidate the effect of these possible pressures. Several factors contribute to difficulties in understanding Cherry Point herring stock declines and in the trends of other herring stocks, including survey methods and exploitation rate analysis.</p>
   <p>Since 1973 at Cherry Point and 1986 for the rest of the stocks, the Department of Fish &amp; Wildlife conducted a combination of Spawn Deposition surveys and Acoustic-Trawl surveys to estimate herring spawning biomass. Until 1996, the spawning biomass of the larger Puget Sound stocks typically was assessed by both methods each year, while the smaller stocks were surveyed by spawn deposition surveys every three years. Since 1996, duplicate assessment coverage was reduced and assessment for all known herring stocks was attempted each year by at least one survey method. Acoustic-Trawl surveys were discontinued in 2009 due to budget reductions, but spawn deposition surveys have been conducted annually for each stock since that time.</p>
   <p>In addition to spawning biomass, biological samples used to estimate growth, mortality, and recruitment were obtained from the Acoustic-Trawl surveys. These data, which are not currently being collected, are useful for assessing the stocks’ population dynamics and capacity to meet the targets, and to understand the mechanisms driving these trends.</p>
   <p>For example, for the Cherry Point and most other Puget Sound stocks, there has been a shift in the age structure of the population since the late 1970s and early 1980s toward younger fish, which probably affected their productivity and slowed recovery.</p>
@@ -103,7 +105,7 @@ $(function() {
 		  <div class="pinkBarHeader">Maps</div>
           <h3>FIGURE 2.</h3>
           <h4>DISTRIBUTION OF PACIFIC HERRING SPAWNING GROUNDS IN PUGET SOUND<br />
-<em>2014</em></h4>
+<em>2016</em></h4>
 			<img src="images/herring-map.png" alt="Pacific herring spawning grounds in Puget Sound"/>
 			<blockquote>
 			  <p>
