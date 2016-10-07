@@ -66,7 +66,6 @@ $(function() {
 		<h3><a href="#!">Progress summary and data</a></h3>
 		<div> 
 			<!--*********************************PINK HEADER*********************************-->
-			<!--*********************************PINK HEADER*********************************-->
 				<div class="pinkBarHeader"><strong>Is the indicator making progress toward the 2020 target? </strong></div>
 			
 		<p>	<span><img src="images/status_getting_worse.png" width="120" height="123" alt=""/></span>No, this indicator lost ground relative to a baseline reference.</p>
@@ -78,7 +77,7 @@ $(function() {
 
 
 			<!--*********************************PINK HEADER*********************************-->
-		  <div class="pinkBarHeader">Data</div>
+		  <div class="pinkBarHeader">Latest data</div>
 		  <h3>FIGURE 1.</h3>
           <h4>SPAWNING BIOMASS OF PACIFIC HERRING STOCKS IN PUGET SOUND<br />
 <em>1973 – 2016</em></h4>

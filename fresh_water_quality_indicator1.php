@@ -41,49 +41,56 @@ $(function() {
 			<div> 
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader">What is the indicator? </div>
-				<h5>This indicator is the Water Quality Index.</h5>
-				<p>Clean freshwater is vital to people and to fish and wildlife populations. When rivers and streams pick up pollutants, toxic contaminants, or excessive sediments and nutrients, the health of watersheds, marine waters, swimming beaches, and shellfish beds is adversely affected.</p>
-				  <p>The Water Quality Index for rivers and streams combines eight measures of water quality. Four of the component measures (dissolved oxygen, pH, temperature, and fecal coliform bacteria) are tied to the State&rsquo;s Water Quality Standards for protecting aquatic life and contact recreation. The other four measures (nitrogen, phosphorus, suspended sediment, and turbidity) do not have numeric standards, although they are related to general ecosystem function. A higher number is indicative of better water quality.</p>
-				  <p>Index values are based on monthly monitoring at individual stations. The index values range from 1 to 100; a higher number is indicative of better water quality. However, a particular station may receive a good Water Quality Index score, and yet have water quality impaired by parameters not included in the index. Similarly, some locations may have poor Water Quality Index scores based on measures that do not have Water Quality Standards.</p>
-				  <p>In general, stations scoring 80 and above met expectations for water quality according to Washington State Standards for surface water quality (Chapter 173-201A WAC), scores 40 to 80 indicate water quality is marginal, and water quality at stations with scores below 40 do not meet expectations. For measures without established criteria, a score of 80 indicates conditions were better than 20 percent of results collected during an historical benchmark period.</p>
-			    <p>The Washington State Department of Ecology, King County, and other jurisdictions monitor 55 long-term monitoring stations across Puget Sound watersheds. These stations are located all along rivers and streams, from the mouth of the rivers to further upstream toward the headwaters. The Puget Sound Partnership&rsquo;s target data come from these 55 stations. Of the 55 long-term monitoring stations, 14 are located near the mouth of major rivers. They are used as useful measures that integrate water conditions in the upper watershed.</p>
+				<p>This indicator is the Water Quality Index</p>
+				  <p>Clean freshwater is vital to people and to fish and wildlife populations. When rivers and streams pick up pollutants, toxic contaminants, or excessive sediments and nutrients, the health of watersheds, marine waters, swimming beaches, and shellfish beds are adversely affected.</p>
+				  <p>The Water Quality Index for rivers and streams combines eight measures of water quality. Four of the component measures (dissolved oxygen, pH, temperature, and fecal coliform bacteria) are tied to the State&rsquo;s Water Quality Standards for protecting aquatic life and contact recreation. The other four measures (nitrogen, phosphorus, suspended sediment, and turbidity) do not have numeric standards, although they are related to general ecosystem function. A higher number is indicative of better water quality </p>
+				  <p>Index values are based on monthly monitoring at individual stations. The index values range from 1 to 100; a higher number is indicative of better water quality. However, a particular station may receive a good Water Quality Index score, and yet have water quality impaired by parameters not included in the index. Similarly, some locations may have poor Water Quality Index scores based on measures that do not have Water Quality Standards. </p>
+				  <p>In general, stations scoring 80 and above meet expectations for water quality according to Washington State Standards for surface water quality (Chapter 173-201A WAC), scores 40 to 80 indicate water quality is marginal, and water quality at stations with scores below 40 do not meet expectations. For measures without established criteria, a score of 80 indicates conditions were better than 20 percent of results collected during an historical benchmark period. </p>
+				  <p>The Washington State Department of Ecology, King County, and other jurisdictions monitor 55 long-term monitoring stations across Puget Sound watersheds. These stations are located all along rivers and streams, from the mouth of the rivers to further upstream toward the headwaters. The Puget Sound Partnership&rsquo;s target data come from these 55 stations. Of the 55 long-term monitoring stations, 14 are located near the mouth of major rivers. They are used as useful measures that integrate water conditions in the upper watershed.</p>
+				  <p>Note: Due to recent budget cuts, monitoring at long-term stations was reduced. Since 2014, data were collected at only 28 of the 55 sites.</p>
+<h5>&nbsp;</h5>
 
 				<!--*********************************AQUA HEADER*********************************-->
 			  <div class="aquaBarHeader">What are the targets? </div>
 				<h5>2020 target</h5>
-				<ul>
-					<li>At least half of all monitored stations should score 80 or above on the Water Quality Index.</li>
-				</ul>
+				<p>At least half of all monitored stations should score 80 or above on the Water Quality Index.</p>
 				<h5>Interim targets:</h5>
 				<p>Interim targets have not been set for these indicators</p>
-				
-			
-			</div>
+</div>
 			
 			<!--*********************************FOLD 03*********************************-->
 			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
 				<!--*********************************AQUA HEADER*********************************-->
+				<div class="aquaBarHeader"><strong>Is the indicator making progress toward the 2020 target? </strong></div>
 				<p><span><img src="images/status_not_changing.png" width="118" height="121" alt=""/>Is the indicator making progress toward the 2020 target?</span></p>
  <p>There was no significant trend for this indicator.</p>
 
 <p>Results suggest that the water quality for rivers and streams throughout Puget Sound has essentially remained unchanged for at least the past 10 years.</p>
-<ul><li>Only 27% of monitored stations were at or above the target value of 80, on average, from 2009 to 2013. This result is a few percentage points lower compared to the baseline reference established for the 2004 – 2008 period (31 percent), but the difference is not significant.</li> 
-<li>Five river systems—Deschutes, Nisqually, Green, Cedar, Samish rivers— however some improvements , but not enough to significantly sway the overall scores.</li></ul>
+<ul><li>Only 39 percent of monitored stations were at or above the target value of 80, on average, between 2011 and 2015. This result is lower compared to the baseline reference established for the 2005 – 2009 period (52 percent), but the difference is not significant.</li> 
+<li>Six river systems—Deschutes, Nisqually, Green, Cedar, Samish and Skokomish rivers— had some improvements, but not enough to significantly sway the overall scores.</li></ul> 
 
-				<div class="aquaBarHeader">Latest data</div>
-			<h5>TABLE 1. WATER QUALITY INDEX<br />
-<em>2000 – 2013</em></h5>
 
-            	<img src="images/water-quality-index.png" />
-             
-				<p>Annual Water Quality Index scores for monitoring stations near the mouth of 14 major rivers. Scores are calculated for each water year from October 1st to September 30th. Higher numbers indicate better water quality.</p>
-                <p><em>Source: Statewide Water Quality Monitoring Network, Washington State Department of Ecology; Stream and River Water Quality Monitoring, King County</em></p>
-                <h5>FIGURE 1. </h5>
+			  <div class="aquaBarHeader">Latest data</div>
+			 <h3>TABLE 1.</h3>
+          <h4>WATER QUALITY INDEX<br />
+<em>2000 – 2015</em></h4>
+
+            	 <img src="images/water-quality-index.png" />
+            <blockquote>
+			  <p>Green = 80 OR ABOVE    Orange = 70-79     Pink = 40-69     Red = 39 OR LESS</p>
+<p>Annual Water Quality Index scores for monitoring stations near the mouth of 14 major rivers. Scores are calculated for each water year from October 1st to September 30th. Higher numbers indicate better water quality.</p>
+
+                <p><em>Source: Statewide Water Quality Monitoring Network, Washington State Department of Ecology; Stream and River Water Quality Monitoring, King County.</em></p></blockquote>
+                <h3>FIGURE 1.</h3>
+          <h4>PERCENTAGE OF 28 LONG-TERM MONITORED STATIONS IN EACH WATER QUALITY INDEX SCORE CATEGORY<br />
+<em>2011– 2015</em></h4>
 <img src="images/WQI_percentage.png" alt=""/>
-			  <p>From 2009 to 2013, 15 of the 55 monitoring stations (27%) had average Water Quality Index scores of 80 or more. This percentage is the same than the 2008-2012 average reported in 2013. Fifteen stations had averages in the 70 – 79 range; 22 had poor scores (40 – 69); and three stations had a very poor index score (&lt; 40). Water Quality Index results for 2009-2013 indicate that only about one quarter of monitoring sites support water quality goals for conventional pollutants (toxics are not included). The majority of stations do not meet expectations for good water quality.</p>
-<p>Water quality at the mouth of a river is influenced by what happens further upstream. Thus, the Water Quality Index scores at 14 river mouth monitoring stations gives us an integrated view of upstream conditions. Some river systems are consistently scoring high, i.e., they have high water quality, such as the Duckabush and Skokomish River. Other rivers consistently score low, such as the Nooksack and Puyallup rivers. Yet, scores from other rivers vary from year to year, like the Skagit and Deschutes. Stations meeting water quality goals are all in the relatively undeveloped Olympic Peninsula, except for the Snohomish River. Stations not meeting water quality goals tend to be in watersheds with more people and more agricultural development. Improvements in fecal coliform bacteria and total nitrogen index scores have also been reported (p &lt; 0.05).</p>
-<p>None of the major rivers have had significantly declining Water Quality Index scores (p &lt; 0.20) since 1995. Water Quality Index scores have improved significantly in the Nisqually, Deschutes, Green, Cedar and Samish systems. </p>
+<blockquote><p><em>Source: Statewide Water Quality Monitoring Network, Washington Department of Ecology; Stream and River Water Quality Monitoring, King County</em></p></blockquote>
+			  <p>From 2011 to 2015, 15 of the 28 monitoring stations (39%) had average Water Quality Index scores of 80 or more. This percentage is less than the 2010-2014 average. Seven stations had averages in the 70 – 79 range; 9 had poor scores (40 – 69); and one station had a very poor index score (&lt; 40). Water Quality Index results for 2011-2015 indicate that 39% of monitoring sites support water quality goals for conventional pollutants (toxics are not included). The majority of stations do not meet expectations for good water quality.</p>
+			    <p>Water quality at the mouth of a river is influenced by what happens further upstream. Thus, the Water Quality Index scores at 14 river mouth monitoring stations gives us an integrated view of upstream conditions. Some river systems are consistently scoring high, i.e., they have high water quality, such as the Cedar, Duckabush and Skokomish River.</p>
+			    <p>Other rivers consistently score low, such as the Nooksack, Puyallup and the North Fork of the Stillaguamish Rivers. Yet, scores from other rivers vary from year to year, like the Skagit and Deschutes. Stations meeting water quality goals are all in the relatively undeveloped Olympic Peninsula, except for the Snohomish River. Stations not meeting water quality goals tend to be in watersheds with more people and more agricultural development. Improvements in fecal coliform bacteria and total nitrogen index scores have also been reported (p &lt; 0.05).</p>
+		      <p>None of the major rivers have had significantly declining Water Quality Index scores since 1995. Water Quality Index scores have improved significantly in the Nisqually, Deschutes, Green, Cedar and Samish systems. </p>
 <h5>FIGURE 2. </h5>
               <div></div>
 <img src="images/WQI_averageannualscores_2015.png" width="700" height="556" alt=""/>
