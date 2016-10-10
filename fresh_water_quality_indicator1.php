@@ -76,7 +76,7 @@ $(function() {
           <h4>WATER QUALITY INDEX<br />
 <em>2000 – 2015</em></h4>
 
-            	 <img src="images/water-quality-index.png" />
+            	 <img src="images/water-quality-index.png" alt="Water Quality Index" />
             <blockquote>
 			  <p>Green = 80 OR ABOVE    Orange = 70-79     Pink = 40-69     Red = 39 OR LESS</p>
 <p>Annual Water Quality Index scores for monitoring stations near the mouth of 14 major rivers. Scores are calculated for each water year from October 1st to September 30th. Higher numbers indicate better water quality.</p>
@@ -85,23 +85,29 @@ $(function() {
                 <h3>FIGURE 1.</h3>
           <h4>PERCENTAGE OF 28 LONG-TERM MONITORED STATIONS IN EACH WATER QUALITY INDEX SCORE CATEGORY<br />
 <em>2011– 2015</em></h4>
-<img src="images/WQI_percentage.png" alt=""/>
+<img src="images/WQI_percentage.png" alt="PERCENTAGE OF 28 LONG-TERM MONITORED STATIONS IN EACH WATER QUALITY INDEX SCORE CATEGORY"/>
 <blockquote><p><em>Source: Statewide Water Quality Monitoring Network, Washington Department of Ecology; Stream and River Water Quality Monitoring, King County</em></p></blockquote>
 			  <p>From 2011 to 2015, 15 of the 28 monitoring stations (39%) had average Water Quality Index scores of 80 or more. This percentage is less than the 2010-2014 average. Seven stations had averages in the 70 – 79 range; 9 had poor scores (40 – 69); and one station had a very poor index score (&lt; 40). Water Quality Index results for 2011-2015 indicate that 39% of monitoring sites support water quality goals for conventional pollutants (toxics are not included). The majority of stations do not meet expectations for good water quality.</p>
-			    <p>Water quality at the mouth of a river is influenced by what happens further upstream. Thus, the Water Quality Index scores at 14 river mouth monitoring stations gives us an integrated view of upstream conditions. Some river systems are consistently scoring high, i.e., they have high water quality, such as the Cedar, Duckabush and Skokomish River.</p>
+			    <p>Water quality at the mouth of a river is influenced by what happens further upstream. Thus, the Water Quality Index scores at 14 river mouth monitoring stations gives us an integrated view of upstream conditions. Some river systems are consistently scoring high, i.e., they have high water quality, such as the Cedar, Duckabush and Skokomish River. </p>
 			    <p>Other rivers consistently score low, such as the Nooksack, Puyallup and the North Fork of the Stillaguamish Rivers. Yet, scores from other rivers vary from year to year, like the Skagit and Deschutes. Stations meeting water quality goals are all in the relatively undeveloped Olympic Peninsula, except for the Snohomish River. Stations not meeting water quality goals tend to be in watersheds with more people and more agricultural development. Improvements in fecal coliform bacteria and total nitrogen index scores have also been reported (p &lt; 0.05).</p>
 		      <p>None of the major rivers have had significantly declining Water Quality Index scores since 1995. Water Quality Index scores have improved significantly in the Nisqually, Deschutes, Green, Cedar and Samish systems. </p>
-<h5>FIGURE 2. </h5>
+		      <h3>FIGURE 2.</h3>
+          <h4>AVERAGE ANNUAL WATER QUALITY INDEX SCORES FOR 14 LONG-TERM PUGET SOUND SITES<br />
+<em>1995 – 2015</em></h4>
+
               <div></div>
-<img src="images/WQI_averageannualscores_2015.png" width="700" height="556" alt=""/>
-			  <p>Overall, WQI scores for major rivers in the Puget Sound have been in the mid-70s and show a slight increasing trend of 0.34 units per year (p &lt; 0.10). The variability in WQI scores has also decreased since 1995 at a rate of 6.0 units per year (p &lt; 0.05).</p>
+<img src="images/WQI_averageannualscores_2015.png"  alt="AVERAGE ANNUAL WATER QUALITY INDEX SCORES FOR 14 LONG-TERM PUGET SOUND SITES"/>
+<blockquote><p>Bars show average Water Quality Index scores. Site interannual variation is indicated by the error bars. Trend in overall Water Quality Index scores is indicated by the black solid line. Values below 40 (red dotted line) have poor water quality. Values at or above 80 (blue dotted line) have good water quality and meet expectations. </p>
+<p><em>Source: Statewide Water Quality Monitoring Network, Washington Department of Ecology; Stream and River Water Quality Monitoring, King County.</em></p></blockquote>
+
+			  <p>Overall, Water Quality Index scores for major rivers in the Puget Sound have been in the mid-70s and show a slight increasing trend of 0.34 units per year (p &lt; 0.10). The variability in Water Quality Index scores has also decreased since 1995 at a rate of 6.0 units per year (p &lt; 0.05). However, most Water Quality Index scores declined in 2015 during observed drought conditions in the Puget Sound ecoregion. Snow pack driven river systems such as the Snoqualmie and the Skokomish had the greatest reductions in overall annual Water Quality Index scores when compared to 2014. </p>
 			    <p>The earliest projection for meeting the target value for the 14 major rivers would be 2025. When adjusted for differences in seasonal flows, the trend is much slower: average flow-adjusted scores of 80 are projected for 2060.</p>
 		      <p>Adjusting the flow accounts for the effect of flow on the parameters underlying the index. Our projection to and beyond 2020 is a best guess. Predictions are difficult due to fluctuations in drivers like the rate of population growth, global warming, and effectiveness of management activities, as well as possible long-term cycles not visible in the current 15-year dataset. For example, management tends to address the easier and more egregious problems first. As those problems get fixed, remaining problems become more difficult to correct with less effect on the water body for a given level of effort. Consequently, the rate of improvement in the index could be less, perhaps much less, than predicted by simply extending current trends.</p>
 <h4 class="aqua">Why is this happening?</h4>
-				<p>In addition to some improvements in the overall score since 1995 for major rivers in Puget Sound, fecal coliform bacteria and total nitrogen index scores also improved (p&lt;0.05).  Furthermore, there are some slight reductions in mean annual stream temperature and total suspended sediment concentration on a few systems. However, Puget Sound-wide trends for other measures were not significant. </p>
-				
+				<p>In addition to some improvements in the overall score since 1995 for major rivers in Puget Sound, fecal coliform bacteria and total nitrogen index scores also improved (p&lt;0.05). Furthermore, there are some slight reductions in mean annual stream temperature and total suspended sediment concentration on a few systems. However, Puget Sound-wide trends for other measures were not significant. </p>
+
 				<!--*********************************AQUA HEADER*********************************-->
-				<div class="aquaBarHeader">Maps</div>
+			  <div class="aquaBarHeader">Maps</div>
 				<p> No Maps</p>
 			</div>
 		</div>
