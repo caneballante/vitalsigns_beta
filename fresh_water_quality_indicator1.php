@@ -78,7 +78,6 @@ $(function() {
 
             	 <img src="images/water-quality-index.png" alt="Water Quality Index" />
             <blockquote>
-			  <p>Green = 80 OR ABOVE    Orange = 70-79     Pink = 40-69     Red = 39 OR LESS</p>
 <p>Annual Water Quality Index scores for monitoring stations near the mouth of 14 major rivers. Scores are calculated for each water year from October 1st to September 30th. Higher numbers indicate better water quality.</p>
 
                 <p><em>Source: Statewide Water Quality Monitoring Network, Washington State Department of Ecology; Stream and River Water Quality Monitoring, King County.</em></p></blockquote>
