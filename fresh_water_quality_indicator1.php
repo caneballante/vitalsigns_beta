@@ -63,8 +63,8 @@ $(function() {
 			<div> 
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader"><strong>Is the indicator making progress toward the 2020 target? </strong></div>
-				<p><span><img src="images/status_not_changing.png" width="118" height="121" alt=""/>Is the indicator making progress toward the 2020 target?</span></p>
- <p>There was no significant trend for this indicator.</p>
+				<p><span><img src="images/status_not_changing.png" width="118" height="121" alt=""/>There was no significant trend for this indicator.</span></p>
+ 
 
 <p>Results suggest that the water quality for rivers and streams throughout Puget Sound has essentially remained unchanged for at least the past 10 years.</p>
 <ul><li>Only 39 percent of monitored stations were at or above the target value of 80, on average, between 2011 and 2015. This result is lower compared to the baseline reference established for the 2005 – 2009 period (52 percent), but the difference is not significant.</li> 
