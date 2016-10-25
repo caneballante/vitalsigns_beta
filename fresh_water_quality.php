@@ -60,7 +60,7 @@ $(function() {
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
 			<div>
-				<p><a href="http://gismanager.rco.wa.gov/ntaportal/?VitalSign=Freshwater+Quality">View Near Term Actions helping to advance this Vital Sign</a></p>
+				<p><a href="http://psp.wa.gov/gis/ReportCard/VitalSign/indexVSFreshwaterQuality.html">View Near Term Actions helping to advance this Vital Sign</a></p>
 			</div>
 			<!--*********************************FOLD 06*********************************-->
 			<h3><a href="#!">Links for more information</a></h3>

@@ -66,7 +66,7 @@ $(function() {
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#">What Our Partners Are Doing</a></h3>
 			<div>
-				<p><a href="http://gismanager.rco.wa.gov/ntaportal?ActionAgenda=2014-2016&Quarter=10&Vital%20Sign=Swimming%20Beaches" target="_blank">View Near Term Actions helping to advance this Vital Sign</a></p>
+				<p>Coming Soon</p>
 			</div>
 			<!--*********************************FOLD 06*********************************-->
 			<h3><a href="#">Links For More Information</a></h3>

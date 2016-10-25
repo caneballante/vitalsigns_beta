@@ -74,7 +74,7 @@ $(function() {
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#">What our partners are doing</a></h3>
 			<div>
-				<p><a href="http://gismanager.rco.wa.gov/ntaportal/?VitalSign=Commercial+Fisheries+Harvest">View Near Term Actions helping to advance this Vital Sign</a></p>
+				<p>Coming Soon</p></div>
 				<h5>Join the Discussion </h5>
 				<p>You can join the public discussion on<a href="http://www.mypugetsound.net/directory-llistings/forum/10-indicator-commercial-fisheries-harvest.html"> Commercial Fisheries Harvest on My Puget Sound</a>.</p>
 			</div>

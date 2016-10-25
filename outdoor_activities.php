@@ -50,7 +50,7 @@ $(function() {
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p><a href="http://psp.wa.gov/gis/ReportCard/VitalSign/indexVSOutdoorActivity.html">View Near Term Actions helping to advance this Vital Sign</a> </p>
 			</div>
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
