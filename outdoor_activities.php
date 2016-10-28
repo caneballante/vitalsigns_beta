@@ -32,7 +32,7 @@ $(function() {
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/outdoor_activities_title.html' ?>
-	<?php include 'includes/outdoor_activites_tab.html' ?>
+	<?php include 'includes/outdoor_activities_tab.html' ?>
 	<div id="accordioncontainer">
 		<div id="accordion"> 
 			<!--*********************************FOLD 01*********************************-->
