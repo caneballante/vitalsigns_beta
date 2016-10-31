@@ -137,22 +137,22 @@ li {
 	left: 0px;
 }
 #wheellink {
-	width: 137px;
+	width: 127px;
 	position: absolute;
 	top: 10px;
 	left: 265px;
 }
 #atlaslink {
-	width: 106px;
+	width: 137px;
 	position: absolute;
 	top: 10px;
-	left: 402px;
+	left: 392px;
 }
 #reportlink {
 	width: 101px;
 	position: absolute;
 	top: 10px;
-	left: 508px;
+	left: 529px;
 }
 #headerspacer {
 	width: 90px;
