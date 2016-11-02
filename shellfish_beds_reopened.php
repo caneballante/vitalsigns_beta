@@ -39,7 +39,7 @@ $(function() {
 			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
 			<div>
 				<p>At low tide, the waters of Puget Sound reveal an amazing abundance of oysters, clams, mussels, and more—a bounty unparalleled elsewhere. Gathering shellfish is a time-honored tradition for the public, and today it is an industry that supports thousands of jobs and brings millions of dollars into the region.</p>
-				<p>Around Puget Sound, there are approximately 190,000 acres of classified commercial and recreational shellfish beds. However, about 36,000 acres of shellfish beds—or 19 percent—are closed due to pollution, most of which comes from fecal bacteria from humans, livestock, and pets. When fecal bacteria and other contaminants get into the water, they threaten the areas where these prized oysters, clams, and other bivalve shellfish grow.</p>
+				<p>Around Puget Sound, there are approximately 225,000 acres of classified commercial and recreational shellfish beds. However, about 37,000 acres of shellfish beds—or 16 percent—are closed due to pollution, most of which comes from fecal bacteria from humans, livestock, and pets. When fecal bacteria and other contaminants get into the water, they threaten the areas where these prized oysters, clams, and other bivalve shellfish grow.</p>
 			</div>
 			
 			<!--*********************************FOLD 04*********************************-->
