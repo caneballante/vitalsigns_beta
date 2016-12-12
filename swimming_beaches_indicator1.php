@@ -192,7 +192,7 @@ $(function() {
 						</tr>
 						<tr>
 							<td><img src="images/map-icon-2.jpg" width="50" height="50" alt=""/></td>
-							<td><p> <a href="http://www.psp.wa.gov/gis/VitalSign_BIBI/">View interactive map<br />
+							<td><p> <a href="http://wa-rco.maps.arcgis.com/apps/View/index.html?appid=9ced92ba9d3642f485bc9378545e8f30">View interactive map<br />
 									</a></p></td>
 						</tr>
 					</table>

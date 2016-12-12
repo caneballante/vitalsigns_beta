@@ -108,11 +108,19 @@ Annual, 2007 – 2011
 <h5>FIGURE 4. B-IBI SCORES FOR RIVERS AND STREAMS IN THE PUGET SOUND WATERSHED<br />
 <em>Source: Puget Sound Stream Benthos</em></h5>
 
-				<p> <img src="images/freshwater_chart8.png" alt="B-IBI scores for rivers and streams in the Puget Sound watershed" /></p>
+				<div class="fltrtmap">
+					<table width="250">
+						
+						<tr>
+							<td><img src="images/map-icon-2.jpg" width="50" height="50" alt=""/></td>
+							<td><p> <a href="http://www.psp.wa.gov/gis/VitalSign_BIBI/">View interactive map<br />
+									</a></p></td>
+						</tr>
+					</table>
+				</div>
+				<div class="fltlftmap"> <img src="images/freshwater_chart8.png" alt="B-IBI scores for rivers and streams in the Puget Sound watershed" />
+				</div>
 			</div>
-			
-			<!--*********************************AQUA HEADER*********************************--> 
-			
 		</div>
 	</div>
 	<?php include 'includes/footer.html' ?>
