@@ -82,7 +82,7 @@ $(function() {
           <h4>SPAWNING BIOMASS OF PACIFIC HERRING STOCKS IN PUGET SOUND<br />
 <em>1973 – 2016</em></h4>
 
-			<p><img src="images/pacific-herring-chart.png" width="750" height="398" alt="Spawning biomass of Pacific herring stocks in Puget Sound, in tons, 1973-2014" />
+			<p><img src="images/pacific-herring-chart.png" width="750" height="496" alt="Spawning biomass of Pacific herring stocks in Puget Sound, in tons, 1973-2014" />
 		  </p>
 			<blockquote>
 			  <p>Annual spawner abundance estimates for each stock are shown with solid lines; each color corresponds to a different stock. The dotted lines represent the 25-year mean from 1986 to 2010 for the corresponding stock. The 2020 target is shown with a dot for each stock.<br />
