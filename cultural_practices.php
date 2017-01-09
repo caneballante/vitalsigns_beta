@@ -28,7 +28,7 @@ $(function() {
 	color = "orange";
 </script>
 </head>
-<body id="orange_placeholder" >
+<body id="cp" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/cultural_practices_title.html' ?>
@@ -38,19 +38,19 @@ $(function() {
 			<!--*********************************FOLD 01*********************************-->
 			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>The Cultural Wellbeing Vital Sign addresses the extent to which people feel able to maintain their cultural traditions. The Puget Sound region is home to human populations from diverse cultures, some with long-held connections to place, and others more recently arrived. Cultural practices and knowledge systems have always been shaped by the ecosystems in which a culture is based. Cultural traditions are critical to human wellbeing because they provide people a sense of belonging, create the foundation for moral development, and define rules for social interaction. Many of the cultural traditions held by Puget Sound residents depend on the health of Puget Sound ecosystems. The Cultural Wellbeing Vital Sign addresses the extent to which people feel able to maintain their cultural traditions as related to the natural environment. The loss of such cultural traditions could affect not only human quality of life but also sense of place and stewardship for the region, livelihoods, and traditions that form the base of belonging for communities.</p>
 			</div>
 			
 			<!--*********************************FOLD 04*********************************-->
 			<h3><a href="#!">What you can do</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Check back later for information and resources.</p>
 			</div>
 			
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Partner actions are not yet linked to this Vital Sign.</p>
 			</div>
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>

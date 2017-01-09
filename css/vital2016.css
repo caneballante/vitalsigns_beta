@@ -187,6 +187,44 @@ li {
 	height: 240px;
 	position: relative;
 }
+
+#gg #vitalheadercontainer {
+	background-image: url(../img/gg.jpg);
+	height: 240px;
+	position: relative;
+}
+
+#cp #vitalheadercontainer {
+	background-image: url(../img/cp.jpg);
+	height: 240px;
+	position: relative;
+}
+
+#lf #vitalheadercontainer {
+	background-image: url(../img/lf.jpg);
+	height: 240px;
+	position: relative;
+}
+
+#sop #vitalheadercontainer {
+	background-image: url(../img/sop.jpg);
+	height: 240px;
+	position: relative;
+}
+
+#dw #vitalheadercontainer {
+	background-image: url(../img/dw.jpg);
+	height: 240px;
+	position: relative;
+}
+
+#aq #vitalheadercontainer {
+	background-image: url(../img/aq.jpg);
+	height: 240px;
+	position: relative;
+}
+
+
 #orange_placeholder #vitalheadercontainer {
 	background-image: url(../img/orange_placeholder_background.jpg);
 	height: 240px;

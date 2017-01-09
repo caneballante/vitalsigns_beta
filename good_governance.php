@@ -28,7 +28,7 @@ $(function() {
 	color = "orange";
 </script>
 </head>
-<body id="orange_placeholder" >
+<body id="gg" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/good_governance_title.html' ?>
@@ -38,24 +38,29 @@ $(function() {
 			<!--*********************************FOLD 01*********************************-->
 			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>The Good Governance Vital Sign provides information on the vigor of our natural resources management process and the degree to which we are effectively engaging the Puget Sound community in ecosystem recovery. Governance broadly refers to the many formal and informal mechanisms used to make decisions and implement policy. Good governance affects human wellbeing by allowing local residents to feel engaged, represented, and empowered. According to the United Nations, good governance follows principles of effectiveness, efficiency, adherence to rules, transparency, oriented towards consensus, accountability, inclusiveness, participatory in nature, lack of corruption, and responsiveness. In systems that employ good governance principles, the vulnerable or minority groups’ views are represented and included in decision-making.<sup>1</sup> </p>
+				<hr />
+				
+				<p><em><sup>1</sup> United Nations Economic and Social Commission for Asia and the Pacific, 2009, What is Good Governance?,
+					Bangkok, Thailand, <a href="http://www.unescap.org/sites/default/files/good-governance.pdf">http://www.unescap.org/sites/default/files/good-governance.pdf</a>.</em></p>
+				
 			</div>
 			
 			<!--*********************************FOLD 04*********************************-->
 			<h3><a href="#!">What you can do</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Check back later for information and resources.</p>
 			</div>
 			
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Partner actions are not yet linked to this Vital Sign.</p>
 			</div>
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
 			<div>
-				<p>Coming soon</p>
+				<ul><li><a href="http://www.unescap.org/sites/default/files/good-governance.pdf">Good Governance document</a></li></ul>
 			</div>
 		</div>
 	</div>

@@ -28,7 +28,7 @@ $(function() {
 	color = "green";
 </script>
 </head>
-<body id="green_placeholder" >
+<body id="lf" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/local_foods_title.html' ?>
@@ -38,24 +38,26 @@ $(function() {
 			<!--*********************************FOLD 01*********************************-->
 			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>The Local Foods Vital Sign broadly addresses the quality and availability of Puget Sound food resources for traditional, sustenance, and recreational uses. The Puget Sound region provides an abundance of locally harvestable foods, including finfish and shellfish, animals and birds, and plant-based greens, roots, nuts and fruits. Eating local foods provides many benefits to human wellbeing. The act of collecting, preparing, and sharing such foods maintains cultural knowledge and practices and often builds social relationships. These foods can be sourced more locally than food purchased in grocery stores, thus reducing emissions and providing health benefits associated with the high nutritional quality of local foods and outdoor activity associated with harvesting.</p>
 			</div>
 			
 			<!--*********************************FOLD 04*********************************-->
 			<h3><a href="#!">What you can do</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Check back later for information and resources.</p>
 			</div>
 			
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Partner actions are not yet linked to this Vital Sign.</p>
 			</div>
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
 			<div>
-				<p>Coming soon</p>
+				<ul><li><a href="http://www.doh.wa.gov/CommunityandEnvironment/Shellfish/RecreationalShellfish">Recreational shellfish beds program at the Department of Health</a></li>
+					<li><a href="https://www.eopugetsound.org/articles/extended-abstract—-poisoning-body-nourish-soul-prioritising-health-risks-and-impacts-native">Poisoning the body to nourish the soul: Prioritising health risks and impacts in a Native American community</a></li>
+					<li><a href="https://www.eopugetsound.org/magazine/clam-hunger">Clam Hunger</a></li></ul>
 			</div>
 		</div>
 	</div>

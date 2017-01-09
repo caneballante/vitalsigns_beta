@@ -28,7 +28,7 @@ $(function() {
 	color = "green";
 </script>
 </head>
-<body id="green_placeholder" >
+<body id="dw" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/drinking_water_title.html' ?>
@@ -38,24 +38,26 @@ $(function() {
 			<!--*********************************FOLD 01*********************************-->
 			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>The Drinking Water Vital Sign addresses the quality of all drinking water systems, including large and small public and private drinking water systems. Access to safe drinking water is a critical determinant of human wellbeing and an indicator of the degree to which the Puget Sound is able to support basic human needs. In Puget Sound’s urban areas, public systems operated by cities usually provide treated drinking water. In more rural areas, small public water systems and private wells provide drinking water; tracking drinking water quality is more difficult for such systems. Water sources can be threatened by many variables, including the contamination from fertilizers, septic systems, and compounds occurring naturally in specific geographies; and issues with water storage and distribution systems. Drinking water contaminants can cause a range of human illnesses. Tracking drinking water contaminants over time and across geographic locations is critical to ensuring human health.</p>
 			</div>
 			
 			<!--*********************************FOLD 04*********************************-->
 			<h3><a href="#!">What you can do</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Check back later for information and resources.</p>
 			</div>
 			
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Partner actions are not yet linked to this Vital Sign.</p>
 			</div>
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
 			<div>
-				<p>Coming soon</p>
+				<ul><li><a href="http://www.doh.wa.gov/CommunityandEnvironment/DrinkingWater/SourceWater/SourceWaterProtection">Source Water Protection website</a></li>
+					<li><a href="http://www.doh.wa.gov/CommunityandEnvironment/DrinkingWater">Department of Health</a></li> 
+					<li><a href="http://wa.water.usgs.gov/projects/pugt/">USGS Washington Water Science Center</a></li></ul> 
 			</div>
 		</div>
 	</div>

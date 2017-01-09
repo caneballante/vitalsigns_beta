@@ -28,7 +28,7 @@ $(function() {
 	color = "orange";
 </script>
 </head>
-<body id="orange_placeholder" >
+<body id="sop" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/sense_of_place_title.html' ?>
@@ -38,24 +38,25 @@ $(function() {
 			<!--*********************************FOLD 01*********************************-->
 			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>The Sense of Place Vital Sign is a composite of two separate indices and a separate baseline measure of satisfaction. Sense of place is defined as the extent to which people identify with and feel positively attached to a specific place. Several studies have demonstrated that not only does a strong sense of place contribute to human wellbeing, but it also contributes to a desire to protect the natural environment. Sense of place is clearly linked to other human wellbeing measures, particularly cultural and psychological measures; it is therefore an informative, all-encompassing measure of wellbeing. This Vital Sign also tracks psychological wellbeing related to the natural environment because positive emotions are one of the primary determinants of human wellbeing. Inspiration is an emotion that promotes creativity and positive action and which we can derive from the natural environment. Stress reduction is one of the most important ways that being in nature can enhance mental and physical health.</p>
 			</div>
 			
 			<!--*********************************FOLD 04*********************************-->
 			<h3><a href="#!">What you can do</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Check back later for information and resources.</p>
 			</div>
 			
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Partner actions are not yet linked to this Vital Sign.</p>
 			</div>
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
 			<div>
-				<p>Coming soon</p>
+				<p><a href="https://www.eopugetsound.org/articles/evaluating-sense-place-domain-
+					human-well-being-puget-sound-restoration">Sense of Place technical memo</a></p>
 			</div>
 		</div>
 	</div>

@@ -28,7 +28,7 @@ $(function() {
 	color = "green";
 </script>
 </head>
-<body id="green_placeholder" >
+<body id="aq" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/air_quality_title.html' ?>
@@ -38,24 +38,30 @@ $(function() {
 			<!--*********************************FOLD 01*********************************-->
 			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>The Air Quality Vital Sign addresses the status of air quality across Puget Sound. Clean air is essential to human health and is also an indicator of general ecological health. In the Puget Sound, air pollution is primarily caused by diesel exhaust, industrial emissions, and the burning of wood and debris. Poor air quality disproportionately affects young children and the elderly, as well as those who have respiratory diseases and asthma. Marginalized communities are often disproportionately exposed to air pollution.</p>
 			</div>
 			
 			<!--*********************************FOLD 04*********************************-->
 			<h3><a href="#!">What you can do</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Check back later for information and resources.</p>
 			</div>
 			
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Partner actions are not yet linked to this Vital Sign.</p>
 			</div>
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
 			<div>
-				<p>Coming soon</p>
+				<ul><li>Clean Air Agencies</li>
+					<ul><li><a href="https://www.orcaa.org/">Olympic Region Clean Air Agency</a></li> 
+					<li><a href="http://www.pscleanair.org/Pages/default.aspx">Puget Sound Clean Air Agency</a></li>
+						<li><a href="ttp://nwcleanairwa.gov/">Northwest Clean Air Agency</a></li></ul>
+					<li><a href="http://www.ecy.wa.gov/programs/air/airhome.html">Washington State Department of Ecology, Air Quality Program</a></li> 
+					<li><a href="https://yosemite.epa.gov/R10/AIRPAGE.NSF/webpage/Air+Quality">U.S. Environmental Protection Agency</a></li>
+				</ul>
 			</div>
 		</div>
 	</div>
