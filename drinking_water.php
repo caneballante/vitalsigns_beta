@@ -55,7 +55,9 @@ $(function() {
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
 			<div>
-				<ul><li><a href="http://www.doh.wa.gov/CommunityandEnvironment/DrinkingWater/SourceWater/SourceWaterProtection">Source Water Protection website</a></li>
+				<ul>
+				<li><a href="https://pspwa.box.com/s/achcm3ekcy6uxqn2rrdmxsi4rko3459h">Human Wellbeing Indicators technical memo</a></li>
+				<li><a href="http://www.doh.wa.gov/CommunityandEnvironment/DrinkingWater/SourceWater/SourceWaterProtection">Source Water Protection website</a></li>
 					<li><a href="http://www.doh.wa.gov/CommunityandEnvironment/DrinkingWater">Department of Health</a></li> 
 					<li><a href="http://wa.water.usgs.gov/projects/pugt/">USGS Washington Water Science Center</a></li></ul> 
 			</div>

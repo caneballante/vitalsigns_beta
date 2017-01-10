@@ -55,7 +55,9 @@ $(function() {
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
 			<div>
-				<ul><li><a href="http://www.doh.wa.gov/CommunityandEnvironment/Shellfish/RecreationalShellfish">Recreational shellfish beds program at the Department of Health</a></li>
+				<ul>
+				<li><a href="https://pspwa.box.com/s/achcm3ekcy6uxqn2rrdmxsi4rko3459h">Human Wellbeing Indicators technical memo</a></li>
+				<li><a href="http://www.doh.wa.gov/CommunityandEnvironment/Shellfish/RecreationalShellfish">Recreational shellfish beds program at the Department of Health</a></li>
 					<li><a href="https://www.eopugetsound.org/articles/extended-abstract—-poisoning-body-nourish-soul-prioritising-health-risks-and-impacts-native">Poisoning the body to nourish the soul: Prioritising health risks and impacts in a Native American community</a></li>
 					<li><a href="https://www.eopugetsound.org/magazine/clam-hunger">Clam Hunger</a></li></ul>
 			</div>

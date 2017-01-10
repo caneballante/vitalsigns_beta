@@ -55,8 +55,10 @@ $(function() {
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
 			<div>
-				<p><a href="https://www.eopugetsound.org/articles/evaluating-sense-place-domain-
-					human-well-being-puget-sound-restoration">Sense of Place technical memo</a></p>
+				<ul><li><a href="https://pspwa.box.com/s/achcm3ekcy6uxqn2rrdmxsi4rko3459h">Human Wellbeing Indicators technical memo</a></li>
+				<li><a href="https://www.eopugetsound.org/articles/evaluating-sense-place-domain-
+					human-well-being-puget-sound-restoration">Sense of Place technical memo</a></li>
+				</ul>
 			</div>
 		</div>
 	</div>

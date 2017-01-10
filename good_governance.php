@@ -60,7 +60,9 @@ $(function() {
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
 			<div>
-				<ul><li><a href="http://www.unescap.org/sites/default/files/good-governance.pdf">Good Governance document</a></li></ul>
+				<ul>
+				<li><a href="https://pspwa.box.com/s/achcm3ekcy6uxqn2rrdmxsi4rko3459h">Human Wellbeing Indicators technical memo</a></li>
+				<li><a href="http://www.unescap.org/sites/default/files/good-governance.pdf">Good Governance document</a></li></ul>
 			</div>
 		</div>
 	</div>

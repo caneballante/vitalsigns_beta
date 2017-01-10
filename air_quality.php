@@ -56,6 +56,7 @@ $(function() {
 			<h3>Links for more information</h3>
 			<div>
 				<ul><li>Clean Air Agencies</li>
+				<li><a href="https://pspwa.box.com/s/achcm3ekcy6uxqn2rrdmxsi4rko3459h">Human Wellbeing Indicators technical memo</a></li>
 					<ul><li><a href="https://www.orcaa.org/">Olympic Region Clean Air Agency</a></li> 
 					<li><a href="http://www.pscleanair.org/Pages/default.aspx">Puget Sound Clean Air Agency</a></li>
 						<li><a href="ttp://nwcleanairwa.gov/">Northwest Clean Air Agency</a></li></ul>

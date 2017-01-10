@@ -55,7 +55,7 @@ $(function() {
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
 			<div>
-				<p>Coming soon</p>
+				<ul><li><a href="https://pspwa.box.com/s/achcm3ekcy6uxqn2rrdmxsi4rko3459h">Human Wellbeing Indicators technical memo</a></li></ul>
 			</div>
 		</div>
 	</div>
