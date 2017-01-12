@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="google-site-verification" content="lMaE6uVdAY_4P-zfoagi1Kj2QQLS8W3JvahLqMZMuDU" />
-<title>Puget Sound Partnership - Vital Signs - Drinking Water</title>
+<title>Puget Sound Partnership - Vital Signs - Economic Vitality</title>
 <link href="css/vital2016.css" rel="stylesheet" type="text/css" />
 <link type="text/css" href="css/custom-theme/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" />
 <script type="text/javascript" src="js/jquery-1.8.3.js"></script>
@@ -23,25 +23,25 @@ $(function() {
 </script>
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
-	color = "green";
+  	navSelected = 3;
+	color = "orange";
 </script>
 </head>
-<body id="dw" >
+<body id="ev" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
-	<?php include 'includes/drinking_water_title.html' ?>
-	<?php include 'includes/drinking_water_tab.html' ?>
+	<?php include 'includes/economic_vitality_title.html' ?>
+	<?php include 'includes/economic_vitality_tab.html' ?>
 	<div id="accordioncontainer">
 		<div id="accordion"> 
 		<!--*********************************FOLD 02*********************************-->
 			<h3><a href="#!">Indicator and target description</a></h3>
 			<div> 
-				<div class="greenBarHeader">What is the indicator?</div>
-				<p>This indicator is currently in development. It will track drinking water source contamination in public and private water systems.</p>
+				<div class="orangeBarHeader">What is the indicator?</div>
+				<p>This indicator compares the output of natural resource industries to the total economic output of the region, helping us to understand the trends in natural resource industries across the region. Industries such as technology, aerospace, and finance also contribute significantly to the regional economy, but a decline in natural resource industries may indicate a displacement of employment opportunities, as well as dissociation from connection to the natural environment and sense of place.</p>
 				
 				<!--*********************************PURPLE HEADER*********************************-->
-			  <div class="greenBarHeader">What are the targets? </div>
+				<div class="orangeBarHeader">What are the targets? </div>
 				
 				<p>No targets are currently set for this indicator.</p>
 			</div>
@@ -51,12 +51,12 @@ $(function() {
 			<!--*********************************PURPLE HEADER*********************************-->
 				<h5>What is the trend?</h5>
 <p>
-No data are currently available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years.</p>
+  No data are currently available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years.</p>
 				<h5>Latest data:</h5>
 <p>No data are currently available for this indicator. The Puget Sound Partnership is seeking funding to support data collection.</p>
 				<h5>Why is this happening?</h5> 
 				<p>
-			    Analysis of data trends is not currently available. We have not yet identified the specific indicator and metric, which is necessary to determine which data are needed to assess trends.</p>
+			    Analysis of data trends is not currently available. </p>
 			</div>
 		</div>
 	</div>

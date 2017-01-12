@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="google-site-verification" content="lMaE6uVdAY_4P-zfoagi1Kj2QQLS8W3JvahLqMZMuDU" />
-<title>Puget Sound Partnership - Vital Signs - Land Cover</title>
+<title>Puget Sound Partnership - Vital Signs - Good Governance</title>
 <link href="css/vital2016.css" rel="stylesheet" type="text/css" />
 <link type="text/css" href="css/custom-theme/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" />
 <script type="text/javascript" src="js/jquery-1.8.3.js"></script>

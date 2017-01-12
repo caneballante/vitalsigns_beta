@@ -28,7 +28,7 @@ $(function() {
 	color = "green";
 </script>
 </head>
-<body id="green_placeholder" >
+<body id="oa" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/outdoor_activities_title.html' ?>
