@@ -119,7 +119,10 @@ $(function() {
 					</tbody>
 			  </table>
               <div class="purpBarHeader"><strong>Latest Data</strong></div>
-				<img src="images/eelgrass_2015_chart1-01.png" width="550" height="586" alt="Acres of eelgrass in Puget Sound, in thousands, 2000-2008 baseline and 2009-2011 annual data" />
+               <h3>FIGURE 1.</h3> 
+                <h5>ACRES OF EELGRASS IN PUGET SOUND <br />
+  <em>2000 – 2008 baseline average and 2009 – 2015 annual estimates</em></h5>
+				<img src="images/eelgrass_2015_chart1-01.png" width="600" height="382" alt="Acres of eelgrass in Puget Sound, in thousands, 2000-2008 baseline and 2009-2015 annual data" />
 			  <p>Puget Sound supports about 54,000 acres of eelgrass beds (the 2000 to 2014 average).  Sound-wide eelgrass area has not increased relative to the 2000-2008 baseline. There is no significant trend in eelgrass area between 2009 and 2014.</p>
 <p>Eelgrass distribution patterns vary across Puget Sound, with two main types of eelgrass beds: narrow fringing beds and broad beds on shallow flats. Approximately 24 percent of the total eelgrass area occurs in only two embayments: Padilla and Samish Bay.</p>
 
