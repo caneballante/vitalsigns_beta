@@ -40,7 +40,7 @@ $(function() {
 			<h2>Ecosystem recovery targets</h2>
 			<p>There are six goals to recover Puget Sound and these are defined by law (RCW 90.71). To assess progress toward these recovery goals more precisely, the Partnership adopted specific and quantitative milestones, known as 2020 ecosystem recovery targets. These targets are policy statements, sometimes considered aspirational, that reflect the region’s commitments to and expectations for recovering Puget Sound by the year 2020. </p>
 <p>The six statutory goals are depicted in the outer ring of the image of the Puget Sound Vital Signs above, and each Vital Sign are shown in the wedges. In the image, the Vital Signs are associated with their primary goal, but can be linked to other goals as well.</p>
- <p><a href="https://pspwa.box.com/s/679b36zit7pgkqkuyfdxfycu2f3qkws9">List of the 2020 ecosystem recovery targets</a></p>
+ <p><a href="https://pspwa.app.box.com/file/93725186457">List of the 2020 ecosystem recovery targets</a></p>
 			<h2>State of the Sound</h2>
 			<p>Each Vital Sign webpage present the latest evaluation of the indicators, how they have changed over time, and their progress relative to targets for ecosystem recovery. You will also find links to original sources for each Vital Sign indicators.</p>
 <p>For a summary of what the Puget Sound Vital Sign indicators are telling us, please consult the latest <a href="http://www.psp.wa.gov/sos.php">State of Sound</a>.</p>

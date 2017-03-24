@@ -40,19 +40,19 @@ $(function() {
 			<div> 
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader">What is the indicator? </div>
-				<h4 class="aqua">This indicator is the Marine Water Condition Index.</h4>
-				<p>The Marine Water Condition Index measures change in water quality against a baseline reference. The index integrates 12 variables that each describe an important aspect of water quality conditions, such as temperature, salinity, nutrient balance, algae biomass, and dissolved oxygen. The baseline reference is calculated for the time period 1999 – 2008. Positive values of the index indicate relatively improved marine water quality, and negative values indicate worse marine water quality relative to the baseline.</p>
-				 <p>The Marine Water Condition Index provides a framework that links changes in local water quality and physical conditions to the larger context of oceanic water quality and natural variability. The Marine Water Condition Index detects changes in water conditions relevant to eutrophication and physical conditions against site and seasonal-specific baseline conditions measured from 1999 to 2008.</p>
-			    <p>The index reports on a scale of +50 to -50 indicating a complete positive or negative change from baseline conditions, with zero indicating unchanged conditions relative to the baseline. The index is reported for 12 regions.</p>
+				
+				<p>This indicator is the Marine Water Condition Index.</p>
+				  <p>The Marine Water Condition Index measures changes in water quality that are relevant to eutrophication against a baseline reference period. The index integrates 12 variables that each describe an important aspect of water quality, such as temperature, salinity, nutrient balance, algae biomass, and dissolved oxygen in surface water 0-50 m. The baseline is calculated for the time period 1999 – 2008. Positive values of the index indicate relatively improved marine water quality, and negative values indicate worse marine water quality relative to the baseline.</p>
+			    <p>The Marine Water Condition Index provides a framework that links changes in water quality and physical conditions in Puget Sound to the larger context of influencing factors of oceanic water quality and climate. The Marine Water Condition Index detects changes in water conditions against site and seasonal-specific baseline conditions with a focus on change rather than an absolute quality. The index reports on a scale of +50 to -50 indicating a complete positive or negative departure from baseline conditions, with zero indicating unchanged conditions relative to the baseline. The index is reported for 12 regions using 27 monthly sampled monitoring stations.</p>
 
 				<!--*********************************AQUA HEADER*********************************-->
 			  <div class="aquaBarHeader">What are the targets? </div>
 				<h5>2020 target</h5>
-				<p>There is no 2020 target for the Marine Water Condition Index. However, since the index is designed to show changes in water quality, positive values indicate relatively improved marine water quality relative the baseline, and negative values indicate worse marine water quality relative to the baseline.</p>
+				<p>There is no 2020 target for the Marine Water Condition Index. However, since the index is designed to show changes in water quality, positive values indicate improved marine water quality, and negative values indicate worse marine water quality relative to the baseline.</p>
 <h5>Interim targets</h5>
-				<p><a href="http://www.psp.wa.gov/downloads/interimtargets/Marine Water Quality Interim Targets -FINAL.pdf">Link to interim targets(PDF)</a></p>
-                <p>2014 Interim target:<br />
-No interim target was proposed for 2014.
+				<p><a href="http://www.psp.wa.gov/downloads/interimtargets/Marine%20Water%20Quality%20Interim%20Targets%20-FINAL.pdf">Link to interim targets(PDF)</a></p>
+				<h5>2014 Interim target:</h5>
+<p>No interim target was proposed for 2015.
 </p>
 </div>
 <h3><a href="#!">Progress summary and data</a></h3>
@@ -60,37 +60,40 @@ No interim target was proposed for 2014.
 				<div>
 				<h5>Is the indicator making progress toward the 2020 target?</h5>
 <h4 class="aqua">&nbsp;</h4>
-				<p><span><img src="images/status_getting_worse.png" width="118" height="121" alt=""/>No, this indicator lost ground relative to a baseline reference.</span></p>
-<p>Over the long-term, Marine Water Condition Index scores have generally declined. These results indicate that marine water quality is poorer than before.</p>
+				<p><span><img src="images/status_getting_worse.png" width="118" height="121" alt=""/> No, this indicator lost ground relative to the baseline reference period.</span></p>
+
                 <ul>
-                  <li>Marine water quality was generally lower in Puget Sound in 2014 compared to the baseline.<br />
+                  <li>Over the long-term, Marine Water Condition Index scores have generally declined. These results indicate that marine water quality has diminished.
                   </li>
-                  <li>Bellingham Bay stood out in 2014 for a record low index value. In the short-term, water quality in Puget Sound has been bouncing around between slightly improved or slightly worse values over the last 4 years.</li>
+				  <li>In 2015, water was exceptionally warm in Puget Sound due to a large-scale temperature anomaly in the North East Pacific (the <a href="http://www.climate.washington.edu/newsletter/2014Jun.pdf">“Blob”</a>). As a result, index scores for the entire region declined below baseline conditions.</li>
+					<li>Some regions are not faring well: index scores in Bellingham Bay, Sinclair Inlet, and Oakland Bay have declined continuously relative to the baseline starting in 1999, and Budd Inlet has followed a similar trend over the last decade.</li>
                 </ul>
-                <p>The decline is illustrated in the table by 1) a shift in the past 16 years from green in the early years to shades of orange and red in the later years, and 2) more negative scores.</p>
+     
             
 				<!--*********************************AQUA HEADER*********************************-->
-			  <h4 class="aquaBarHeader">Data</h4>
-				<h4 class="aqua">Marine Water Condition</h4>
-                <h5>TABLE 1</h5>
+			  <h4 class="aquaBarHeader">Latest Data</h4>
+                <h3>TABLE 1.</h3>
+                <h5>MARINE WATER CONDITION INDEX SCORES FOR 12 REGIONS OF PUGET SOUND<br />
+					<em>1999-2005</em></h5>
 			  <p><img src="images/MWCI.png" alt="Puget Sound Marine water condition index scores, 1999-2014" /></p>
-				<p>Green shades show improved marine water quality relative to the baseline reference, 1999 – 2008. Orange to red shades indicate worse conditions. Yellow shows scores between -1 and 1 represent little to no change. The maximal range of the index scores spans from -50 to +50, indicating that monthly measured variables are falling either above or below the expected baseline.</p>
-                <p><em>Source: Washington State Department of Ecology, Environmental Assessment Program, Marine Monitoring Unit</em></p>
-                <p>Looking more closely at water quality region by region, scores were relatively similar to each other in 2013 (i.e., there was lower regional variability). Conditions were the best in Admiralty Reach, South Sound, Elliott Bay, Commencement Bay and South Hood Canal. In all other regions, conditions were at or near the baseline.</p>
-                  <p>In the short-term, water quality in Puget Sound has not changed much in the last three years. Values have hovered around 0, the baseline value. Before that, conditions were at an all-time low over much of Puget Sound in 2009 and 2010.</p>
-                  <p>Over the long-term, Marine Water Condition Index scores have generally declined. The decline is illustrated in the results table by 1) a shift in the past 15 years from green in the early years to red in the later years, and 2) a general increase in negative scores. These results indicate that conditions overall are shifting in the direction of lower water quality. The largest changes were in Bellingham Bay (20% decline), followed by a lesser degree in Central Basin, Sinclair Inlet, South Hood Canal, Oakland Bay, Whidbey Basin (decline of more than 10%). Recently, more favorable ocean conditions have slowed the apparent decline, particularly in Admiralty Reach, South Sound, Elliott Bay and Commencement Bay.</p>
-                <p>Marine water quality trends since 1999 may be best described by periods of about two to four consecutive years when water quality is better than average, followed by periods when water quality is worse than expected. From year to year, there is not a linear and one-way trend. Instead, the values go up and down, depending on both local and regional oceanographic conditions. Therefore, it is best to consider long-term trends to determine whether water quality is improving. </p>
+					<blockquote><p>Green shades show improved marine water quality relative to the baseline reference, 1999 – 2008. Orange to red shades indicate worse conditions. Yellow shows scores between -1 and 1 represent little to no change. The maximal range of the index scores spans from -50 to +50, indicating that monthly measured variables are falling either exclusively above or below the expected baseline.<br />
+<em>Source: Washington State Department of Ecology, Environmental Assessment Program, Marine
+	Monitoring Unit</em></p></blockquote>
+                <p>The decline in the Marine Water Condition Index is illustrated in Table 1 showing 1) a shift in the past 17 years from green in the early years to shades of orange and red in the later years, and 2) more negative scores. These results show that conditions are drifting in the direction of lower water quality. The largest significant change over 17 years occurred in Bellingham Bay (22% decline in index score values), followed by Central Basin and Sinclair Inlet (>15%) while Oakland Bay’s with already low quality to start with declined significantly but less than 15%. Recently, more unfavorable ocean conditions in the Salish Sea and off the west coast of Washington have contributed to the apparent decline across all regions.</p>
+<p>In the shorter-term since 2012, changes in water quality in Puget Sound were more variable, with average values hovering around the baseline value of 0 across all regions.  In 2015 conditions, however, uniformly fell below the baseline in response to the oceanic influence of the Blob.</p>
+<p>Marine water quality patterns in Puget Sound vary over time in response to large climate variations and may be best described by periods of consecutive years when water quality is better than average, and periods when water quality is lower than average (e.g. 2003-2006). However, despite these fluctuations, trends emerge over time. For instance, index scores in Bellingham Bay and Sinclair Inlet have been significantly declining over the last seventeen years, while Oakland Bay and Budd Inlet significantly declined over the last 10 years. Other regions decreased, but not as consistently.
+</p>
 
 				
 				
-				  <h4 class="aqua">Why is this happening?</h4>
-					<p>The largest driver of declining marine water quality has been increasing nitrate concentrations. This also affected the balance of nutrients in the system which can affect the marine food web at its base. Over the past 15 years, nitrate levels have increased steadily despite ocean variability. Because nitrate is an important plant nutrient, increasing nitrate loads can fuel algae blooms which, as the algae subsequently die and decay, can drive low dissolved oxygen events.</p>
-					  <p>In recent years, marine water quality has generally been better than the baseline because water was cooler and fresher and as a result oxygen levels were increased. Nutrient concentrations were beneficially low in 2013 and maintained neutral index scores, yet physical water conditions already started to change. The recent influence of the Pacific Ocean will likely result in warmer sea surface temperatures on the coast, and lower oxygen levels in Puget Sound. Thus, we expect lower index scores for 2014.</p>
-				    <p>There are two dominant sources of nitrate in Puget Sound waters: input from ocean waters flowing into Puget Sound and human pollution. Recent evidence suggests that increasing nitrate but no increase in ocean minerals in Puget Sound points to a predominately non-oceanic source of nitrogen or a potential shift in the lower food web of Puget Sound. See this poster for more details about this hypothesis. However, as discussed earlier, the overall contribution of human inputs to low dissolved oxygen in Puget Sound remains a topic of active study. For more information about the impact of human activities on oxygen in Puget Sound, see the &ldquo;dissolved oxygen&rdquo; indicator.</p>
+				  <h4>Why is this happening?</h4>
+					<p>There are two dominant sources of nutrients entering Puget Sound: input from ocean waters and inputs from land, which includes human sources of pollution. Until 2012, the largest driver of declining marine water quality was an increase in nitrate concentrations. Because nitrate is an important plant nutrient, increasing nitrate loads can fuel algae blooms and shift species. As large masses of algae die, they sink and decay, and dissolved oxygen is depleted. Bellingham Bay, Sinclair Inlet and Oakland Bay stand out because of changes in the nutrient balance.</p>
+					  <p>Since 2013 however, nitrate levels in Puget Sound have declined. This likely happened due to climate variations that decreased the nutrient inputs from the ocean. Mathematically removing the large contributions of nutrients from the ocean using the Enrichment Module of the Index, shows that nitrate levels in Puget Sound continue to increase. What does this mean? This means that nitrogen inputs from land have continued to increase despite large fluctuations in nitrogen loadings from the ocean.</p>
+					  <p>How can this be? Water exchange between the ocean and Puget Sound is important for water quality. Incoming ocean water imports a lot of natural upwelled nitrogen from the ocean which has beneficial nutrient composition and cold temperatures to promote a diatom based food web in Puget Sound.  However, if renewal is sluggish in years of summer drought, nutrient inputs from humans begin to play a bigger role.  During the Blob and the drought in 2015 we learned a lot about sluggish water exchange and saw effects on the nutrient conditions.</p>
+					  <p>Aerial photographs over Puget Sound taken [when] showed abundant eutrophication indicators at the surface that are not captured by in index such as the presence of Noctiluca, macro-algae and floating jellyfish. What caused this? The impact of nutrients from wastewater in Puget Sound during the summer is significant and drought conditions increase this impact. Different nutrient inputs and warm water shift the lower food web from a diatom based food web supporting cold-water fish towards a microbial food web, supporting macro-algae and jellyfish. In turn, these organisms are highly visible, wash up on beaches and decay, a topic that requires greater focus and attention on how we assess human impacts in the future. For more information about the impact of human activities on oxygen in Puget Sound, see the &ldquo;dissolved oxygen&rdquo; indicator.</p>
+				    <p>In conclusion, summer droughts can reduce the nutrient loading from the ocean, yet under these conditions human impacts are more pronounced, the marine food web responds, and visible eutrophication indicators are abundant.</p>
 
-				
-				
-                <!--*********************************AQUA HEADER*********************************-->
+				  <!--*********************************AQUA HEADER*********************************-->
 			  <div class="aquaBarHeader">Maps</div>
               <p>No map</p></div>
 		</div>
