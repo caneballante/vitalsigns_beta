@@ -41,10 +41,10 @@ $(function() {
 				<!--*********************************GREEN HEADER*********************************-->
 				<div class="greenBarHeader">What is the indicator? </div>
 				<h5>This indicator is the acres of harvestable shellfish beds.</h5>
-				<p>The Washington State Department of Health classifies  95 different shellfish growing areas in Puget Sound, covering roughly  225,000 acres. Upgrades in classification mean that water quality has improved, allowing for fewer restrictions on shellfish harvest. </p>
-				  <p>Sites are classified as &ldquo;approved,&rdquo; &ldquo;conditionally approved,&rdquo; &ldquo;restricted,&rdquo; or &ldquo;prohibited.&rdquo; Downgrades mean there are either more restrictions on when shellfish may be harvested or no harvest is allowed at any time. Downgrades are generally caused by fecal bacteria or other pollutants in the water that make shellfish unsafe to eat. Any shellfish beds  classified as conditionally approved, restricted, or prohibited  whose status is upgraded, results in newly harvestable acres and are counted toward the 2020 target.</p>
-				  <p>The shellfish harvest area classification process is defined in federal rules and adopted in state regulations. The Department of Health implements the rules at the state level. The purpose of the Department of Health program is to assure that harvested shellfish are safe to consume. This also includes making certain that pollution sources are continually assessed and marine water quality monitored around every classified harvest area. The data collected for the classification process not only represent the conditions that dictate shellfish harvest, but their trends can also indicate a healthier Puget Sound.</p>
-			    <p>Department of Health samples more than  1,700 marine water stations between  6 and 12 times each year for fecal coliform bacteria, salinity, and temperature. A minimum of 30 of the most recent samples from each marine water station are used to classify each shellfish harvesting area. In addition, shoreline pollution sources, including wastewater treatment plants, individual on-site sewage systems, marinas, farms, and any other activity with the potential to impact the shellfish area, are evaluated periodically and results are integrated in the classification process. </p>
+				<p>The Washington State Department of Health classifies 95 different shellfish growing areas in Puget Sound, covering roughly 225,000 acres. Upgrades in classification mean that water quality has improved, allowing for fewer restrictions on shellfish harvest. </p>
+				  <p>Sites are classified as &ldquo;approved,&rdquo; &ldquo;conditionally approved,&rdquo; &ldquo;restricted,&rdquo; or &ldquo;prohibited.&rdquo; Downgrades mean there are either more restrictions on when shellfish may be harvested or no harvest is allowed at any time. Downgrades are generally caused by fecal bacteria or other pollutants in the water that make shellfish unsafe to eat. Any shellfish beds classified as conditionally approved, restricted, or prohibited whose status is upgraded, results in newly harvestable acres and are counted toward the 2020 target. </p>
+				  <p>The shellfish harvest area classification process is defined in federal rules and adopted in state regulations. The Department of Health implements the rules at the state level. The purpose of the Department of Health program is to assure that harvested shellfish are safe to consume. This also includes making certain that pollution sources are continually assessed and marine water quality monitored around every classified harvest area. The data collected for the classification process not only represent the conditions that dictate shellfish harvest, but their trends can also indicate a healthier Puget Sound. </p>
+			    <p>Department of Health samples more than 1,700 marine water stations between 6 and 12 times each year for fecal coliform bacteria, salinity, and temperature. A minimum of 30 of the most recent samples from each marine water station are used to classify each shellfish harvesting area. In addition, shoreline pollution sources, including wastewater treatment plants, individual on-site sewage systems, marinas, farms, and any other activity with the potential to impact the shellfish area, are evaluated periodically and results are integrated in the classification process.</p>
 
 				<!--	<table width="690" border="1" class="vstable">
 					<tbody>
@@ -89,11 +89,11 @@ $(function() {
 				</p>
 			  <div class="greenBarHeader">What are the targets?</div>
 				<h5>2020 target</h5>
-				<p>A net increase of 10,800 harvestable shellfish acres between 2007 and 2020, including 7,000 acres where harvest had been prohibited.</p>
+				<p>A net increase of 10,800 harvestable shellfish acres between 2007 and 2020, including 7,000 acres where harvest had been prohibited.</p>
 				<h5>Interim target</h5>
 				<p><a href="http://www.psp.wa.gov/downloads/interimtargets/Shellfish Beds Interim Targets - FINAL.pdf">Link to interim targets (PDF)</a></p>
-				<h5>2014 Interim target:</h5>
-				<p>Net increase from 2011 of 6,693 acres of harvestable shellfish beds, of which 1,799 should be from beds presently classified as prohibited.</p>
+				<h5>2016 Interim target:</h5>
+				<p>Net increase from 2014 of 1,921 acres of harvestable shellfish beds, of which 1,607 should be from beds presently classified as prohibited.</p>
 				
 				<!--*********************************GREEN HEADER*********************************--> 
 				
@@ -111,33 +111,33 @@ $(function() {
 			<div>
 				<h5>Is the indicator making progress toward the 2020 target? </h5>
 				<p> <span><img src="images/status_getting_better.png" width="118" height="121" alt=""/>Yes, this indicator has made gains relative to the baseline reference.</p>
-				<p>Because there was an overall increase in cumulative net area of harvestable shellfish beds since 2007, including from the prohibited category, the indicator is making progress toward the 2020 target.</p>
-				  <p>The shellfish growing areas in Puget Sound cover roughly  225,000 acres. About  84% ( 188,000 acres) of the shellfish growing areas are suitable for harvest.</p>
-				  <p>Since 2007 (the baseline reference), more acres of shellfish beds were upgraded than downgraded across all classifications, resulting in a net increase of  3,695 acres of harvestable shellfish beds ( 9,254 acres gain,  5,559 acres loss). During the same time period, a net  4,540 acres of shellfish beds were upgraded from the &ldquo;prohibited&rdquo; classification ( 4,745 acres upgraded minus  205 acres downgraded to &ldquo;prohibited&rdquo;).</p>
+				<p>Because there was an overall increase in cumulative net area of harvestable shellfish beds since 2007, including from the prohibited category, the indicator is making progress toward the 2020 target. </p>
+				  <p>The shellfish growing areas in Puget Sound cover roughly 225,000 acres. About 84% (189 ,000 acres) of the shellfish growing areas are suitable for harvest.</p>
+				  <p>Since 2007 (the baseline reference), more acres of shellfish beds were upgraded than downgraded across all classifications, resulting in a net increase of  4,803 acres of harvestable shellfish beds ( 10,372 acres gain,  5,569 acres loss). During the same time period, a net 4,53 0 acres of shellfish beds were upgraded from the &ldquo;prohibited&rdquo; classification (4,745 acres upgraded minus 21 5 acres downgraded to &ldquo;prohibited&rdquo;). </p>
 				  <p>The upgrades in growing area classifications since 2007 were dramatically offset by the 2011 downgrade of the Samish Bay shellfish growing area (4,037 acres), impacting the overall net acreage gained and slowing progress toward the 2020 target.</p>
-			    <p>The current net increase in harvestable shellfish area is  34% of the 2020 target. </p>
-<h5>Did the indicator meet its 2014 interim target?</h5>
+			    <p>The current net increase in harvestable shellfish area is 4 4% of the 2020 target. </p>
+<h5>Did the indicator meet its 2016 interim target?</h5>
                 <p>No, this indicator did not meet its 2014 interim target.</p>
                 
                 <h3>
 					TABLE 1.</h3> 
-                    <h4>PROGRESS TOWARD 2014 INTERIM TARGET</h4>
+                    <h4>PROGRESS TOWARD 2016 INTERIM TARGET</h4>
 					</caption>
 				<!-- TABLE 1 -->
 				<table width="600" border="1" cellspacing="0" cellpadding="0" class="vstable">
 					
 					<thead>
 						<tr>
-							<th>2014 INTERIM TARGET</th>
+							<th>2016 INTERIM TARGET</th>
 							<th>WAS IT MET?</th>
 							<th>EXPLANATION</th>
 						</tr>
 					</thead>
 					<tbody>
 						<tr>
-							<td>Net increase from 2011 of 6,693 acres of harvestable shellfish beds, of which 1,799 should be from beds presently classified as prohibited</td>
+							<td>Net increase from 2014 of 1,921 acres of harvestable shellfish beds, of which 1,607 should be from beds presently classified as prohibited.</td>
 							<td>No</td>
-							<td>The target is not met but there was progress. Between 2012 and 2014, there was a total net increase of 1,963 harvestable shellfish beds. Since 2011, a net total of 654 acres classified as prohibited were upgraded.</td>
+							<td>There was progress and the target was nearly met. Between 2014 and 2016, there was a total net increase of 1,765 harvestable shellfish beds. Since 2014, a net total of 566 acres classified as prohibited were upgraded.</td>
 						</tr>
 					</tbody>
 				</table><br />
@@ -147,10 +147,10 @@ $(function() {
 				<div class="greenBarHeader">Data</div>
               <h3>FIGURE 1.</h3>
           <h4>ACRES OF UPGRADED AND DOWNGRADED SHELLFISH BEDS IN PUGET SOUND<br />
-          <em>2007 through September 2016</em> </h4>
+          <em>2007 through December 2016</em> </h4>
 				<p> <img src="images/shellfish_2007-dec2015.jpg" alt="ACRES OF UPGRADED AND DOWNGRADED SHELLFISH BEDS IN PUGET SOUND"/></p>
 				<blockquote><p><em>Source: Washington State Department of Health, Office of Environmental Health and Safety</em></p></blockquote>
-				  <p>Since 2007, the baseline reference year, sanitary conditions in some shellfish harvest areas improved enough to change their classifications for the better, and they were upgraded (cumulative total was  9,254 acres as of September 30, 2016). However, others changed for the worse and were downgraded (cumulative total of  5,559 acres, the majority of which was in Samish Bay). The net result was an increase of  3,695 acres reopened for harvest for all of Puget Sound, which is about  34% of the 2020 target of 10,800 acres. </p>
+				  <p>Since 2007, the baseline reference year, sanitary conditions in some shellfish harvest areas improved enough to change their classifications for the better, and they were upgraded (cumulative total was 10,372 acres as of December 30, 2016). However, others changed for the worse and were downgraded (cumulative total of 5,569 acres, the majority of which was in Samish Bay). The net result was an increase of 4,803 acres reopened for harvest for all of Puget Sound, which is about 44% of the 2020 target of 10,800 acres.  </p>
 <h3>TABLE 2.</h3> <h4>CLASSIFICATION AND ACREAGE OF SHELLFISH GROWING AREAS IN PUGET SOUND</h4>
 			    <!-- TABLE 2 -->
 				<table width="690" border="1" class="vstable">
@@ -165,19 +165,19 @@ $(function() {
 								(Jan 2016 )</th>
 						</tr>
 					</thead>
-					<tfoot><tr><td colspan="3">Source: Washington State Department of Health, Office of Environmental Health and Safety</td></tr></tfoot>
+					<tfoot><tr><td colspan="3"><em>Source: Washington State Department of Health, Office of Environmental Health and Safety</em></td></tr></tfoot>
 					<tbody>
 					
 						
 						<tr class="lightgreen">
 							<td width="300">Approved: commercial harvest for direct marketing</td>
 							<td width="600">Sanitary survey shows the area is not subject to contamination that presents an actual or potential public health hazard.</td>
-							<td width="100">143,997</td>
+							<td width="100">145,170</td>
 						</tr>
 						<tr>
 							<td width="300">Conditionally Approved: opened or closed for predictable periods of time</td>
 							<td width="600">Meets Approved criteria some of the time, but&nbsp;does not&nbsp;during predictable periods. The length of closure is based on data that show the amount of time it takes for water quality to recover and again meet Approved criteria.</td>
-							<td width="100">10,622</td>
+							<td width="100">9,825</td>
 						</tr>
 						<tr class="lightgreen">
 							<td width="300">Restricted: cannot be marketed directly and must be transplanted to Approved growing areas for a specified amount of time</td>
@@ -187,98 +187,27 @@ $(function() {
 						<tr>
 							<td width="300">Prohibited: closed to commercial and recreational harvest</td>
 							<td width="600">When the sanitary survey indicates harmful substances may be present in concentrations that pose a health risk. Growing areas that have not undergone a sanitary survey are also classified as Prohibited.</td>
-							<td width="100">36,755 </td>
+							<td width="100">36,671 </td>
 						</tr>
 						<tr class="lightgreen">
 							<td width="300">Total</td>
 							<td width="600">&nbsp;</td>
-							<td width="100"><strong>225,045</strong> </td>
+							<td width="100"><strong>225,296</strong> </td>
 						</tr>
 					</tbody>
 				</table>
 				<!-- END TABLE 2 --> 
 				
-				<br />
-				<br />
-				<h3>TABLE 3.</h3>
-                <h4>GROWING AREAS WITH CLASSIFICATION CHANGES IN 2016 (as of September 30, 2016)</h4>
-				<!-- TABLE 3 -->
-			  <table width="600" border="1" class="vstable">
-					
-					<thead>
-						<tr>
-							<th> GROWING AREA</th>
-							<th>UPGRADED (ACRES)</th>
-							<th>DOWNGRADED (ACRES)</th>
-							<th>FROM</th>
-							<th>TO</th>
-						</tr>
-					</thead>
-					<tfoot>
-					<tr>
-					<td colspan="5">Source: Washington State Department of Health, Office of Environmental Health and Safety</td>
-					</tfoot>
-					<tbody>
-						<tr class="lightgreen">
-							<td>PORTAGE BAY</td>
-							<td>0</td>
-							<td>-300</td>
-							<td>Approved</td>
-							<td>Conditional</td>
-						</tr>
-						<tr>
-							<td>POVERTY BAY</td>
-							<td>0</td>
-							<td>-130</td>
-							<td>Approved</td>
-							<td>Conditional</td>
-						</tr>
-						<tr class="lightgreen">
-							<td>PADILLA BAY</td>
-							<td>151</td>
-							<td>0</td>
-							<td>Conditional</td>
-							<td>Approved</td>
-						</tr>
-						<tr>
-							<td>VAUGH BAY</td>
-							<td>0</td>
-							<td>-40</td>
-							<td>Approved</td>
-							<td>Conditional</td>
-						</tr>
-						<tr class="lightgreen">
-							<td>ROCKY BAY</td>
-							<td>0</td>
-							<td>-9</td>
-							<td>Approved</td>
-							<td>Prohibited</td>
-						</tr>
-						<tr>
-							<td>QUARTERMASTER HARBOR</td>
-							<td>180</td>
-							<td>0</td>
-							<td>Prohibited</td>
-							<td>Approved</td>
-						</tr>
-						<tr class="lightgreen">
-							<td>COLVOS PASSAGE</td>
-							<td>30</td>
-							<td>0</td>
-							<td>Prohibited</td>
-							<td>Approved</td>
-						</tr>
-						
-					</tbody>
-				</table>
+			
+
 				
-<p> In 2014, water quality improved on 358 acres of shellfish harvesting areas; improvements were found on 1,065 acres in 2015. Comparatively, water quality impairment resulted in restrictions on 49 acres of harvest area in 2014 and 599 acres in 2015.</p>
- <p>Of the total harvest area classified in  2016, approximately 154,000 acres, or  68% were &ldquo;approved&rdquo; or &ldquo;conditionally approved&rdquo; for harvest. Thus, shellfish harvest is still possible in most of the areas under Department of Health jurisdiction, and these areas are distributed across all sub-basins of Puget Sound.</p>
- <p>In contrast, more than 36,000 acres ( 16%) of shellfish harvest areas were classified as &ldquo;prohibited&rdquo; due to the proximity of pollution sources or poor water quality. More than 60% of this acreage is prohibited because of a nearby wastewater treatment plant outfall, 29% because of nonpoint pollution sources, 8% because of marinas, and 2% because of other factors that could impact public health.</p>
-<p>The most recent Department of Health prediction indicates that  10,285 acres could potentially be upgraded between  2016 and 2020. This analysis incorporates information about the known or suspected causes of harvest restrictions and an area-by-area evaluation of the current activities and water quality trends. These projections, coupled with the current 2007 through September  2016 net acreage increase of  3,695 acres, results in a potential increase of  13,980 acres by 2020,  above the 10,800 acres target value. Downgrades will occur during the same timeframe, counteracting the projected upgrades and potentially impacting the ability to meet the target value. </p>
+<p> More than 36,000 acres (16%) of shellfish harvest areas were classified as &ldquo;prohibited&rdquo; due to the proximity of pollution sources or poor water quality. More than 60% of this acreage is prohibited because of a nearby wastewater treatment plant outfall, 29% because of nonpoint pollution sources, 8% because of marinas, and 2% because of other factors that could impact public health.</p>
+<p>The most recent Department of Health prediction indicates that 10,285 acres could potentially be upgraded between 2016 and 2020. This analysis incorporates information about the known or suspected causes of harvest restrictions and an area-by-area evaluation of the current activities and water quality trends. These projections, coupled with the current 2007 through December 2016 net acreage increase, results in a potential increase of 13,980 acres by 2020, above the 10,800 acres target value. Downgrades will occur during the same timeframe, counteracting the projected upgrades and potentially impacting the ability to meet the target value. </p>
+
 <h5>Why is it happening? </h5>
-<p>Implementation of effective pollution identification and correction (PIC) programs, agricultural best management practices, and on-site sewage system operation and maintenance programs have resulted in the correction of pollution sources. These corrections have led to improved water quality and upgraded shellfish acreage.</p>
-<p>Although the Sound-wide trend in improvement is positive, many factors affect the long-term ability to reach the target. Unless there are aggressive actions to improve farm management, wastewater treatment plant outfall locations, and to sustain on-site septic system operation and maintenance, and PIC the 2020 target may not be met.</p>
+		<p>Implementation of effective pollution identification and correction (PIC) programs, agricultural best management practices, and on-site sewage system operation and maintenance programs have resulted in the correction of pollution sources. These corrections have led to improved water quality and upgraded shellfish acreage.</p>
+		<p>Although the Sound-wide trend in improvement is positive, many factors affect the long-term ability to reach the target. Unless there are aggressive actions to improve farm management, wastewater treatment plant outfall locations, and to sustain on-site septic system operation and maintenance, and PIC the 2020 target may not be met.</p>
+
 
 <!--*********************************GREEN HEADER*********************************-->
 			  <div class="greenBarHeader">Maps</div>
