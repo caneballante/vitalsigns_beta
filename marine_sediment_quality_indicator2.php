@@ -42,19 +42,21 @@ $(function() {
 			<div> 
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader">What is the indicator? </div>
-				<h4 class="aqua">This indicator is Sediment Quality Standards.</h4>
-				<p>This indicator is the percent of individual chemical measurements that exceed the Washington Sediment Quality Standards (SQS), which is related to the Sediment Chemistry Index, another indicator for the marine sediment Vital Sign. </p>
-<p>SQS values have been determined for a total of 47 chemicals in Puget Sound. Of those, 39 are included in the SCI and evaluated for this indicator.
-</p>
+				<p>
+					This indicator is Sediment Quality Standards.</p>
+				<p>This indicator is the percent of individual chemical measurements that exceed the Washington Sediment Quality Standards (SQS), which is related to the Sediment Chemistry Index, another indicator for the marine sediment Vital Sign. </p>
+				<p>SQS values have been determined for a total of 47 chemicals in Puget Sound. Of those, 39 are included in the SCI and evaluated for this indicator.</p>
 				<h4 class="aqua">&nbsp;</h4>
 				
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader">What are the targets? </div>
 				<h5>2020 target</h5>
-				<h4 class="aqua">Have no sediment chemistry measurements exceeding the Sediment Quality Standards (SQS) set for Washington State. </h4>
-			<h5>Interim Targets</h5>
-            <p>There are no interim targets set for this indicator.</p>
-				<h5><a href="http://www.psp.wa.gov/downloads/interimtargets/Marine%20Sediment%20Quality%20Interim%20Targets%20-FINAL.pdf">Interim targets (PDF)</a></h5>
+				<ul>
+				  <li>All Puget Sound regions and bays, as characterized by ambient monitoring, will have no measurements exceeding the Sediment Quality Standards (SQS) chemical criteria set for Washington State. </li>
+			  </ul>
+				<h4 class="aqua">&nbsp;</h4>
+			<h5>Interim Targets			  </h5>
+			<h5><a href="http://www.psp.wa.gov/downloads/interimtargets/Marine%20Sediment%20Quality%20Interim%20Targets%20-FINAL.pdf">Interim targets (PDF)</a></h5>
 				
 				
 			</div>
@@ -66,18 +68,32 @@ $(function() {
 				<h5>Is the indicator making progress toward the 2020 target? </h5>
 				 <p> <span><img src="images/status_getting_better.png" width="118" height="121" alt=""/>Yes, this indicator has made gains relative to the baseline reference.</span>
 				<p>Although the target is not fully met across all of Puget Sound, recent improvements suggest progress toward the target:</p>
-<ul><li>The percent of individual chemicals exceeding SQS since 1997 is typically small (mostly less than 1 percent) except for Central Sound, Elliott Bay, and Commencement Bay, where the number still never exceeded 6 percent. </li>
-<li>Even fewer chemicals exceeded state SQS in the second round of sampling, with four regions dropping to zero, now meeting the target value in those areas. </li>
-<li>Budd Inlet and the Port Gardner/Everett Harbor urban embayments are also at zero.</li></ul>
+                <ul>
+                  <li>The percent of individual chemicals exceeding SQS since 1997 is typically small (mostly less than 1 percent) except for Central Sound, Elliott Bay, and Commencement Bay, where the number still never exceeded 6 percent. </li>
+                  <li>Even fewer chemicals exceeded state SQS in the second round of sampling, with four regions dropping to zero, now meeting the target value in those areas. </li>
+                  <li>Budd Inlet and the Port Gardner/Everett Harbor urban embayments are also at zero.</li>
+                  <li>Values calculated for the third round of sampling in Bainbridge Basin in 2015 remain unchanged.</li>
+                </ul>
 <div class="aquaBarHeader">Latest Data</div>
+				<h3>FIGURE 1.</h3> <h4>PERCENT OF CHEMICALS EXCEEDING SEDIMENT QUALITY STANDARDS<br />
+				<em>1997 – 2015, time period varies</em></h4>
 <img src="images/marine-sediment-sqs.png" />
-<p>L<strong>Left panel:</strong> Values for eight Puget Sound regions; <strong>Right panel:</strong> Values for six Puget Sound urban bays</p>
-<p><em>Source: Washington State Department of Ecology, Marine Sediment Monitoring Team
-</em></p>
+<img src="images/marine-sediment-sqs2.png" />
+
+<blockquote><p>Top panel: Values for eight Puget Sound regions; Bottom panel: Values for six Puget Sound urban bays<br />
+<em>Source: Washington State Department of Ecology, Marine Sediment Monitoring Team
+
+	</em></p></blockquote>
+				<h5>Did the indicator meet its 2016 interim target?</h5>
+				<ul><li>Target conditions remained unchanged, and were not met in Bainbridge Basin in 2015.</li></ul>
+
+				<h5>Note:</h5>  
+				<ul><li>Ecology’s Marine Sediment Monitoring Team (MSMT) is redesigning the PSEMP Sediment Component monitoring program.  We have made the decision to not complete a third round of regional sampling which would have commenced in 2015.  Therefore, there are no further additions to SQS regional graphics after 2014.</li></ul>
+
 
 				<!--*********************************AQUA HEADER*********************************-->
 				<div class="aquaBarHeader">Maps</div>
-                <h5>FIGURE 2. MARINE SEDIMENT MONITORING REGIONS AND URBAN BAYS</h5>
+				<h3>FIGURE 2.</h3> <h4>MARINE SEDIMENT MONITORING REGIONS AND URBAN BAYS</h4>
 				<img src="images/toxics_in_sediment_map.png" width="597" height="649" alt="Marine sediment monitoring regions and urban bays" /> </div>
 		</div>
 	</div>

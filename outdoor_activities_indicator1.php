@@ -66,7 +66,7 @@ $(function() {
                 <p>Since 2004, many local bacteria problems have been identified and corrected. Overall, there are year-to-year fluctuations in marine water quality at swimming beaches, but no clear trend in progress toward the goal. </p>
 <h5>Did the indicator meet its 2016 interim target?</h5>
 <p>This indicator did not meet its 2016 interim target.</p>
-<h5>TABLE 1. PROGRESS TOWARD 2016 INTERIM TARGET</h5>
+				<h3>TABLE 1.</h3> <h4>PROGRESS TOWARD 2016 INTERIM TARGET</h4>
 <table width="600" border="1" cellspacing="0" cellpadding="0" class="vstable">
 					
 					<thead>
