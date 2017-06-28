@@ -38,12 +38,11 @@ $(function() {
 			<h3><a href="#!">Indicator and target description</a></h3>
 			<div> 
 				<div class="orangeBarHeader">What is the indicator?</div>
-				<p>This indicator tracks the output of Puget Sound’s natural resource industries, such as fishing, agriculture, timber, and tourism.</p> 
-				
-				<p>The data collected will help us understand the viability of natural resource industries in the Puget Sound region over time. A precipitous decline in output for these industries may indicate displacement of opportunities for employment in these sectors, a removal of wage earners from the natural environment, and negative impacts to those for whom these industries contribute to or determine a sense of place</p>
+				<p>This indicator compares the output of natural resource industries to the total economic output of the region, helping us to understand the trends in natural resource industries across the region. Industries such as technology, aerospace, and finance also contribute significantly to the regional economy, but a decline in natural resource industries may indicate a displacement of employment opportunities, as well as dissociation from connection to the natural environment and sense of place. <br />
+				</p>
 				
 				<!--*********************************PURPLE HEADER*********************************-->
-				<div class="orangeBarHeader">What are the targets? </div>
+			  <div class="orangeBarHeader">What are the targets? </div>
 				
 				<p>No targets are currently set for this indicator.</p>
 			</div>

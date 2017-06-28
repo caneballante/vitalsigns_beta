@@ -40,26 +40,17 @@ $(function() {
 			<div> 
 				<!--*********************************PINK HEADER*********************************-->
 				<div class="pinkBarHeader">What is this indicator? </div>
-		<p>	This indicator is Chinook salmon population abundance as measured by the number of natural origin adult fish returning to spawn.</p>
-<p>Chinook population abundance is reported here two ways: The number of natural origin spawners and the number of natural origin recruits. </p>
-<p>Spawning escapement is the number of Chinook salmon returning to rivers to spawn. Spawner abundance is normally estimated each year by counting the number of redds (gravel nests) in a river. Redds are counted by walking the stream and/or from boats or aircraft. </p>
-<p>For many populations, some hatchery-origin salmon mix with natural-origin salmon on the spawning grounds, complicating our estimates of natural-origin salmon returns. The proportion of spawners that were natural or hatchery origin is typically estimated based on the composition of carcasses and then extrapolated back to the total spawning population to estimate the number of natural-origin versus hatchery-origin spawners.</p> 
-<p>The second measure, the total number of natural-origin recruits, represents the potential return of adult salmon to the spawning rivers if there were no commercial, subsistence, or recreational harvest affecting them. This is the estimated total number of natural-origin adult salmon before human harvest. The numbers of hatchery-origin fish were excluded from both estimates of Chinook abundance.</p>
-<p>In our latest evaluation of change over time, the mean (annual) abundance of spawning Chinook salmon for the 3-year period 2011 – 2013 was compared to the 5-year baseline period 2006 – 2010. The comparison was done both for the total abundance (all populations combined), and the change in abundance of each population individually.</p>
+		<p>This indicator is Chinook salmon population abundance as measured by the number of natural origin adult fish returning to spawn.</p>
+		  <p>Chinook salmon population spawner abundance is reported here as the number of natural-origin fish returning to rivers to spawn naturally, for all populations except for the Skagit River basin. Total spawner abundance is normally estimated each year by counting the number of redds (gravel nests) in a river. Redds are counted by walking the stream and/or from boats or aircraft. In many populations, some hatchery-origin salmon are present on the spawning grounds along with natural-origin salmon, complicating the estimates of natural-origin salmon returns. The proportions of spawners that were of natural versus hatchery origin are typically estimated based on the composition of carcasses. These values are applied to the  total spawning population to estimate the number of natural-origin versus hatchery-origin spawners.</p>
+		  <p>Natural-origin, naturally-spawning abundance data are not currently available for the Suiattle, Cascade, Upper Sauk, Lower Sauk, Upper Skagit, and Lower Skagit populations.  However, the proportion of hatchery-origin, naturally-spawning fish is known to have been consistent since 1999 and low, and so we use the total number of naturally-spawning Chinook salmon in these analyses. We will continue to try to gather natural-origin, naturally-spawning Chinook salmon abundance data from these populations for further analyses.</p>
+		 <p>In our latest evaluation of abundance change over time, the mean (annual) abundance of spawning Chinook salmon for the 5-year period 2012 – 2016 was compared to the 5-year baseline period 1999 – 2003 (after ESA listing occurred). It should be noted that the 1999-2003 period was one of relatively favorable ocean conditions (i.e., a &ldquo;cool&rdquo; PDO phase) for Puget Sound Chinook salmon. If data were not available during these periods for a given population, data from the first or last years with available data were used.</p>
 
 				<!--*********************************PINK HEADER*********************************-->
-				<div class="pinkBarHeader">What are the targets? </div>
+			  <div class="pinkBarHeader">What are the targets? </div>
 				<h5>2020 target</h5>
-				<p>Stop the overall decline and start seeing improvements in wild Chinook abundance in two to four populations in each biogeographic region.</p>
+				<p>Stop the overall decline and start seeing improvements in wild Chinook abundance in two to four populations in each biogeographic region.</p>
 				<h5>Interim targets</h5>
-				<p><a href="http://www.psp.wa.gov/downloads/interimtargets/Chinook Interim Targets - FINAL.pdf">Link to interim targets (PDF)</a></p>
-				<h5>2014 interim targets</h5>
-					
-					<ol>
-						<li>No declining abundance in any wild Chinook salmon populations.</li>
-						<li>Improvements in wild Chinook salmon abundance in one population in each (five) biogeographic region.</li>
-					</ol>
-			
+				<p><a href="http://www.psp.wa.gov/downloads/interimtargets/Chinook Interim Targets - FINAL.pdf">Link to interim targets (PDF)</a>			</p>
 			</div>
 			<!--*********************************FOLD 03*********************************-->
 			<h3><a href="#!">Progress summary and data</a></h3>
@@ -67,64 +58,54 @@ $(function() {
 				<!--*********************************PINK HEADER*********************************-->
 				<div class="pinkBarHeader"><strong>Is the indicator making progress toward the 2020 target? </strong></div>
 				
-				<p><span><img src="images/status_getting_worse.png" width="120" height="123" alt=""/></span>No, this indicator lost ground relative to a baseline reference.</p>
-
-<p>The total number of naturally spawning Chinook salmon has declined, the 2014 interim targets for spawning Chinook salmon have not been met, there is little sign of improvement in each biogeographic region, and most populations remain far below their recovery planning targets adopted by the National Marine Fisheries Service.</p> 
-<ul>
-	<li>The mean total abundance of naturally spawning Chinook was lower in 2011 – 2013 than in 2006 – 2010, and this decline was statistically significant (p=0.08). </li>
-	<li>Among the 22 individual populations, 13 declined and 6 increased. In the three remaining cases (Elwha, North Fork Stilliquamish, South Fork Stilliquamish), the methods of estimating population abundance changed over the time period such that direct comparisons cannot be made.</li>
-</ul>
-	<div class="pinkBarHeader"><strong>Is the indicator making progress toward the 2020 target? </strong></div>
-				
-		<p>No, this indicator did not meet its 2014 interim targets.	</p>	
+				<p><span><img src="images/status_not_changing.png" width="120" height="123" alt=""/></span>There was no significant change for this indicator.</p>
+				<p>There is little sign of recovery of Puget Sound Chinook populations in each biogeographic region, and most populations remain far below their recovery planning targets adopted by the National Marine Fisheries Service. On the other hand, the vast majority of populations have not decreased significantly in abundance over time.</p>
+				<ul><li>Estimates of abundance of the 22 Puget Sound Chinook populations are not changing appreciably. Two populations declined and two increased between the most recent 5-year period (2012-2016) and the baseline reference period (1999-2003). The increases were for the Elwha (Strait of Juan de Fuca region) and Upper Sauk (Whidbey) populations and declines were for the Snoqualmie (Whidbey) and Sammamish (Central/South) populations.</li>
+				<li>The 2016 interim targets have not been met.</li><li>In all regions, population abundance has changed very little since the baseline reference period, and these values remain far below their recovery planning targets.</li></ul>
+	
+				<h5>Did the indicator meet its 2016 interim targets?</h5>
+		<p>No, this indicator did not meet its 2016 interim targets.	</p>	
 		
 			<!-- TABLE 1 -->
-				<table width="600" border="1" cellspacing="0" cellpadding="0" class="vstable">
+			  <table width="600" border="1" cellspacing="0" cellpadding="0" class="vstable">
 					<caption>
-					TABLE 1: PROGRESS TOWARD 2014 INTERIM TARGET
+					TABLE 1: PROGRESS TOWARD 2016 INTERIM TARGET
 					</caption>
 					<thead>
 						<tr>
-							<th>2014 INTERIM TARGET</th>
+							<th>2016 INTERIM TARGET</th>
 							<th>WAS IT MET?</th>
 							<th>EXPLANATION</th>
 						</tr>
 					</thead>
 					<tbody>
 						<tr>
-							<td>No declining abundance in any wild Chinook salmon populations.</td>
+							<td>No declining abundance in any  salmon populations.</td>
 							<td>No</td>
-							<td>Total spawner abundance (all populations combined) declined in 2011 – 2013 compared to 2006 – 2010. Within individual populations, spawner abundance declined in 13 populations, although in only one case (Puyallup) was the decline statistically significant. There were no comparative data for three populations. Therefore, the interim target was not met.</td>
+							<td>Natural-origin spawner abundance declined in two populations (Snoqualmie and Sammamish).<br /></td>
 						</tr>
 						<tr>
-							<td>Improvements in wild Chinook salmon abundance in one population in each (five) biogeographic region.</td>
+							<td>Additional improvements in wild Chinook salmon population abundance for populations in the Whidbey and Central/South biogeographic regions.<br /></td>
 							<td>No</td>
-							<td>Despite the statistically significant decline in the total number of spawning salmon when all populations are combined, six populations (spread across four of the five regions) actually increased in 2011 – 2013 compared to the 2006 – 2010 baseline. However, in only one case was that increase statistically significant (mid-Hood Canal). Therefore, the interim target was not met.</td>
+							<td>Improvements, measured in terms of population 
+						    abundance increases in the Whidbey and Central/South regions, were estimated only for the Upper Sauk population (Whidbey region). The other populations in those two regions were steady or decreased.</td>
 						</tr>
 					</tbody>
 				</table><br />
 				<!-- END TABLE 1 --> 
 <!--*********************************PINK HEADER*********************************-->
 				<div class="pinkBarHeader">Latest data</div>
-				<p><img src="images/salmon_chart.png" width="446" height="489" alt="Abundance of Chinook natural-origin spawners in Puget Sound, 1990-2010"/></p>
-			<p>Chinook populations in Puget Sound exhibit large annual variations in abundance, as well as long-term fluctuations (over 10 or more years) that confuse simple evaluations of short- or long-term trends in numbers (Figure 1). Long-term natural-origin spawner abundance numbers have shown little progress toward the target, with numbers declining since the early 2000s. </p>
-<p>Overall productivity and the total number of natural-origin salmon recruits have declined according to the National Oceanic and Atmospheric Administration. All Puget Sound Chinook populations are currently well below abundance levels (recovery goals) needed for populations to recover and to reduce their risk of extinction (Figure 2). </p>
-<img src="images/salmon.jpg" width="900" height="634" alt="FIGURE 2. MEAN CHINOOK SALMON SPAWNER ABUNDANCE IN EACH POPULATION IN PUGET SOUND, SHOWN BY GEOGRAPHIC REGION.
-2006-2010 vs 2011-2013
+				<h3>FIGURE 1.</h3> <h4>MEAN CHINOOK SALMON SPAWNER ABUNDANCE IN EACH POPULATION IN PUGET SOUND, SHOWN BY GEOGRAPHIC REGION<br />
+				<em>1999-2003 vs 2012-2016.</em></h4>
+			  <img src="images/salmon_chart.png" alt="MEAN CHINOOK SALMON SPAWNER ABUNDANCE IN EACH POPULATION IN PUGET SOUND, SHOWN BY GEOGRAPHIC REGION
 "/> 
-
-
-
-
-
-
-
-
-<img src="images/salmon_table.jpg" width="799" height="936" alt="Puget Sound Chinook abundance and trends"/>
-				<p>Trends for Chinook recruits were calculated for five- and 10-year periods. For 2006-2010, only two out of 22 populations showed a statistically significant trend. One population increased (Sammamish), and one population (Skokomish) decreased. In contrast, for a 10-year trend analysis from 2001-2010, nine out of 22 populations showed a statistically significant decrease in the number of fish.</p>
-				<div class="pinkBarHeader">Maps </div>
-				<img src="images/salmon_map.jpg" width="554" height="600" alt="Chinook salmon rivers in Puget Sound"/>
-				<p>&nbsp;</p>
+			<blockquote><p>The gray vertical lines show the recovery target ranges from National Marine Fisheries Service’s Final Supplement to the Shared Strategy's Puget Sound Recovery Plan (2006). There are no targets available for Skokomish, White, and Green rivers. The +* and -* symbols indicate that the population statistically significantly increased or declined, respectively, over the time period.<br />
+				<em>Source: Washington Department of Fish and Wildlife, SaSI database</em></p></blockquote>
+			<p>All Puget Sound Chinook populations are currently well below abundance levels (recovery goals) needed for populations to recover and to reduce their risk of extinction (Figure 1). Spawner abundance values often fluctuates from year to year, often with no clear linear trends. To visualize the year–to-year adult abundance estimates and the data underlying our results, please consult the &ldquo;Fish Abundance&rdquo; compiled by the Washington Department of Fish and Wildlife and report in the State of the Salmon: <a href="http://stateofsalmon.wa.gov/puget-sound/fish-populations/">http://stateofsalmon.wa.gov/puget-sound/fish-populations/</a>. </p>
+<div class="pinkBarHeader">Maps </div>
+				<h3>FIGURE 2.</h3> <h4>RIVERS WITH CHINOOK SALMON POPULATIONS</h4>
+				<img src="images/salmon_map.png" alt="Chinook salmon rivers in Puget Sound"/>
+				
 			</div>
 		</div>
 	</div>
