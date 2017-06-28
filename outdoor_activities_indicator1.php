@@ -3,12 +3,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="google-site-verification" content="lMaE6uVdAY_4P-zfoagi1Kj2QQLS8W3JvahLqMZMuDU" />
-<title>Puget Sound Partnership - Vital Signs - Swimming Beaches</title>
+<title>Puget Sound Partnership - Vital Signs - Outdoor Activities</title>
 <link href="css/vital2016.css" rel="stylesheet" type="text/css" />
 <link type="text/css" href="css/custom-theme/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" />
 <script type="text/javascript" src="js/jquery-1.8.3.js"></script>
 <script type="text/javascript" src="js/jquery-ui-1.9.2.custom.min.js"></script>
 <script type="text/javascript" src="js/settab.js"></script>
+
 <script>
 $(function() {
 		$( "#accordion" ).accordion( { collapsible: true }, { active: false }, { autoHeight: false });
@@ -23,16 +24,15 @@ $(function() {
 </script>
 <script>
 /*this variable is used to set the proper nav to active. It should to the order the nav item is in the list*/
-  	navSelected = 2;
+  	navSelected = 1;
 	color = "green";
 </script>
 </head>
 <body id="id02" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
-    <?php include 'includes/swimming_beaches-title.html' ?>
-<?php include 'includes/swimming-beaches-tab.html' ?>	
-	
+	<?php include 'includes/outdoor_activities_title.html' ?>
+	<?php include 'includes/outdoor_activities_tab.html' ?>
 	<div id="accordioncontainer">
 		<div id="accordion"> 
 			
@@ -215,6 +215,18 @@ During the 2016 swim season (Memorial Day through Labor Day), 5 of 61 of monitor
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+
+</script>
+
+<!-- Google Tracking  --> 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69373425-1', 'auto');
+  ga('send', 'pageview');
 
 </script>
 </body>

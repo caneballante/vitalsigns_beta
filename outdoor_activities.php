@@ -28,7 +28,7 @@ $(function() {
 	color = "green";
 </script>
 </head>
-<body id="oa" >
+<body id="id02" >
 <div id="container">
 	<?php include 'includes/header_test.html' ?>
 	<?php include 'includes/outdoor_activities_title.html' ?>
@@ -38,24 +38,31 @@ $(function() {
 			<!--*********************************FOLD 01*********************************-->
 			<h3><a href="#!">Importance to Puget Sound recovery</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>The Outdoor Activity Vital Sign tracks the participation of Puget Sound residents or access to nature-based recreation or work activities. Time spent outdoors provides physical, psychological, and social health benefits. There are many ways to enjoy the Puget Sound natural environment through recreational, cultural, spiritual, or occupational activities. The benefits to human health of spending time outdoors include exposure to fresh air and natural elements, physical activity, and associated mental health benefits.</p>
 			</div>
 			
 			<!--*********************************FOLD 04*********************************-->
 			<h3><a href="#!">What you can do</a></h3>
 			<div>
-				<p>Coming soon</p>
+				<p>Check back later for information and resources.</p>
 			</div>
 			
 			<!--*********************************FOLD 05*********************************-->
 			<h3><a href="#!">What our partners are doing</a></h3>
 			<div>
-				<p><a href="http://psp.wa.gov/gis/ReportCard/VitalSign/indexVSOutdoorActivity.html">View Near Term Actions helping to advance this Vital Sign</a> </p>
+				<p>Partner actions are not yet linked to this Vital Sign.</p>
 			</div>
 			<!--*********************************FOLD 06*********************************-->
 			<h3>Links for more information</h3>
 			<div>
-				<p>Coming soon</p>
+				<ul><li>Link to technical memo</li><li><a href="http://www.rco.wa.gov/recreation/scorp.shtml">State Comprehensive Recreation Planning</a></li></ul>
+
+
+
+
+
+
+
 			</div>
 		</div>
 	</div>
