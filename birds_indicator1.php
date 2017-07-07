@@ -45,9 +45,10 @@ $(function() {
 				<ol><li>Spring/summer at-sea densities of marbled murrelet, rhinoceros auklet and pigeon guillemot. These species are highly dependent on the marine environment of, and breed in, Puget Sound and Strait of Juan de Fuca.</li>
 					<li>At-sea abundance trends of scoter species that overwinter in Puget Sound and Strait of Juan de Fuca. These species are highly dependent on the marine environment of Puget Sound and the Strait of Juan de Fuca, but do not breed there.</li></ol>
 					<p>The species selected for this indicator reside in Puget Sound most, if not all, of the year. The indicator provides an integrative view of the health of species that depend upon the Puget Sound for survival, in contrast to the species being indirect indicators of something like habitat quality, contaminants, or prey.</p>
-				<p>The Washington State Department of Fish and Wildlife conducts marine bird surveys in the spring/summer months and in January for wintering birds. The spring/summer surveys are boat-based and are part of <a href="http://www.reo.gov/monitoring/reports/marbled-murrelet-reports-publications.shtml">the Northwest Forest Plan effectiveness monitoring program for the Marbled Murrelet</a>. During these surveys, observers also record other species detected. <a href="http://wdfw.wa.gov/publications/01135/">WDFW also conducts winter surveys</a> from airplanes that allow us to assess abundance and trends of scoters and other over-wintering species.</p>
-				<p>The marine bird indicator was officially endorsed by the Science Panel at their April 9, 2014 meeting. The endorsement was based on a peer-reviewed report written jointly by the Washington State Department of Fish and Wildlife and the Puget Sound Partnership. The report, titled <a href="http://www.psp.wa.gov/vitalsigns/documents/Pearson%20and%20Hamel%20Bird%20Indicators%2020 13_Final.pdf">&ldquo;Marine and Terrestrial Bird Indicators for Puget Sound,&rdquo;</a> develops, presents, and uses a transparent process to identify and evaluate potential indicators and ultimately recommend marine bird indicators. <br>
-					The peer-review process was coordinated by the Puget Sound Partnership Science Panel in 2013. The report was finalized in April of 2014. The indicators were also endorsed by the Leadership Council in January 2014. Supplemental material to the report is linked here (<a href="http://www.psp.wa.gov/vitalsigns/documents/Bird%20Indicator%20Supplementary%20material%20S1_ 2JAN13.xlsx">Bird Indicator Supplementary material S1_2JAN13</a>.)</p>
+				<p>The Washington State Department of Fish and Wildlife conducts marine bird surveys in the spring/summer months and in January for wintering birds. The spring/summer surveys are boat-based and are part of <a href="https://reo.gov/monitoring/mm-overview.shtml
+">the Northwest Forest Plan effectiveness monitoring program for the Marbled Murrelet</a>. During these surveys, observers also record other species detected. <a href="http://wdfw.wa.gov/publications/01135/">WDFW also conducts winter surveys</a> from airplanes that allow us to assess abundance and trends of scoters and other over-wintering species.</p>
+				<p>The marine bird indicator was officially endorsed by the Science Panel at their April 9, 2014 meeting. The endorsement was based on a peer-reviewed report written jointly by the Washington State Department of Fish and Wildlife and the Puget Sound Partnership. The report, titled <a href="http://www.psp.wa.gov/vitalsigns/documents/Pearson%20and%20Hamel%20Bird%20Indicators%202013_Final.pdf">&ldquo;Marine and Terrestrial Bird Indicators for Puget Sound,&rdquo;</a> develops, presents, and uses a transparent process to identify and evaluate potential indicators and ultimately recommend marine bird indicators. <br>
+					The peer-review process was coordinated by the Puget Sound Partnership Science Panel in 2013. The report was finalized in April of 2014. The indicators were also endorsed by the Leadership Council in January 2014. Supplemental material to the report is linked here (<a href="documents/Bird Indicator Supplementary material S1_2JAN13.xlsx">Bird Indicator Supplementary material S1_2JAN13</a>.)</p>
 				
 				
 				<!--*********************************PINK HEADER*********************************-->
@@ -155,7 +156,8 @@ $(function() {
 
 				<h3>FIGURE 2.</h3> 
 				<h4>RHINOCEROS AUKLET BURROW OCCUPANCY, HATCHING AND FLEDGING SUCCESS 
-					2016 COMPARED TO THE 2006-2015 MEAN (±SD) ON PROTECTION ISLAND</h4>
+					2016 COMPARED TO THE 2006-2015 MEAN (±SD) ON PROTECTION ISLAND<br />
+					<em>1975-2014</em></h4>
 
 <img src="images/birds_figure2.jpg" alt=""/> 
 			  <blockquote><p><em>Source: Washington Department of Fish and Wildlife &amp; University of Puget Sound</em></p></blockquote>
@@ -164,7 +166,8 @@ $(function() {
 	Pigeon guillemots nest in crevices among boulders, under driftwood, or in man-made structures such as a wharf or pipe, or even on cliff faces. Ongoing citizen-science monitoring by <a href="http://pigeonguillemot.org/">local Whidbey Island residents from 2008 through 2016</a> and <a href="http://www.nisquallyestuary.org/research.html">South Sound residents</a> indicates stable local populations. Local population results are consistent with the sound-wide trends in density trends obtained during the spring/summer boat-based surveys.</p>
   <p>The number of adult guillemots in the colonies nesting in the bluffs of Whidbey Island averaged 1,032 ± 33 birds. Occupied burrows, indicated by adults going into the burrow, averaged 244 ± 20 burrows. Burrows with chicks, indicated by prey delivery to the burrow, averaged 160 ± 12. These population and reproductive measures, like the sound-wide monitoring results above, suggest a stable and healthy guillemot population in the Puget Sound region. </p>
 				<h3>FIGURE 3</h3><h4>COUNTS OF ADULTS, OCCUPIED BURROWS AND BURROWS WITH CHICKS
-				2016 COMPARED TO THE 2008-2015 MEAN (±SD) ON WHIDBEY ISLAND</h4>
+				2016 COMPARED TO THE 2008-2015 MEAN (±SD) ON WHIDBEY ISLAND<br />
+				<em>2008-14</em></h4>
 
 <img src="images/birds_figure3.jpg" alt="COUNTS OF ADULTS, OCCUPIED BURROWS AND BURROWS WITH CHICKS
 				2016 COMPARED TO THE 2008-2015 MEAN (±SD) ON WHIDBEY ISLAND"/>

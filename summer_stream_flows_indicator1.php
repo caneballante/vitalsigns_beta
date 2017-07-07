@@ -71,7 +71,7 @@ $(function() {
 			
 			<h3><a href="#!">Progress summary and data</a></h3>
 			<div> 
-            <p><span><img src="images/status_getting_better.png" width="118" height="121" alt=""/>Yes, this indicator has made gains relative to the baseline reference.</span></p>
+            <p><span><img src="images/status_getting_better.png" width="118" height="121" alt=""/>Yes, this indicator has made gains relative to the baseline.</span></p>
 				<p>Yes, this indicator has made gains relative to the baseline reference.</p>
 				<p>Because the trend in summer low flow of some rivers remained consistent with the 2020 target or improved, the overall conclusion for progress is that the status improved. The drivers for this improvement have not been analyzed in detail. Weather patterns over the last several years that may have influenced the trends have included several La Niña years that produced intense winter storms with heavy snow and rain, followed by the snowpack drought year of 2015 and a fairly average hydrologic year in 2016. The overall effect appears to be trends that have changed only slightly over the last several years.</p>
 				<ul><li>Based on the trend and information for the period 1975 to 2016, 8 of 12 rivers (excluding the Elwha) met their target value. One more station is meeting the 2020 targets as compared to the period 1975 to 2011. Also, four of the stations have moved to an improved category (Nooksack, Skagit, Green, and Nisqually Rivers) while the rest have stayed the same. Therefore, this represents attainment of the 2016 interim targets and overall improvement.</li>
@@ -124,11 +124,11 @@ $(function() {
 				<h4>LONG-TERM TRENDS IN SUMMER LOW FLOWS IN 13 MAJOR RIVERS IN PUGET SOUND AND STATUS RELATIVE TO THE 2020 TARGETS<br /><em>1975-2016</em></h4>
                 <p><img src="images/ssf-t2.png" alt="LONG-TERM TRENDS IN SUMMER LOW FLOWS IN 13 MAJOR RIVERS IN PUGET SOUND AND STATUS RELATIVE TO THE 2020 TARGETS" />
                 </p>
-				<blockquote><p><strong><sup>1</sup>Status of indicator relative to 2020 target and reference: Improved (Overall)</strong></p>
+				<blockquote><p><sup>1</sup>The trend category in summer low flows for each river reflects the slope of the trend and the significance found
+by two statistical tests.</p><p><strong>Status of indicator relative to 2020 target and reference: Improved (Overall)</strong></p>
 					<ul><li>Number of rivers whose trend is consistent with the 2020 target value in both time periods: 8</li> 
 						<li>Number of rivers whose trend was inconsistent with the 2020 target value in both time periods: 4</li>  <li>Number of rivers whose trend changed to meet target: 1</li></ul>
-				  <p><sup>2</sup>The trend category in summer low flows for each river reflects the slope of the trend and the significance found
-by two statistical tests.</p></blockquote>
+				  </blockquote>
               <div>
                 
                 </div>
@@ -167,8 +167,8 @@ by two statistical tests.</p></blockquote>
 				<h3>FIGURE 2.</h3> 
 				<h4>SUMMER LOW FLOWS<br />
 					<em>1975-2014</em></h4>
-
-				<img src="images/SummerflowMap.png" width="700" height="706" alt="Trends in 30-day average summer low flow (1975-2012)" /> </div>
+<img src="images/SummerflowMap.png" width="700" height="706" alt="Trends in 30-day average summer low flow (1975-2012)" /> </div>
+				
 		</div>
 	</div>
 	<?php include 'includes/footer.html' ?>

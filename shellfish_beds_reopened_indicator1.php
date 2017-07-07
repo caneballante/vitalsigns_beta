@@ -113,11 +113,11 @@ $(function() {
 				<p> <span><img src="images/status_getting_better.png" width="118" height="121" alt=""/>Yes, this indicator has made gains relative to the baseline reference.</p>
 				<p>Because there was an overall increase in cumulative net area of harvestable shellfish beds since 2007, including from the prohibited category, the indicator is making progress toward the 2020 target. </p>
 				  <p>The shellfish growing areas in Puget Sound cover roughly 225,000 acres. About 84% (189 ,000 acres) of the shellfish growing areas are suitable for harvest.</p>
-				  <p>Since 2007 (the baseline reference), more acres of shellfish beds were upgraded than downgraded across all classifications, resulting in a net increase of  4,803 acres of harvestable shellfish beds ( 10,372 acres gain,  5,569 acres loss). During the same time period, a net 4,53 0 acres of shellfish beds were upgraded from the &ldquo;prohibited&rdquo; classification (4,745 acres upgraded minus 21 5 acres downgraded to &ldquo;prohibited&rdquo;). </p>
+				  <p>Since 2007 (the baseline reference), more acres of shellfish beds were upgraded than downgraded across all classifications, resulting in a net increase of  4,803 acres of harvestable shellfish beds (10,372 acres gain,  5,569 acres loss). During the same time period, a net 4,530 acres of shellfish beds were upgraded from the &ldquo;prohibited&rdquo; classification (4,745 acres upgraded minus 21 5 acres downgraded to &ldquo;prohibited&rdquo;). </p>
 				  <p>The upgrades in growing area classifications since 2007 were dramatically offset by the 2011 downgrade of the Samish Bay shellfish growing area (4,037 acres), impacting the overall net acreage gained and slowing progress toward the 2020 target.</p>
-			    <p>The current net increase in harvestable shellfish area is 4 4% of the 2020 target. </p>
+			    <p>The current net increase in harvestable shellfish area is 44% of the 2020 target. </p>
 <h5>Did the indicator meet its 2016 interim target?</h5>
-                <p>No, this indicator did not meet its 2014 interim target.</p>
+                <p>No, this indicator did not meet its 2016 interim target.</p>
                 
                 <h3>
 					TABLE 1.</h3> 

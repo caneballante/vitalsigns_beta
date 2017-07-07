@@ -115,7 +115,8 @@ $(function() {
 				<div class="aquaBarHeader">Latest Data</div>
 				<h3>FIGURE 1.</h3> <h4>MARINE SEDIMENT QUALITY TRIAD INDEX VALUES FOR EIGHT PUGET SOUND REGIONS<br />
 				<em>1997 to 2014, time period varies</em></h4>
-				<img src="images/marine-sediment-sqti1.png" />
+								<img src="images/marine-sediment-sqti1.png" />
+
 				<blockquote><p><em>Source: Washington State Department of Ecology, Marine Sediment Monitoring Team</em></p></blockquote>
 				<h3>FIGURE 2.</h3> <h4>MARINE SEDIMENT QUALITY TRIAD INDEX VALUES FOR SIX PUGET SOUND URBAN BAYS<br />
 				<em>1997 to 2015, time period varies</em></h4>

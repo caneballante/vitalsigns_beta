@@ -59,8 +59,7 @@ $(function() {
 				
 				<!--*********************************PINK HEADER*********************************-->
 				<div class="pinkBarHeader">What are the targets?</div>
-				<p>Is the indicator making progress toward the 2020 target?</p>
-				<h5>&nbsp;</h5>
+				<h5>Is the indicator making progress toward the 2020 target?				</h5>
 				<p>There are no targets for this Vital Sign</p>
 				<h5>Interim targets</h5>
 				<p>There currently are no interim targets for this Vital Sign.</p>

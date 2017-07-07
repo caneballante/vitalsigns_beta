@@ -53,9 +53,8 @@ $(function() {
 				<h5>2020 target</h5>
 				<p>By 2020, achieve an end-of-year census of 95 individual Southern Resident Killer Whales, which would represent a 1 percent annual average growth rate from 2010 to 2020.</p>
 <h5>Interim targets</h5>
-				<p><a href="Link to interim targets (PDF)">Link to interim targets (PDF)</a><br />
-					2014 interim target:<br />
-					End-of-year census of 89 individual Southern Resident Killer Whales.</p>
+				<p><a href="http://www.psp.wa.gov/downloads/interimtargets/Orcas%20Interim%20Targets%20-%20FINAL.pdf">Link to interim targets (PDF)</a><br />
+				</p>
 			</div>
 			
 			<!--*********************************FOLD 03*********************************-->
@@ -120,7 +119,7 @@ $(function() {
 			  <p>At the pod level, the long-term population growth rate (from 1979 and 2010) is slightly lower for J and K pods combined (~2%) than for L pod (~1%). L pod is the largest of all pods. However, this pod has been in decline since the early 1990s.</p>
 			  <p>The other two pods, J and K, are roughly the same size. Both J and K pods are growing, with J pod increasing more rapidly than K pod. This is likely due to the limited reproductive potential in K and L pods. Indeed, the sex ratio of K and L pods is skewed toward males. The lack of reproductive females, poor survival of calves, and factors associated with small population sizes such as inbreeding, along with human-caused threats, are a concern for the viability of this population.</p>
 			  <p>J pod is also the pod that spends the most time in Puget Sound compared to the other two. The fact that Southern Resident Killer Whales only spend part of their lives in Puget Sound, and that the pod that spends the least time in Puget Sound has the steepest decline, suggests that the whales are impacted by conditions outside of Puget Sound.</p>
-			  <p>Although the Southern Resident Killer Whale population&rsquo;s long-term trend for population growth meets the growth rate target, the 2014 interim target was not met, and the population growth rate does not meet the legal recovery criteria to delist the Southern Resident Killer Whales from the Endangered list (i.e., meeting an average growth rate of 2.3% per year for 28 years).</p>
+			  <p>Although the Southern Resident Killer Whale population&rsquo;s long-term trend for population growth meets the growth rate target, the 2016 interim target was not met, and the population growth rate does not meet the legal recovery criteria to delist the Southern Resident Killer Whales from the Endangered list (i.e., meeting an average growth rate of 2.3% per year for 28 years).</p>
 			  <p>Restoration of this population of long-lived, slow-reproducing killer whales is a long-term effort that requires cooperation and coordination of West Coast communities from California to British Columbia. It will take many years to fill key data gaps and assess the effectiveness of ongoing recovery actions for the whales, salmon, and their habitat, and to observe significant increases in the Southern Resident population.</p>
 </div>
 		</div>
